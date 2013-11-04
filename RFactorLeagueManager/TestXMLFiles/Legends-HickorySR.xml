@@ -1,0 +1,2068 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Race Weekend</Setting>
+<PlayerFile>Richard Matthews</PlayerFile>
+<DateTime>1367133414</DateTime>
+<TimeString>2013/04/28 00:16:54</TimeString>
+<Mod>NALCRA.rfm</Mod>
+<Season></Season>
+<TrackVenue>JNS Legends Tracks</TrackVenue>
+<TrackCourse>Hickory Legends</TrackCourse>
+<TrackEvent>JNS Hickory Legends</TrackEvent>
+<TrackLength>576.4</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>25</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>2</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|NALCRA</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1367133843</DateTime>
+<TimeString>2013/04/28 00:24:03</TimeString>
+<Laps>25</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="16.9">Max Zachem(2) lap=0 point=1 t=-1.000 et=16.829</Score>
+<Score et="17.9">Richard Matthews(0) lap=0 point=1 t=-1.000 et=17.835</Score>
+<Score et="19.2">Simo Pukka(7) lap=0 point=1 t=-1.000 et=19.185</Score>
+<Score et="19.4">Jesse Bunnell(4) lap=0 point=1 t=-1.000 et=19.328</Score>
+<Score et="20.6">Marja Koel(10) lap=0 point=1 t=-1.000 et=20.603</Score>
+<Score et="20.7">Matt Johnson(3) lap=0 point=1 t=-1.000 et=20.678</Score>
+<Score et="22.0">Nicholas Angel(6) lap=0 point=1 t=-1.000 et=21.915</Score>
+<Score et="22.0">James Conway(15) lap=0 point=1 t=-1.000 et=21.903</Score>
+<Score et="23.1">Keijo Hiili(13) lap=0 point=1 t=-1.000 et=23.096</Score>
+<Score et="23.2">Frank Morris(12) lap=0 point=1 t=-1.000 et=23.153</Score>
+<Score et="24.3">Fabrizio Telasio(5) lap=0 point=1 t=-1.000 et=24.237</Score>
+<Score et="24.3">David Manning(8) lap=0 point=1 t=-1.000 et=24.278</Score>
+<Score et="25.4">Joshua Grouseman(9) lap=0 point=1 t=-1.000 et=25.329</Score>
+<Score et="25.4">JC Pommier(14) lap=0 point=1 t=-1.000 et=25.361</Score>
+<Score et="26.4">Bob Weymouth(1) lap=0 point=1 t=-1.000 et=26.353</Score>
+<Score et="26.4">Travis Bickle(11) lap=0 point=1 t=-1.000 et=26.378</Score>
+<Score et="28.9">Max Zachem(2) lap=0 point=2 t=-1.000 et=28.853</Score>
+<Score et="28.9">Richard Matthews(0) lap=0 point=2 t=-1.000 et=28.913</Score>
+<Score et="29.3">Jesse Bunnell(4) lap=0 point=2 t=-1.000 et=29.293</Score>
+<Score et="29.5">Simo Pukka(7) lap=0 point=2 t=-1.000 et=29.519</Score>
+<Score et="30.1">Marja Koel(10) lap=0 point=2 t=-1.000 et=30.111</Score>
+<Score et="30.5">Matt Johnson(3) lap=0 point=2 t=-1.000 et=30.503</Score>
+<Score et="31.4">James Conway(15) lap=0 point=2 t=-1.000 et=31.378</Score>
+<Score et="31.7">Nicholas Angel(6) lap=0 point=2 t=-1.000 et=31.684</Score>
+<Score et="32.6">Keijo Hiili(13) lap=0 point=2 t=-1.000 et=32.570</Score>
+<Score et="32.9">Frank Morris(12) lap=0 point=2 t=-1.000 et=32.920</Score>
+<Score et="33.8">David Manning(8) lap=0 point=2 t=-1.000 et=33.769</Score>
+<Score et="34.0">Fabrizio Telasio(5) lap=0 point=2 t=-1.000 et=33.928</Score>
+<Score et="34.7">Joshua Grouseman(9) lap=0 point=2 t=-1.000 et=34.697</Score>
+<Score et="35.0">JC Pommier(14) lap=0 point=2 t=-1.000 et=35.003</Score>
+<Score et="35.7">Travis Bickle(11) lap=0 point=2 t=-1.000 et=35.683</Score>
+<Score et="35.9">Bob Weymouth(1) lap=0 point=2 t=-1.000 et=35.832</Score>
+<Score et="36.7">Jesse Bunnell(4) lap=0 point=0 t=-1.000 et=36.703</Score>
+<Score et="36.8">Richard Matthews(0) lap=0 point=0 t=-1.000 et=36.803</Score>
+<Score et="36.9">Max Zachem(2) lap=0 point=0 t=-1.000 et=36.903</Score>
+<Score et="37.0">Marja Koel(10) lap=0 point=0 t=-1.000 et=36.991</Score>
+<Score et="37.1">Simo Pukka(7) lap=0 point=0 t=-1.000 et=37.103</Score>
+<Score et="37.6">Matt Johnson(3) lap=0 point=0 t=-1.000 et=37.541</Score>
+<Incident et="37.7">Marja Koel(10) reported contact (0.10) with another vehicle Max Zachem(2)</Incident>
+<Score et="38.0">James Conway(15) lap=0 point=0 t=-1.000 et=37.995</Score>
+<Score et="38.5">Nicholas Angel(6) lap=0 point=0 t=-1.000 et=38.430</Score>
+<Score et="39.0">Keijo Hiili(13) lap=0 point=0 t=-1.000 et=38.978</Score>
+<Score et="39.5">Frank Morris(12) lap=0 point=0 t=-1.000 et=39.479</Score>
+<Score et="40.0">Jesse Bunnell(4) lap=0 point=1 t=3.265 et=39.968</Score>
+<Incident et="40.0">Marja Koel(10) reported contact (0.45) with another vehicle Matt Johnson(3)</Incident>
+<Incident et="40.0">Matt Johnson(3) reported contact (0.39) with Part</Incident>
+<Score et="40.1">David Manning(8) lap=0 point=0 t=-1.000 et=40.037</Score>
+<Score et="40.3">Richard Matthews(0) lap=0 point=1 t=3.425 et=40.228</Score>
+<Score et="40.3">Max Zachem(2) lap=0 point=1 t=3.375 et=40.278</Score>
+<Score et="40.4">Fabrizio Telasio(5) lap=0 point=0 t=-1.000 et=40.409</Score>
+<Incident et="40.5">James Conway(15) reported contact (0.16) with another vehicle Marja Koel(10)</Incident>
+<Score et="40.5">Simo Pukka(7) lap=0 point=1 t=3.396 et=40.499</Score>
+<Score et="40.9">Joshua Grouseman(9) lap=0 point=0 t=-1.000 et=40.865</Score>
+<Score et="41.3">JC Pommier(14) lap=0 point=0 t=-1.000 et=41.303</Score>
+<Score et="41.5">James Conway(15) lap=0 point=1 t=3.450 et=41.445</Score>
+<Score et="41.5">Matt Johnson(3) lap=0 point=1 t=3.972 et=41.512</Score>
+<Score et="41.7">Yellow flag state 0-&gt;1</Score>
+<Score et="41.9">Travis Bickle(11) lap=0 point=0 t=-1.000 et=41.891</Score>
+<Score et="42.2">Bob Weymouth(1) lap=0 point=0 t=-1.000 et=42.170</Score>
+<Score et="42.3">Keijo Hiili(13) lap=0 point=1 t=3.296 et=42.274</Score>
+<Incident et="42.5">David Manning(8) reported contact (0.45) with another vehicle Frank Morris(12)</Incident>
+<Score et="42.6">Nicholas Angel(6) lap=0 point=1 t=4.174 et=42.603</Score>
+<Score et="43.8">David Manning(8) lap=0 point=1 t=3.695 et=43.732</Score>
+<Score et="43.9">Frank Morris(12) lap=0 point=1 t=4.378 et=43.857</Score>
+<Score et="43.9">Fabrizio Telasio(5) lap=0 point=1 t=3.483 et=43.892</Score>
+<Score et="44.2">Joshua Grouseman(9) lap=0 point=1 t=3.313 et=44.178</Score>
+<Incident et="44.7">Frank Morris(12) reported contact (1.00) with Immovable</Incident>
+<Score et="44.7">JC Pommier(14) lap=0 point=1 t=3.400 et=44.703</Score>
+<Score et="45.2">Travis Bickle(11) lap=0 point=1 t=3.237 et=45.128</Score>
+<Score et="45.5">Bob Weymouth(1) lap=0 point=1 t=3.309 et=45.479</Score>
+<Score et="47.6">Jesse Bunnell(4) lap=0 point=2 t=10.901 et=47.604</Score>
+<Score et="48.3">Simo Pukka(7) lap=0 point=2 t=11.144 et=48.247</Score>
+<Score et="48.6">Max Zachem(2) lap=0 point=2 t=11.625 et=48.528</Score>
+<Score et="48.8">Richard Matthews(0) lap=0 point=2 t=11.958 et=48.761</Score>
+<Score et="49.6">Matt Johnson(3) lap=0 point=2 t=12.070 et=49.611</Score>
+<Score et="50.4">Keijo Hiili(13) lap=0 point=2 t=11.360 et=50.338</Score>
+<Score et="50.7">Marja Koel(10) lap=0 point=1 t=13.617 et=50.608</Score>
+<Score et="51.0">Nicholas Angel(6) lap=0 point=2 t=12.584 et=51.014</Score>
+<Score et="52.3">David Manning(8) lap=0 point=2 t=12.199 et=52.236</Score>
+<Score et="52.5">Fabrizio Telasio(5) lap=0 point=2 t=12.018 et=52.428</Score>
+<Score et="52.8">James Conway(15) lap=0 point=2 t=14.758 et=52.753</Score>
+<Score et="53.0">Joshua Grouseman(9) lap=0 point=2 t=12.070 et=52.935</Score>
+<Score et="53.1">JC Pommier(14) lap=0 point=2 t=11.775 et=53.078</Score>
+<Score et="53.4">Travis Bickle(11) lap=0 point=2 t=11.437 et=53.328</Score>
+<Score et="53.4">Bob Weymouth(1) lap=0 point=2 t=11.208 et=53.378</Score>
+<Score et="53.7">Jesse Bunnell(4) lap=1 point=0 t=17.017 et=53.720</Score>
+<Score et="53.8">Yellow flag state 1-&gt;2</Score>
+<Score et="54.4">Simo Pukka(7) lap=1 point=0 t=17.280 et=54.383</Score>
+<Score et="54.7">Max Zachem(2) lap=1 point=0 t=17.782 et=54.685</Score>
+<Score et="54.9">Richard Matthews(0) lap=1 point=0 t=18.063 et=54.866</Score>
+<Incident et="56.0">Richard Matthews(0) reported contact (0.06) with another vehicle Max Zachem(2)</Incident>
+<Score et="56.1">Matt Johnson(3) lap=1 point=0 t=18.487 et=56.028</Score>
+<Score et="56.7">Keijo Hiili(13) lap=1 point=0 t=17.740 et=56.718</Score>
+<Score et="57.4">Nicholas Angel(6) lap=1 point=0 t=18.973 et=57.403</Score>
+<Score et="58.6">David Manning(8) lap=1 point=0 t=18.585 et=58.622</Score>
+<Score et="58.9">Fabrizio Telasio(5) lap=1 point=0 t=18.443 et=58.853</Score>
+<Score et="59.2">James Conway(15) lap=1 point=0 t=21.184 et=59.179</Score>
+<Score et="59.4">Joshua Grouseman(9) lap=1 point=0 t=18.476 et=59.341</Score>
+<Score et="59.6">JC Pommier(14) lap=1 point=0 t=18.252 et=59.555</Score>
+<Score et="59.7">Travis Bickle(11) lap=1 point=0 t=17.787 et=59.678</Score>
+<Score et="59.9">Bob Weymouth(1) lap=1 point=0 t=17.708 et=59.878</Score>
+<Score et="60.2">Marja Koel(10) lap=0 point=2 t=23.194 et=60.184</Score>
+<Score et="60.4">Simo Pukka(7) lap=1 point=1 t=5.970 et=60.353</Score>
+<Score et="60.7">Frank Morris(12) lap=0 point=2 t=21.169 et=60.648</Score>
+<Score et="60.8">Max Zachem(2) lap=1 point=1 t=6.068 et=60.753</Score>
+<Score et="61.1">Richard Matthews(0) lap=1 point=1 t=6.162 et=61.028</Score>
+<Score et="61.2">Jesse Bunnell(4) lap=1 point=1 t=7.438 et=61.158</Score>
+<Score et="61.8">Matt Johnson(3) lap=1 point=1 t=5.750 et=61.778</Score>
+<Score et="62.4">Keijo Hiili(13) lap=1 point=1 t=5.684 et=62.403</Score>
+<Score et="63.4">Nicholas Angel(6) lap=1 point=1 t=5.900 et=63.303</Score>
+<Score et="64.4">David Manning(8) lap=1 point=1 t=5.706 et=64.328</Score>
+<Score et="64.9">Fabrizio Telasio(5) lap=1 point=1 t=5.953 et=64.806</Score>
+<Score et="65.4">James Conway(15) lap=1 point=1 t=6.149 et=65.328</Score>
+<Score et="65.9">Joshua Grouseman(9) lap=1 point=1 t=6.487 et=65.828</Score>
+<Score et="66.4">JC Pommier(14) lap=1 point=1 t=6.773 et=66.328</Score>
+<Score et="66.6">Marja Koel(10) lap=1 point=0 t=29.516 et=66.506</Score>
+<Score et="66.6">Travis Bickle(11) lap=1 point=1 t=6.925 et=66.603</Score>
+<Score et="67.0">Bob Weymouth(1) lap=1 point=1 t=7.050 et=66.928</Score>
+<Score et="67.0">Frank Morris(12) lap=1 point=0 t=27.543 et=67.021</Score>
+<Score et="70.6">Marja Koel(10) lap=1 point=1 t=4.076 et=70.583</Score>
+<Score et="71.1">Frank Morris(12) lap=1 point=1 t=4.088 et=71.109</Score>
+<Score et="82.6">Jesse Bunnell(4) lap=1 point=2 t=28.858 et=82.578</Score>
+<Score et="82.8">Simo Pukka(7) lap=1 point=2 t=28.395 et=82.778</Score>
+<Score et="83.5">Max Zachem(2) lap=1 point=2 t=28.752 et=83.437</Score>
+<Score et="84.0">Richard Matthews(0) lap=1 point=2 t=29.062 et=83.928</Score>
+<Score et="84.4">Matt Johnson(3) lap=1 point=2 t=28.375 et=84.403</Score>
+<Score et="85.0">Keijo Hiili(13) lap=1 point=2 t=28.237 et=84.955</Score>
+<Score et="85.5">Nicholas Angel(6) lap=1 point=2 t=28.075 et=85.478</Score>
+<Score et="86.0">David Manning(8) lap=1 point=2 t=27.345 et=85.967</Score>
+<Score et="86.5">Fabrizio Telasio(5) lap=1 point=2 t=27.625 et=86.478</Score>
+<Score et="87.1">James Conway(15) lap=1 point=2 t=27.862 et=87.042</Score>
+<Score et="87.7">Joshua Grouseman(9) lap=1 point=2 t=28.312 et=87.653</Score>
+<Score et="88.2">JC Pommier(14) lap=1 point=2 t=28.662 et=88.216</Score>
+<Score et="88.8">Travis Bickle(11) lap=1 point=2 t=29.137 et=88.815</Score>
+<Score et="89.4">Bob Weymouth(1) lap=1 point=2 t=29.525 et=89.403</Score>
+<Score et="90.0">Marja Koel(10) lap=1 point=2 t=23.433 et=89.939</Score>
+<Score et="90.5">Frank Morris(12) lap=1 point=2 t=23.481 et=90.503</Score>
+<Score et="97.1">Jesse Bunnell(4) lap=2 point=0 t=43.358 et=97.078</Score>
+<Score et="97.6">Simo Pukka(7) lap=2 point=0 t=43.148 et=97.531</Score>
+<Score et="98.1">Max Zachem(2) lap=2 point=0 t=43.320 et=98.005</Score>
+<Score et="98.5">Richard Matthews(0) lap=2 point=0 t=43.615 et=98.482</Score>
+<Score et="98.9">Matt Johnson(3) lap=2 point=0 t=42.853 et=98.881</Score>
+<Score et="99.5">Keijo Hiili(13) lap=2 point=0 t=42.734 et=99.453</Score>
+<Score et="100.0">Nicholas Angel(6) lap=2 point=0 t=42.600 et=100.003</Score>
+<Score et="100.6">David Manning(8) lap=2 point=0 t=41.905 et=100.528</Score>
+<Score et="101.1">Fabrizio Telasio(5) lap=2 point=0 t=42.225 et=101.078</Score>
+<Score et="101.4">Yellow flag state 2-&gt;3</Score>
+<Score et="101.7">James Conway(15) lap=2 point=0 t=42.449 et=101.628</Score>
+<Score et="102.2">Joshua Grouseman(9) lap=2 point=0 t=42.792 et=102.133</Score>
+<Score et="102.6">JC Pommier(14) lap=2 point=0 t=43.057 et=102.611</Score>
+<Score et="103.2">Travis Bickle(11) lap=2 point=0 t=43.485 et=103.163</Score>
+<Score et="103.8">Bob Weymouth(1) lap=2 point=0 t=43.851 et=103.729</Score>
+<Score et="104.3">Marja Koel(10) lap=2 point=0 t=37.776 et=104.282</Score>
+<Score et="104.8">Frank Morris(12) lap=2 point=0 t=37.781 et=104.803</Score>
+<Score et="104.9">Jesse Bunnell(4) lap=2 point=1 t=7.800 et=104.878</Score>
+<Score et="105.4">Simo Pukka(7) lap=2 point=1 t=7.796 et=105.328</Score>
+<Score et="105.8">Max Zachem(2) lap=2 point=1 t=7.772 et=105.778</Score>
+<Score et="106.3">Richard Matthews(0) lap=2 point=1 t=7.796 et=106.278</Score>
+<Score et="106.8">Matt Johnson(3) lap=2 point=1 t=7.872 et=106.753</Score>
+<Score et="107.3">Keijo Hiili(13) lap=2 point=1 t=7.850 et=107.303</Score>
+<Score et="107.9">Nicholas Angel(6) lap=2 point=1 t=7.850 et=107.853</Score>
+<Score et="108.4">David Manning(8) lap=2 point=1 t=7.850 et=108.378</Score>
+<Score et="108.9">Fabrizio Telasio(5) lap=2 point=1 t=7.825 et=108.903</Score>
+<Score et="109.4">James Conway(15) lap=2 point=1 t=7.759 et=109.387</Score>
+<Score et="109.9">Joshua Grouseman(9) lap=2 point=1 t=7.756 et=109.889</Score>
+<Score et="110.4">JC Pommier(14) lap=2 point=1 t=7.726 et=110.337</Score>
+<Score et="110.9">Travis Bickle(11) lap=2 point=1 t=7.670 et=110.833</Score>
+<Score et="111.3">Bob Weymouth(1) lap=2 point=1 t=7.549 et=111.278</Score>
+<Score et="111.8">Marja Koel(10) lap=2 point=1 t=7.496 et=111.778</Score>
+<Score et="112.3">Frank Morris(12) lap=2 point=1 t=7.450 et=112.253</Score>
+<Score et="123.8">Jesse Bunnell(4) lap=2 point=2 t=26.683 et=123.761</Score>
+<Score et="124.3">Simo Pukka(7) lap=2 point=2 t=26.721 et=124.253</Score>
+<Score et="124.7">Max Zachem(2) lap=2 point=2 t=26.704 et=124.709</Score>
+<Score et="125.3">Richard Matthews(0) lap=2 point=2 t=26.773 et=125.255</Score>
+<Score et="125.7">Matt Johnson(3) lap=2 point=2 t=26.751 et=125.632</Score>
+<Score et="126.2">Keijo Hiili(13) lap=2 point=2 t=26.650 et=126.103</Score>
+<Score et="126.6">Nicholas Angel(6) lap=2 point=2 t=26.575 et=126.578</Score>
+<Score et="127.1">David Manning(8) lap=2 point=2 t=26.507 et=127.035</Score>
+<Score et="127.6">Fabrizio Telasio(5) lap=2 point=2 t=26.450 et=127.528</Score>
+<Score et="128.0">James Conway(15) lap=2 point=2 t=26.358 et=127.986</Score>
+<Score et="128.5">Joshua Grouseman(9) lap=2 point=2 t=26.304 et=128.437</Score>
+<Score et="129.0">JC Pommier(14) lap=2 point=2 t=26.302 et=128.913</Score>
+<Score et="129.4">Travis Bickle(11) lap=2 point=2 t=26.197 et=129.361</Score>
+<Score et="129.9">Bob Weymouth(1) lap=2 point=2 t=26.099 et=129.828</Score>
+<Score et="130.4">Marja Koel(10) lap=2 point=2 t=26.073 et=130.355</Score>
+<Score et="130.9">Frank Morris(12) lap=2 point=2 t=26.100 et=130.903</Score>
+<Score et="138.7">Jesse Bunnell(4) lap=3 point=0 t=41.602 et=138.680</Score>
+<Score et="139.2">Simo Pukka(7) lap=3 point=0 t=41.629 et=139.161</Score>
+<Score et="139.7">Max Zachem(2) lap=3 point=0 t=41.622 et=139.628</Score>
+<Score et="140.2">Richard Matthews(0) lap=3 point=0 t=41.721 et=140.203</Score>
+<Score et="140.6">Matt Johnson(3) lap=3 point=0 t=41.697 et=140.578</Score>
+<Score et="141.2">Keijo Hiili(13) lap=3 point=0 t=41.700 et=141.153</Score>
+<Score et="141.7">Nicholas Angel(6) lap=3 point=0 t=41.700 et=141.703</Score>
+<Score et="142.3">David Manning(8) lap=3 point=0 t=41.725 et=142.253</Score>
+<Score et="142.9">Fabrizio Telasio(5) lap=3 point=0 t=41.775 et=142.853</Score>
+<Score et="143.0">Yellow flag state 3-&gt;4</Score>
+<Score et="143.5">James Conway(15) lap=3 point=0 t=41.831 et=143.459</Score>
+<Score et="144.1">Joshua Grouseman(9) lap=3 point=0 t=41.970 et=144.103</Score>
+<Score et="144.7">JC Pommier(14) lap=3 point=0 t=42.092 et=144.703</Score>
+<Score et="145.4">Travis Bickle(11) lap=3 point=0 t=42.140 et=145.303</Score>
+<Score et="145.9">Bob Weymouth(1) lap=3 point=0 t=42.155 et=145.884</Score>
+<Score et="146.5">Jesse Bunnell(4) lap=3 point=1 t=7.798 et=146.478</Score>
+<Score et="146.5">Marja Koel(10) lap=3 point=0 t=42.196 et=146.478</Score>
+<Score et="147.0">Simo Pukka(7) lap=3 point=1 t=7.767 et=146.928</Score>
+<Score et="147.1">Frank Morris(12) lap=3 point=0 t=42.258 et=147.061</Score>
+<Score et="147.4">Max Zachem(2) lap=3 point=1 t=7.751 et=147.379</Score>
+<Score et="147.9">Richard Matthews(0) lap=3 point=1 t=7.684 et=147.887</Score>
+<Score et="148.3">Matt Johnson(3) lap=3 point=1 t=7.700 et=148.278</Score>
+<Score et="148.8">Keijo Hiili(13) lap=3 point=1 t=7.659 et=148.812</Score>
+<Score et="149.5">Nicholas Angel(6) lap=3 point=1 t=7.725 et=149.428</Score>
+<Score et="150.0">David Manning(8) lap=3 point=1 t=7.682 et=149.935</Score>
+<Score et="150.5">Fabrizio Telasio(5) lap=3 point=1 t=7.625 et=150.478</Score>
+<Score et="151.0">James Conway(15) lap=3 point=1 t=7.544 et=151.003</Score>
+<Score et="151.6">Joshua Grouseman(9) lap=3 point=1 t=7.455 et=151.557</Score>
+<Score et="152.1">JC Pommier(14) lap=3 point=1 t=7.325 et=152.028</Score>
+<Score et="152.6">Travis Bickle(11) lap=3 point=1 t=7.283 et=152.586</Score>
+<Score et="153.2">Bob Weymouth(1) lap=3 point=1 t=7.244 et=153.128</Score>
+<Score et="153.7">Marja Koel(10) lap=3 point=1 t=7.150 et=153.628</Score>
+<Score et="154.2">Frank Morris(12) lap=3 point=1 t=7.076 et=154.137</Score>
+<Score et="165.4">Jesse Bunnell(4) lap=3 point=2 t=26.727 et=165.407</Score>
+<Score et="165.9">Simo Pukka(7) lap=3 point=2 t=26.742 et=165.903</Score>
+<Score et="166.4">Max Zachem(2) lap=3 point=2 t=26.726 et=166.353</Score>
+<Score et="166.9">Richard Matthews(0) lap=3 point=2 t=26.685 et=166.888</Score>
+<Score et="167.3">Matt Johnson(3) lap=3 point=2 t=26.679 et=167.257</Score>
+<Score et="167.8">Keijo Hiili(13) lap=3 point=2 t=26.625 et=167.778</Score>
+<Score et="168.2">Nicholas Angel(6) lap=3 point=2 t=26.509 et=168.212</Score>
+<Score et="168.8">David Manning(8) lap=3 point=2 t=26.475 et=168.728</Score>
+<Score et="169.2">Fabrizio Telasio(5) lap=3 point=2 t=26.336 et=169.189</Score>
+<Score et="169.7">James Conway(15) lap=3 point=2 t=26.169 et=169.628</Score>
+<Score et="170.1">Joshua Grouseman(9) lap=3 point=2 t=25.925 et=170.028</Score>
+<Score et="170.5">JC Pommier(14) lap=3 point=2 t=25.781 et=170.483</Score>
+<Score et="170.9">Travis Bickle(11) lap=3 point=2 t=25.600 et=170.903</Score>
+<Score et="171.4">Bob Weymouth(1) lap=3 point=2 t=25.475 et=171.359</Score>
+<Score et="171.9">Marja Koel(10) lap=3 point=2 t=25.350 et=171.828</Score>
+<Score et="172.4">Frank Morris(12) lap=3 point=2 t=25.267 et=172.328</Score>
+<Score et="180.3">Jesse Bunnell(4) lap=4 point=0 t=41.623 et=180.303</Score>
+<Score et="180.8">Simo Pukka(7) lap=4 point=0 t=41.593 et=180.754</Score>
+<Score et="181.3">Max Zachem(2) lap=4 point=0 t=41.601 et=181.229</Score>
+<Score et="181.9">Richard Matthews(0) lap=4 point=0 t=41.700 et=181.903</Score>
+<Score et="182.5">Matt Johnson(3) lap=4 point=0 t=41.900 et=182.478</Score>
+<Score et="183.1">Keijo Hiili(13) lap=4 point=0 t=41.950 et=183.103</Score>
+<Score et="183.7">Nicholas Angel(6) lap=4 point=0 t=42.000 et=183.703</Score>
+<Score et="184.3">David Manning(8) lap=4 point=0 t=42.035 et=184.288</Score>
+<Score et="184.9">Fabrizio Telasio(5) lap=4 point=0 t=42.004 et=184.857</Score>
+<Score et="185.5">James Conway(15) lap=4 point=0 t=41.969 et=185.428</Score>
+<Score et="186.0">Joshua Grouseman(9) lap=4 point=0 t=41.875 et=185.978</Score>
+<Score et="186.6">JC Pommier(14) lap=4 point=0 t=41.825 et=186.528</Score>
+<Score et="187.1">Travis Bickle(11) lap=4 point=0 t=41.750 et=187.053</Score>
+<Score et="187.6">Bob Weymouth(1) lap=4 point=0 t=41.654 et=187.538</Score>
+<Score et="188.1">Marja Koel(10) lap=4 point=0 t=41.575 et=188.053</Score>
+<Score et="188.1">Jesse Bunnell(4) lap=4 point=1 t=7.781 et=188.084</Score>
+<Score et="188.6">Simo Pukka(7) lap=4 point=1 t=7.780 et=188.534</Score>
+<Score et="188.6">Frank Morris(12) lap=4 point=0 t=41.496 et=188.557</Score>
+<Score et="189.0">Max Zachem(2) lap=4 point=1 t=7.774 et=189.003</Score>
+<Score et="189.6">Richard Matthews(0) lap=4 point=1 t=7.664 et=189.567</Score>
+<Score et="190.0">Matt Johnson(3) lap=4 point=1 t=7.476 et=189.954</Score>
+<Score et="190.4">Keijo Hiili(13) lap=4 point=1 t=7.300 et=190.403</Score>
+<Score et="191.0">Nicholas Angel(6) lap=4 point=1 t=7.225 et=190.928</Score>
+<Score et="191.4">David Manning(8) lap=4 point=1 t=7.090 et=191.378</Score>
+<Score et="191.9">Fabrizio Telasio(5) lap=4 point=1 t=6.971 et=191.828</Score>
+<Score et="192.3">James Conway(15) lap=4 point=1 t=6.851 et=192.278</Score>
+<Score et="192.8">Joshua Grouseman(9) lap=4 point=1 t=6.775 et=192.753</Score>
+<Score et="193.3">JC Pommier(14) lap=4 point=1 t=6.700 et=193.228</Score>
+<Score et="193.7">Travis Bickle(11) lap=4 point=1 t=6.606 et=193.659</Score>
+<Score et="194.2">Bob Weymouth(1) lap=4 point=1 t=6.640 et=194.178</Score>
+<Score et="194.7">Marja Koel(10) lap=4 point=1 t=6.600 et=194.653</Score>
+<Score et="195.1">Frank Morris(12) lap=4 point=1 t=6.557 et=195.113</Score>
+<Score et="207.1">Jesse Bunnell(4) lap=4 point=2 t=26.750 et=207.053</Score>
+<Score et="207.5">Simo Pukka(7) lap=4 point=2 t=26.761 et=207.515</Score>
+<Score et="208.0">Max Zachem(2) lap=4 point=2 t=26.774 et=208.003</Score>
+<Score et="208.6">Richard Matthews(0) lap=4 point=2 t=26.637 et=208.540</Score>
+<Score et="209.0">Matt Johnson(3) lap=4 point=2 t=26.500 et=208.978</Score>
+<Score et="209.5">Keijo Hiili(13) lap=4 point=2 t=26.409 et=209.512</Score>
+<Score et="210.0">Nicholas Angel(6) lap=4 point=2 t=26.277 et=209.979</Score>
+<Score et="210.5">David Manning(8) lap=4 point=2 t=26.215 et=210.503</Score>
+<Score et="211.0">Fabrizio Telasio(5) lap=4 point=2 t=26.121 et=210.978</Score>
+<Score et="211.5">James Conway(15) lap=4 point=2 t=26.028 et=211.456</Score>
+<Score et="212.0">Joshua Grouseman(9) lap=4 point=2 t=25.975 et=211.953</Score>
+<Score et="212.5">JC Pommier(14) lap=4 point=2 t=25.900 et=212.428</Score>
+<Score et="212.9">Travis Bickle(11) lap=4 point=2 t=25.857 et=212.910</Score>
+<Score et="213.4">Bob Weymouth(1) lap=4 point=2 t=25.840 et=213.378</Score>
+<Score et="213.9">Marja Koel(10) lap=4 point=2 t=25.800 et=213.853</Score>
+<Score et="214.4">Frank Morris(12) lap=4 point=2 t=25.834 et=214.391</Score>
+<Score et="222.0">Jesse Bunnell(4) lap=5 point=0 t=41.625 et=221.928</Score>
+<Score et="222.4">Simo Pukka(7) lap=5 point=0 t=41.629 et=222.383</Score>
+<Score et="222.9">Max Zachem(2) lap=5 point=0 t=41.624 et=222.854</Score>
+<Score et="223.3">Richard Matthews(0) lap=5 point=0 t=41.383 et=223.286</Score>
+<Score et="223.8">Matt Johnson(3) lap=5 point=0 t=41.307 et=223.784</Score>
+<Score et="224.3">Keijo Hiili(13) lap=5 point=0 t=41.204 et=224.307</Score>
+<Score et="224.9">Nicholas Angel(6) lap=5 point=0 t=41.131 et=224.834</Score>
+<Score et="225.4">David Manning(8) lap=5 point=0 t=41.071 et=225.359</Score>
+<Score et="225.9">Fabrizio Telasio(5) lap=5 point=0 t=41.021 et=225.878</Score>
+<Score et="226.5">James Conway(15) lap=5 point=0 t=41.003 et=226.431</Score>
+<Score et="227.0">Joshua Grouseman(9) lap=5 point=0 t=41.025 et=227.003</Score>
+<Score et="227.6">JC Pommier(14) lap=5 point=0 t=41.025 et=227.553</Score>
+<Score et="228.2">Travis Bickle(11) lap=5 point=0 t=41.075 et=228.128</Score>
+<Score et="228.7">Bob Weymouth(1) lap=5 point=0 t=41.167 et=228.704</Score>
+<Score et="229.4">Marja Koel(10) lap=5 point=0 t=41.253 et=229.306</Score>
+<Score et="229.7">Jesse Bunnell(4) lap=5 point=1 t=7.776 et=229.704</Score>
+<Score et="229.9">Frank Morris(12) lap=5 point=0 t=41.350 et=229.906</Score>
+<Score et="230.2">Simo Pukka(7) lap=5 point=1 t=7.770 et=230.153</Score>
+<Score et="230.6">Max Zachem(2) lap=5 point=1 t=7.760 et=230.613</Score>
+<Score et="231.3">Richard Matthews(0) lap=5 point=1 t=7.968 et=231.254</Score>
+<Score et="231.8">Matt Johnson(3) lap=5 point=1 t=7.993 et=231.778</Score>
+<Score et="232.4">Keijo Hiili(13) lap=5 point=1 t=8.021 et=232.328</Score>
+<Score et="232.9">Nicholas Angel(6) lap=5 point=1 t=8.057 et=232.891</Score>
+<Score et="233.4">David Manning(8) lap=5 point=1 t=8.057 et=233.415</Score>
+<Score et="234.0">Fabrizio Telasio(5) lap=5 point=1 t=8.050 et=233.928</Score>
+<Score et="234.4">James Conway(15) lap=5 point=1 t=7.959 et=234.390</Score>
+<Score et="234.9">Joshua Grouseman(9) lap=5 point=1 t=7.876 et=234.879</Score>
+<Score et="235.4">JC Pommier(14) lap=5 point=1 t=7.800 et=235.353</Score>
+<Score et="235.9">Travis Bickle(11) lap=5 point=1 t=7.706 et=235.834</Score>
+<Score et="236.3">Bob Weymouth(1) lap=5 point=1 t=7.574 et=236.278</Score>
+<Score et="236.8">Marja Koel(10) lap=5 point=1 t=7.401 et=236.707</Score>
+<Score et="237.3">Frank Morris(12) lap=5 point=1 t=7.346 et=237.253</Score>
+<Score et="248.7">Jesse Bunnell(4) lap=5 point=2 t=26.750 et=248.678</Score>
+<Score et="249.2">Simo Pukka(7) lap=5 point=2 t=26.770 et=249.153</Score>
+<Score et="249.7">Max Zachem(2) lap=5 point=2 t=26.775 et=249.629</Score>
+<Score et="250.2">Richard Matthews(0) lap=5 point=2 t=26.874 et=250.160</Score>
+<Score et="250.6">Matt Johnson(3) lap=5 point=2 t=26.818 et=250.603</Score>
+<Score et="251.2">Keijo Hiili(13) lap=5 point=2 t=26.821 et=251.128</Score>
+<Score et="251.7">Nicholas Angel(6) lap=5 point=2 t=26.799 et=251.632</Score>
+<Score et="252.2">David Manning(8) lap=5 point=2 t=26.806 et=252.165</Score>
+<Score et="252.7">Fabrizio Telasio(5) lap=5 point=2 t=26.800 et=252.678</Score>
+<Score et="253.2">James Conway(15) lap=5 point=2 t=26.752 et=253.183</Score>
+<Score et="253.7">Joshua Grouseman(9) lap=5 point=2 t=26.650 et=253.653</Score>
+<Score et="254.2">JC Pommier(14) lap=5 point=2 t=26.613 et=254.166</Score>
+<Score et="254.7">Travis Bickle(11) lap=5 point=2 t=26.525 et=254.653</Score>
+<Score et="255.2">Bob Weymouth(1) lap=5 point=2 t=26.449 et=255.153</Score>
+<Score et="255.7">Marja Koel(10) lap=5 point=2 t=26.352 et=255.658</Score>
+<Score et="256.2">Frank Morris(12) lap=5 point=2 t=26.271 et=256.178</Score>
+<Score et="263.6">Jesse Bunnell(4) lap=6 point=0 t=41.625 et=263.553</Score>
+<Score et="264.0">Simo Pukka(7) lap=6 point=0 t=41.631 et=264.014</Score>
+<Score et="264.5">Max Zachem(2) lap=6 point=0 t=41.624 et=264.478</Score>
+<Score et="265.1">Richard Matthews(0) lap=6 point=0 t=41.806 et=265.092</Score>
+<Score et="265.5">Matt Johnson(3) lap=6 point=0 t=41.668 et=265.453</Score>
+<Score et="266.0">Keijo Hiili(13) lap=6 point=0 t=41.705 et=266.011</Score>
+<Score et="266.6">Nicholas Angel(6) lap=6 point=0 t=41.719 et=266.553</Score>
+<Score et="267.2">David Manning(8) lap=6 point=0 t=41.769 et=267.128</Score>
+<Score et="267.7">Fabrizio Telasio(5) lap=6 point=0 t=41.785 et=267.662</Score>
+<Score et="268.3">James Conway(15) lap=6 point=0 t=41.779 et=268.210</Score>
+<Score et="268.8">Joshua Grouseman(9) lap=6 point=0 t=41.750 et=268.753</Score>
+<Score et="269.3">JC Pommier(14) lap=6 point=0 t=41.750 et=269.303</Score>
+<Score et="269.9">Travis Bickle(11) lap=6 point=0 t=41.701 et=269.829</Score>
+<Score et="270.4">Bob Weymouth(1) lap=6 point=0 t=41.649 et=270.353</Score>
+<Score et="270.9">Marja Koel(10) lap=6 point=0 t=41.553 et=270.859</Score>
+<Score et="271.3">Jesse Bunnell(4) lap=6 point=1 t=7.761 et=271.313</Score>
+<Score et="271.4">Frank Morris(12) lap=6 point=0 t=41.471 et=271.378</Score>
+<Score et="271.8">Simo Pukka(7) lap=6 point=1 t=7.764 et=271.778</Score>
+<Score et="272.2">Max Zachem(2) lap=6 point=1 t=7.725 et=272.203</Score>
+<Score et="272.9">Richard Matthews(0) lap=6 point=1 t=7.742 et=272.834</Score>
+<Score et="273.2">Matt Johnson(3) lap=6 point=1 t=7.760 et=273.213</Score>
+<Score et="273.7">Keijo Hiili(13) lap=6 point=1 t=7.641 et=273.653</Score>
+<Score et="274.2">Nicholas Angel(6) lap=6 point=1 t=7.584 et=274.137</Score>
+<Score et="274.6">David Manning(8) lap=6 point=1 t=7.425 et=274.553</Score>
+<Score et="275.1">Fabrizio Telasio(5) lap=6 point=1 t=7.349 et=275.012</Score>
+<Score et="275.5">James Conway(15) lap=6 point=1 t=7.304 et=275.514</Score>
+<Score et="276.1">Joshua Grouseman(9) lap=6 point=1 t=7.325 et=276.078</Score>
+<Score et="276.5">JC Pommier(14) lap=6 point=1 t=7.204 et=276.507</Score>
+<Score et="277.1">Travis Bickle(11) lap=6 point=1 t=7.199 et=277.028</Score>
+<Score et="277.6">Bob Weymouth(1) lap=6 point=1 t=7.204 et=277.557</Score>
+<Score et="278.1">Marja Koel(10) lap=6 point=1 t=7.169 et=278.028</Score>
+<Score et="278.6">Frank Morris(12) lap=6 point=1 t=7.158 et=278.536</Score>
+<Score et="290.3">Jesse Bunnell(4) lap=6 point=2 t=26.753 et=290.306</Score>
+<Score et="290.8">Simo Pukka(7) lap=6 point=2 t=26.764 et=290.778</Score>
+<Score et="291.3">Max Zachem(2) lap=6 point=2 t=26.800 et=291.278</Score>
+<Score et="291.9">Richard Matthews(0) lap=6 point=2 t=26.761 et=291.853</Score>
+<Score et="292.3">Matt Johnson(3) lap=6 point=2 t=26.828 et=292.281</Score>
+<Score et="292.8">Keijo Hiili(13) lap=6 point=2 t=26.791 et=292.803</Score>
+<Score et="293.3">Nicholas Angel(6) lap=6 point=2 t=26.700 et=293.253</Score>
+<Score et="293.8">David Manning(8) lap=6 point=2 t=26.650 et=293.778</Score>
+<Score et="294.3">Fabrizio Telasio(5) lap=6 point=2 t=26.615 et=294.278</Score>
+<Score et="294.8">James Conway(15) lap=6 point=2 t=26.572 et=294.782</Score>
+<Score et="295.3">Joshua Grouseman(9) lap=6 point=2 t=26.525 et=295.278</Score>
+<Score et="295.9">JC Pommier(14) lap=6 point=2 t=26.528 et=295.831</Score>
+<Score et="296.3">Travis Bickle(11) lap=6 point=2 t=26.453 et=296.281</Score>
+<Score et="296.8">Bob Weymouth(1) lap=6 point=2 t=26.450 et=296.803</Score>
+<Score et="297.3">Marja Koel(10) lap=6 point=2 t=26.457 et=297.315</Score>
+<Score et="297.9">Frank Morris(12) lap=6 point=2 t=26.475 et=297.853</Score>
+<Score et="303.8">Yellow flag state 4-&gt;5</Score>
+<Score et="305.2">Jesse Bunnell(4) lap=7 point=0 t=41.637 et=305.189</Score>
+<Score et="305.7">Simo Pukka(7) lap=7 point=0 t=41.664 et=305.678</Score>
+<Score et="306.2">Max Zachem(2) lap=7 point=0 t=41.675 et=306.153</Score>
+<Score et="306.8">Richard Matthews(0) lap=7 point=0 t=41.686 et=306.778</Score>
+<Score et="307.3">Matt Johnson(3) lap=7 point=0 t=41.775 et=307.228</Score>
+<Score et="307.8">Keijo Hiili(13) lap=7 point=0 t=41.741 et=307.753</Score>
+<Score et="308.3">Nicholas Angel(6) lap=7 point=0 t=41.725 et=308.278</Score>
+<Score et="308.8">David Manning(8) lap=7 point=0 t=41.675 et=308.803</Score>
+<Score et="309.4">Fabrizio Telasio(5) lap=7 point=0 t=41.665 et=309.328</Score>
+<Score et="309.9">James Conway(15) lap=7 point=0 t=41.643 et=309.853</Score>
+<Score et="310.4">Joshua Grouseman(9) lap=7 point=0 t=41.612 et=310.365</Score>
+<Score et="310.9">JC Pommier(14) lap=7 point=0 t=41.561 et=310.864</Score>
+<Score et="311.4">Travis Bickle(11) lap=7 point=0 t=41.549 et=311.378</Score>
+<Score et="311.9">Bob Weymouth(1) lap=7 point=0 t=41.525 et=311.878</Score>
+<Score et="312.4">Marja Koel(10) lap=7 point=0 t=41.519 et=312.378</Score>
+<Score et="312.9">Frank Morris(12) lap=7 point=0 t=41.525 et=312.903</Score>
+<Score et="313.0">Jesse Bunnell(4) lap=7 point=1 t=7.738 et=312.928</Score>
+<Score et="313.4">Simo Pukka(7) lap=7 point=1 t=7.727 et=313.405</Score>
+<Score et="313.9">Max Zachem(2) lap=7 point=1 t=7.700 et=313.853</Score>
+<Score et="314.4">Richard Matthews(0) lap=7 point=1 t=7.569 et=314.347</Score>
+<Score et="314.7">Matt Johnson(3) lap=7 point=1 t=7.454 et=314.681</Score>
+<Score et="315.2">Keijo Hiili(13) lap=7 point=1 t=7.375 et=315.128</Score>
+<Score et="315.7">Nicholas Angel(6) lap=7 point=1 t=7.375 et=315.653</Score>
+<Score et="316.1">David Manning(8) lap=7 point=1 t=7.308 et=316.111</Score>
+<Score et="316.7">Fabrizio Telasio(5) lap=7 point=1 t=7.300 et=316.628</Score>
+<Score et="317.1">James Conway(15) lap=7 point=1 t=7.250 et=317.103</Score>
+<Score et="317.7">Joshua Grouseman(9) lap=7 point=1 t=7.238 et=317.603</Score>
+<Score et="318.1">JC Pommier(14) lap=7 point=1 t=7.164 et=318.028</Score>
+<Score et="318.6">Travis Bickle(11) lap=7 point=1 t=7.200 et=318.578</Score>
+<Score et="319.2">Bob Weymouth(1) lap=7 point=1 t=7.251 et=319.128</Score>
+<Score et="319.7">Marja Koel(10) lap=7 point=1 t=7.327 et=319.705</Score>
+<Score et="320.2">Frank Morris(12) lap=7 point=1 t=7.284 et=320.187</Score>
+<Score et="325.4">Jesse Bunnell(4) lap=7 point=2 t=20.196 et=325.385</Score>
+<Score et="325.9">Simo Pukka(7) lap=7 point=2 t=20.218 et=325.896</Score>
+<Score et="326.3">Max Zachem(2) lap=7 point=2 t=20.142 et=326.295</Score>
+<Score et="326.7">Richard Matthews(0) lap=7 point=2 t=19.861 et=326.639</Score>
+<Score et="327.5">Matt Johnson(3) lap=7 point=2 t=20.205 et=327.433</Score>
+<Score et="327.8">Keijo Hiili(13) lap=7 point=2 t=20.017 et=327.770</Score>
+<Score et="328.2">Nicholas Angel(6) lap=7 point=2 t=19.866 et=328.144</Score>
+<Score et="328.4">David Manning(8) lap=7 point=2 t=19.616 et=328.419</Score>
+<Score et="328.8">Fabrizio Telasio(5) lap=7 point=2 t=19.475 et=328.803</Score>
+<Score et="329.0">Yellow flag state 5-&gt;6</Score>
+<Score et="329.1">James Conway(15) lap=7 point=2 t=19.261 et=329.114</Score>
+<Score et="329.5">Joshua Grouseman(9) lap=7 point=2 t=19.100 et=329.465</Score>
+<Score et="329.7">JC Pommier(14) lap=7 point=2 t=18.782 et=329.646</Score>
+<Score et="330.0">Travis Bickle(11) lap=7 point=2 t=18.541 et=329.919</Score>
+<Score et="330.2">Bob Weymouth(1) lap=7 point=2 t=18.325 et=330.203</Score>
+<Score et="330.5">Marja Koel(10) lap=7 point=2 t=18.103 et=330.481</Score>
+<Score et="330.7">Frank Morris(12) lap=7 point=2 t=17.800 et=330.703</Score>
+<Score et="332.5">Jesse Bunnell(4) lap=8 point=0 t=27.238 et=332.428</Score>
+<Score et="332.6">Yellow flag state 6-&gt;0</Score>
+<Score et="332.9">Simo Pukka(7) lap=8 point=0 t=27.187 et=332.865</Score>
+<Score et="333.2">Max Zachem(2) lap=8 point=0 t=27.032 et=333.185</Score>
+<Score et="333.6">Richard Matthews(0) lap=8 point=0 t=26.763 et=333.540</Score>
+<Score et="334.2">Matt Johnson(3) lap=8 point=0 t=26.901 et=334.129</Score>
+<Score et="334.5">Keijo Hiili(13) lap=8 point=0 t=26.692 et=334.444</Score>
+<Score et="334.8">Nicholas Angel(6) lap=8 point=0 t=26.450 et=334.728</Score>
+<Score et="335.0">David Manning(8) lap=8 point=0 t=26.189 et=334.992</Score>
+<Score et="335.3">Fabrizio Telasio(5) lap=8 point=0 t=25.944 et=335.272</Score>
+<Score et="335.6">James Conway(15) lap=8 point=0 t=25.675 et=335.528</Score>
+<Score et="335.8">Jesse Bunnell(4) lap=8 point=1 t=3.333 et=335.761</Score>
+<Score et="335.9">Joshua Grouseman(9) lap=8 point=0 t=25.463 et=335.828</Score>
+<Score et="336.0">JC Pommier(14) lap=8 point=0 t=25.124 et=335.988</Score>
+<Score et="336.2">Simo Pukka(7) lap=8 point=1 t=3.330 et=336.195</Score>
+<Score et="336.4">Travis Bickle(11) lap=8 point=0 t=24.929 et=336.307</Score>
+<Score et="336.5">Max Zachem(2) lap=8 point=1 t=3.297 et=336.481</Score>
+<Score et="336.6">Bob Weymouth(1) lap=8 point=0 t=24.650 et=336.528</Score>
+<Score et="336.8">Marja Koel(10) lap=8 point=0 t=24.400 et=336.778</Score>
+<Score et="336.9">Richard Matthews(0) lap=8 point=1 t=3.302 et=336.843</Score>
+<Score et="337.0">Frank Morris(12) lap=8 point=0 t=24.089 et=336.991</Score>
+<Score et="337.6">Matt Johnson(3) lap=8 point=1 t=3.399 et=337.528</Score>
+<Score et="337.8">Keijo Hiili(13) lap=8 point=1 t=3.294 et=337.738</Score>
+<Score et="338.1">Nicholas Angel(6) lap=8 point=1 t=3.343 et=338.071</Score>
+<Score et="338.3">David Manning(8) lap=8 point=1 t=3.239 et=338.230</Score>
+<Score et="338.6">Fabrizio Telasio(5) lap=8 point=1 t=3.327 et=338.598</Score>
+<Score et="338.9">James Conway(15) lap=8 point=1 t=3.353 et=338.881</Score>
+<Score et="339.1">Joshua Grouseman(9) lap=8 point=1 t=3.292 et=339.120</Score>
+<Score et="339.4">JC Pommier(14) lap=8 point=1 t=3.381 et=339.369</Score>
+<Score et="339.7">Travis Bickle(11) lap=8 point=1 t=3.346 et=339.653</Score>
+<Score et="339.9">Bob Weymouth(1) lap=8 point=1 t=3.312 et=339.840</Score>
+<Score et="340.1">Marja Koel(10) lap=8 point=1 t=3.307 et=340.085</Score>
+<Score et="340.3">Frank Morris(12) lap=8 point=1 t=3.321 et=340.312</Score>
+<Score et="343.6">Jesse Bunnell(4) lap=8 point=2 t=11.140 et=343.568</Score>
+<Score et="344.0">Simo Pukka(7) lap=8 point=2 t=11.113 et=343.978</Score>
+<Score et="344.2">Max Zachem(2) lap=8 point=2 t=10.976 et=344.161</Score>
+<Score et="344.3">Richard Matthews(0) lap=8 point=2 t=10.776 et=344.317</Score>
+<Score et="345.4">Keijo Hiili(13) lap=8 point=2 t=10.908 et=345.353</Score>
+<Score et="345.5">Matt Johnson(3) lap=8 point=2 t=11.349 et=345.478</Score>
+<Score et="345.7">Nicholas Angel(6) lap=8 point=2 t=10.918 et=345.646</Score>
+<Score et="345.9">David Manning(8) lap=8 point=2 t=10.854 et=345.846</Score>
+<Score et="346.2">Fabrizio Telasio(5) lap=8 point=2 t=10.899 et=346.170</Score>
+<Score et="346.5">James Conway(15) lap=8 point=2 t=10.975 et=346.503</Score>
+<Score et="346.8">Joshua Grouseman(9) lap=8 point=2 t=10.926 et=346.754</Score>
+<Score et="347.1">JC Pommier(14) lap=8 point=2 t=11.076 et=347.064</Score>
+<Score et="347.3">Travis Bickle(11) lap=8 point=2 t=10.982 et=347.289</Score>
+<Score et="347.6">Bob Weymouth(1) lap=8 point=2 t=11.061 et=347.589</Score>
+<Score et="347.9">Marja Koel(10) lap=8 point=2 t=11.050 et=347.828</Score>
+<Score et="348.2">Frank Morris(12) lap=8 point=2 t=11.161 et=348.153</Score>
+<Score et="350.0">Jesse Bunnell(4) lap=9 point=0 t=17.500 et=349.928</Score>
+<Score et="350.3">Simo Pukka(7) lap=9 point=0 t=17.414 et=350.279</Score>
+<Score et="350.4">Max Zachem(2) lap=9 point=0 t=17.158 et=350.343</Score>
+<Score et="350.5">Richard Matthews(0) lap=9 point=0 t=16.896 et=350.436</Score>
+<Score et="351.6">Keijo Hiili(13) lap=9 point=0 t=17.085 et=351.530</Score>
+<Score et="351.8">Matt Johnson(3) lap=9 point=0 t=17.651 et=351.779</Score>
+<Score et="351.9">Nicholas Angel(6) lap=9 point=0 t=17.079 et=351.807</Score>
+<Score et="352.1">David Manning(8) lap=9 point=0 t=17.066 et=352.057</Score>
+<Score et="352.4">Fabrizio Telasio(5) lap=9 point=0 t=17.143 et=352.415</Score>
+<Score et="352.7">James Conway(15) lap=9 point=0 t=17.112 et=352.640</Score>
+<Score et="352.9">Joshua Grouseman(9) lap=9 point=0 t=17.018 et=352.845</Score>
+<Score et="353.2">JC Pommier(14) lap=9 point=0 t=17.220 et=353.208</Score>
+<Score et="353.3">Jesse Bunnell(4) lap=9 point=1 t=3.315 et=353.243</Score>
+<Score et="353.4">Travis Bickle(11) lap=9 point=0 t=17.052 et=353.358</Score>
+<Score et="353.6">Max Zachem(2) lap=9 point=1 t=3.228 et=353.571</Score>
+<Score et="353.7">Simo Pukka(7) lap=9 point=1 t=3.358 et=353.637</Score>
+<Score et="353.8">Richard Matthews(0) lap=9 point=1 t=3.300 et=353.736</Score>
+<Score et="353.8">Bob Weymouth(1) lap=9 point=0 t=17.200 et=353.728</Score>
+<Score et="354.1">Marja Koel(10) lap=9 point=0 t=17.275 et=354.053</Score>
+<Score et="354.4">Frank Morris(12) lap=9 point=0 t=17.414 et=354.405</Score>
+<Score et="354.8">Keijo Hiili(13) lap=9 point=1 t=3.244 et=354.773</Score>
+<Score et="355.1">Nicholas Angel(6) lap=9 point=1 t=3.242 et=355.049</Score>
+<Score et="355.1">Matt Johnson(3) lap=9 point=1 t=3.279 et=355.058</Score>
+<Score et="355.4">David Manning(8) lap=9 point=1 t=3.345 et=355.403</Score>
+<Score et="355.8">Fabrizio Telasio(5) lap=9 point=1 t=3.370 et=355.785</Score>
+<Score et="356.0">James Conway(15) lap=9 point=1 t=3.338 et=355.978</Score>
+<Score et="356.2">Joshua Grouseman(9) lap=9 point=1 t=3.326 et=356.171</Score>
+<Score et="356.6">JC Pommier(14) lap=9 point=1 t=3.346 et=356.554</Score>
+<Score et="356.7">Travis Bickle(11) lap=9 point=1 t=3.348 et=356.706</Score>
+<Score et="357.1">Bob Weymouth(1) lap=9 point=1 t=3.356 et=357.083</Score>
+<Score et="357.4">Marja Koel(10) lap=9 point=1 t=3.352 et=357.405</Score>
+<Score et="357.8">Frank Morris(12) lap=9 point=1 t=3.356 et=357.761</Score>
+<Score et="361.1">Jesse Bunnell(4) lap=9 point=2 t=11.194 et=361.122</Score>
+<Score et="361.3">Max Zachem(2) lap=9 point=2 t=10.897 et=361.240</Score>
+<Score et="361.4">Simo Pukka(7) lap=9 point=2 t=11.119 et=361.397</Score>
+<Score et="361.7">Richard Matthews(0) lap=9 point=2 t=11.272 et=361.708</Score>
+<Score et="362.4">Keijo Hiili(13) lap=9 point=2 t=10.839 et=362.369</Score>
+<Score et="362.7">Nicholas Angel(6) lap=9 point=2 t=10.904 et=362.711</Score>
+<Score et="362.9">Matt Johnson(3) lap=9 point=2 t=11.077 et=362.856</Score>
+<Score et="363.2">David Manning(8) lap=9 point=2 t=11.105 et=363.162</Score>
+<Score et="363.7">Fabrizio Telasio(5) lap=9 point=2 t=11.197 et=363.612</Score>
+<Score et="363.8">James Conway(15) lap=9 point=2 t=11.163 et=363.803</Score>
+<Score et="364.0">Joshua Grouseman(9) lap=9 point=2 t=11.157 et=364.003</Score>
+<Score et="364.4">JC Pommier(14) lap=9 point=2 t=11.127 et=364.335</Score>
+<Score et="364.6">Travis Bickle(11) lap=9 point=2 t=11.182 et=364.540</Score>
+<Score et="364.9">Bob Weymouth(1) lap=9 point=2 t=11.170 et=364.898</Score>
+<Score et="365.2">Marja Koel(10) lap=9 point=2 t=11.168 et=365.221</Score>
+<Score et="365.7">Frank Morris(12) lap=9 point=2 t=11.255 et=365.661</Score>
+<Score et="367.5">Max Zachem(2) lap=10 point=0 t=17.100 et=367.443</Score>
+<Score et="367.5">Jesse Bunnell(4) lap=10 point=0 t=17.543 et=367.471</Score>
+<Score et="367.8">Simo Pukka(7) lap=10 point=0 t=17.484 et=367.762</Score>
+<Score et="368.0">Richard Matthews(0) lap=10 point=0 t=17.505 et=367.942</Score>
+<Score et="368.7">Keijo Hiili(13) lap=10 point=0 t=17.134 et=368.664</Score>
+<Score et="368.9">Nicholas Angel(6) lap=10 point=0 t=17.090 et=368.897</Score>
+<Score et="369.1">Matt Johnson(3) lap=10 point=0 t=17.267 et=369.047</Score>
+<Score et="369.4">David Manning(8) lap=10 point=0 t=17.305 et=369.363</Score>
+<Score et="369.8">Fabrizio Telasio(5) lap=10 point=0 t=17.363 et=369.778</Score>
+<Score et="370.0">James Conway(15) lap=10 point=0 t=17.343 et=369.982</Score>
+<Score et="370.3">Joshua Grouseman(9) lap=10 point=0 t=17.395 et=370.240</Score>
+<Score et="370.6">JC Pommier(14) lap=10 point=0 t=17.349 et=370.558</Score>
+<Score et="370.7">Max Zachem(2) lap=10 point=1 t=3.235 et=370.678</Score>
+<Score et="370.8">Travis Bickle(11) lap=10 point=0 t=17.397 et=370.755</Score>
+<Score et="370.8">Jesse Bunnell(4) lap=10 point=1 t=3.327 et=370.798</Score>
+<Score et="371.1">Simo Pukka(7) lap=10 point=1 t=3.323 et=371.085</Score>
+<Score et="371.1">Bob Weymouth(1) lap=10 point=0 t=17.385 et=371.113</Score>
+<Score et="371.3">Richard Matthews(0) lap=10 point=1 t=3.369 et=371.311</Score>
+<Score et="371.4">Marja Koel(10) lap=10 point=0 t=17.345 et=371.397</Score>
+<Score et="371.9">Keijo Hiili(13) lap=10 point=1 t=3.190 et=371.854</Score>
+<Score et="372.0">Frank Morris(12) lap=10 point=0 t=17.527 et=371.933</Score>
+<Score et="372.1">Nicholas Angel(6) lap=10 point=1 t=3.181 et=372.078</Score>
+<Score et="372.3">Matt Johnson(3) lap=10 point=1 t=3.181 et=372.228</Score>
+<Score et="372.6">David Manning(8) lap=10 point=1 t=3.232 et=372.595</Score>
+<Score et="373.0">Fabrizio Telasio(5) lap=10 point=1 t=3.219 et=372.997</Score>
+<Score et="373.2">James Conway(15) lap=10 point=1 t=3.236 et=373.218</Score>
+<Score et="373.5">Joshua Grouseman(9) lap=10 point=1 t=3.251 et=373.492</Score>
+<Score et="373.8">JC Pommier(14) lap=10 point=1 t=3.234 et=373.792</Score>
+<Score et="374.0">Travis Bickle(11) lap=10 point=1 t=3.237 et=373.992</Score>
+<Score et="374.4">Bob Weymouth(1) lap=10 point=1 t=3.234 et=374.346</Score>
+<Score et="374.7">Marja Koel(10) lap=10 point=1 t=3.225 et=374.623</Score>
+<Score et="375.2">Frank Morris(12) lap=10 point=1 t=3.245 et=375.178</Score>
+<Score et="378.4">Max Zachem(2) lap=10 point=2 t=10.885 et=378.328</Score>
+<Score et="378.6">Jesse Bunnell(4) lap=10 point=2 t=11.110 et=378.581</Score>
+<Score et="379.0">Simo Pukka(7) lap=10 point=2 t=11.218 et=378.980</Score>
+<Score et="379.3">Richard Matthews(0) lap=10 point=2 t=11.289 et=379.231</Score>
+<Score et="379.7">Keijo Hiili(13) lap=10 point=2 t=11.025 et=379.689</Score>
+<Score et="380.0">Nicholas Angel(6) lap=10 point=2 t=11.031 et=379.928</Score>
+<Score et="380.0">Matt Johnson(3) lap=10 point=2 t=10.972 et=380.019</Score>
+<Score et="380.3">David Manning(8) lap=10 point=2 t=10.907 et=380.269</Score>
+<Score et="380.7">Fabrizio Telasio(5) lap=10 point=2 t=10.850 et=380.628</Score>
+<Score et="380.9">James Conway(15) lap=10 point=2 t=10.845 et=380.828</Score>
+<Score et="381.1">Joshua Grouseman(9) lap=10 point=2 t=10.851 et=381.091</Score>
+<Score et="381.4">JC Pommier(14) lap=10 point=2 t=10.827 et=381.384</Score>
+<Score et="381.6">Travis Bickle(11) lap=10 point=2 t=10.866 et=381.621</Score>
+<Score et="382.0">Bob Weymouth(1) lap=10 point=2 t=10.865 et=381.978</Score>
+<Score et="382.3">Marja Koel(10) lap=10 point=2 t=10.857 et=382.254</Score>
+<Score et="382.9">Frank Morris(12) lap=10 point=2 t=10.906 et=382.839</Score>
+<Score et="384.6">Max Zachem(2) lap=11 point=0 t=17.092 et=384.535</Score>
+<Score et="384.8">Jesse Bunnell(4) lap=11 point=0 t=17.342 et=384.812</Score>
+<Score et="385.2">Simo Pukka(7) lap=11 point=0 t=17.432 et=385.194</Score>
+<Score et="385.5">Richard Matthews(0) lap=11 point=0 t=17.507 et=385.448</Score>
+<Score et="385.8">Keijo Hiili(13) lap=11 point=0 t=17.134 et=385.798</Score>
+<Score et="386.3">Nicholas Angel(6) lap=11 point=0 t=17.319 et=386.216</Score>
+<Score et="386.4">Matt Johnson(3) lap=11 point=0 t=17.297 et=386.344</Score>
+<Score et="386.6">David Manning(8) lap=11 point=0 t=17.249 et=386.612</Score>
+<Score et="387.0">Fabrizio Telasio(5) lap=11 point=0 t=17.200 et=386.978</Score>
+<Score et="387.2">James Conway(15) lap=11 point=0 t=17.145 et=387.128</Score>
+<Score et="387.3">Joshua Grouseman(9) lap=11 point=0 t=17.038 et=387.278</Score>
+<Score et="387.5">JC Pommier(14) lap=11 point=0 t=16.933 et=387.491</Score>
+<Score et="387.8">Max Zachem(2) lap=11 point=1 t=3.240 et=387.774</Score>
+<Score et="387.8">Travis Bickle(11) lap=11 point=0 t=17.029 et=387.784</Score>
+<Score et="388.1">Jesse Bunnell(4) lap=11 point=1 t=3.244 et=388.056</Score>
+<Score et="388.1">Bob Weymouth(1) lap=11 point=0 t=16.969 et=388.081</Score>
+<Score et="388.5">Simo Pukka(7) lap=11 point=1 t=3.245 et=388.440</Score>
+<Score et="388.5">Marja Koel(10) lap=11 point=0 t=17.062 et=388.459</Score>
+<Score et="388.8">Richard Matthews(0) lap=11 point=1 t=3.313 et=388.761</Score>
+<Score et="389.0">Frank Morris(12) lap=11 point=0 t=17.078 et=389.011</Score>
+<Score et="389.1">Keijo Hiili(13) lap=11 point=1 t=3.296 et=389.094</Score>
+<Score et="389.6">Matt Johnson(3) lap=11 point=1 t=3.221 et=389.565</Score>
+<Score et="389.6">Nicholas Angel(6) lap=11 point=1 t=3.368 et=389.584</Score>
+<Score et="389.9">David Manning(8) lap=11 point=1 t=3.293 et=389.905</Score>
+<Score et="390.4">Fabrizio Telasio(5) lap=11 point=1 t=3.356 et=390.334</Score>
+<Score et="390.5">James Conway(15) lap=11 point=1 t=3.336 et=390.463</Score>
+<Score et="390.6">Joshua Grouseman(9) lap=11 point=1 t=3.314 et=390.591</Score>
+<Score et="390.7">JC Pommier(14) lap=11 point=1 t=3.223 et=390.714</Score>
+<Score et="391.2">Travis Bickle(11) lap=11 point=1 t=3.343 et=391.128</Score>
+<Score et="391.5">Bob Weymouth(1) lap=11 point=1 t=3.346 et=391.428</Score>
+<Score et="391.9">Marja Koel(10) lap=11 point=1 t=3.375 et=391.834</Score>
+<Score et="392.4">Frank Morris(12) lap=11 point=1 t=3.368 et=392.379</Score>
+<Incident et="394.3">Keijo Hiili(13) reported contact (0.00) with Immovable</Incident>
+<Score et="395.4">Max Zachem(2) lap=11 point=2 t=10.884 et=395.418</Score>
+<Score et="395.7">Jesse Bunnell(4) lap=11 point=2 t=10.859 et=395.672</Score>
+<Score et="396.1">Simo Pukka(7) lap=11 point=2 t=10.870 et=396.064</Score>
+<Score et="396.5">Richard Matthews(0) lap=11 point=2 t=11.001 et=396.449</Score>
+<Score et="397.1">Keijo Hiili(13) lap=11 point=2 t=11.242 et=397.040</Score>
+<Score et="397.2">Matt Johnson(3) lap=11 point=2 t=10.863 et=397.207</Score>
+<Score et="397.4">Nicholas Angel(6) lap=11 point=2 t=11.112 et=397.328</Score>
+<Score et="397.7">David Manning(8) lap=11 point=2 t=11.101 et=397.713</Score>
+<Score et="398.2">Fabrizio Telasio(5) lap=11 point=2 t=11.143 et=398.121</Score>
+<Score et="398.3">James Conway(15) lap=11 point=2 t=11.152 et=398.280</Score>
+<Score et="398.5">Joshua Grouseman(9) lap=11 point=2 t=11.167 et=398.444</Score>
+<Score et="398.6">JC Pommier(14) lap=11 point=2 t=11.128 et=398.618</Score>
+<Score et="398.9">Travis Bickle(11) lap=11 point=2 t=11.096 et=398.880</Score>
+<Score et="399.3">Bob Weymouth(1) lap=11 point=2 t=11.161 et=399.242</Score>
+<Score et="399.6">Marja Koel(10) lap=11 point=2 t=11.148 et=399.607</Score>
+<Score et="400.3">Frank Morris(12) lap=11 point=2 t=11.227 et=400.238</Score>
+<Score et="401.6">Max Zachem(2) lap=12 point=0 t=17.071 et=401.606</Score>
+<Score et="401.9">Jesse Bunnell(4) lap=12 point=0 t=17.040 et=401.853</Score>
+<Score et="402.3">Simo Pukka(7) lap=12 point=0 t=17.058 et=402.253</Score>
+<Score et="402.5">Richard Matthews(0) lap=12 point=0 t=16.961 et=402.410</Score>
+<Score et="403.0">Keijo Hiili(13) lap=12 point=0 t=17.210 et=403.008</Score>
+<Score et="403.4">Matt Johnson(3) lap=12 point=0 t=16.959 et=403.303</Score>
+<Score et="403.7">Nicholas Angel(6) lap=12 point=0 t=17.494 et=403.710</Score>
+<Score et="404.0">David Manning(8) lap=12 point=0 t=17.381 et=403.994</Score>
+<Score et="404.4">Fabrizio Telasio(5) lap=12 point=0 t=17.442 et=404.420</Score>
+<Score et="404.6">James Conway(15) lap=12 point=0 t=17.475 et=404.603</Score>
+<Score et="404.8">Joshua Grouseman(9) lap=12 point=0 t=17.525 et=404.803</Score>
+<Score et="404.9">Max Zachem(2) lap=12 point=1 t=3.242 et=404.848</Score>
+<Score et="405.0">JC Pommier(14) lap=12 point=0 t=17.474 et=404.964</Score>
+<Score et="405.1">Jesse Bunnell(4) lap=12 point=1 t=3.234 et=405.087</Score>
+<Score et="405.2">Travis Bickle(11) lap=12 point=0 t=17.393 et=405.178</Score>
+<Score et="405.5">Simo Pukka(7) lap=12 point=1 t=3.230 et=405.482</Score>
+<Score et="405.6">Bob Weymouth(1) lap=12 point=0 t=17.485 et=405.567</Score>
+<Score et="405.7">Richard Matthews(0) lap=12 point=1 t=3.223 et=405.633</Score>
+<Score et="405.9">Marja Koel(10) lap=12 point=0 t=17.428 et=405.887</Score>
+<Score et="406.2">Keijo Hiili(13) lap=12 point=1 t=3.202 et=406.210</Score>
+<Score et="406.5">Matt Johnson(3) lap=12 point=1 t=3.190 et=406.493</Score>
+<Score et="406.6">Frank Morris(12) lap=12 point=0 t=17.601 et=406.612</Score>
+<Score et="406.9">Nicholas Angel(6) lap=12 point=1 t=3.203 et=406.912</Score>
+<Score et="407.2">David Manning(8) lap=12 point=1 t=3.214 et=407.207</Score>
+<Score et="407.6">Fabrizio Telasio(5) lap=12 point=1 t=3.197 et=407.617</Score>
+<Score et="407.9">James Conway(15) lap=12 point=1 t=3.231 et=407.833</Score>
+<Score et="408.1">Joshua Grouseman(9) lap=12 point=1 t=3.296 et=408.099</Score>
+<Score et="408.3">JC Pommier(14) lap=12 point=1 t=3.329 et=408.293</Score>
+<Score et="408.5">Travis Bickle(11) lap=12 point=1 t=3.341 et=408.519</Score>
+<Score et="408.9">Bob Weymouth(1) lap=12 point=1 t=3.261 et=408.828</Score>
+<Score et="409.3">Marja Koel(10) lap=12 point=1 t=3.341 et=409.228</Score>
+<Score et="410.0">Frank Morris(12) lap=12 point=1 t=3.323 et=409.934</Score>
+<Score et="412.5">Max Zachem(2) lap=12 point=2 t=10.906 et=412.512</Score>
+<Score et="412.7">Jesse Bunnell(4) lap=12 point=2 t=10.857 et=412.710</Score>
+<Score et="413.2">Richard Matthews(0) lap=12 point=2 t=10.723 et=413.132</Score>
+<Score et="413.2">Simo Pukka(7) lap=12 point=2 t=10.890 et=413.143</Score>
+<Score et="413.9">Keijo Hiili(13) lap=12 point=2 t=10.825 et=413.833</Score>
+<Score et="414.1">Matt Johnson(3) lap=12 point=2 t=10.741 et=414.043</Score>
+<Score et="414.6">Nicholas Angel(6) lap=12 point=2 t=10.836 et=414.545</Score>
+<Score et="414.8">David Manning(8) lap=12 point=2 t=10.816 et=414.809</Score>
+<Score et="415.3">Fabrizio Telasio(5) lap=12 point=2 t=10.884 et=415.304</Score>
+<Score et="415.5">James Conway(15) lap=12 point=2 t=10.882 et=415.485</Score>
+<Score et="415.8">Joshua Grouseman(9) lap=12 point=2 t=10.933 et=415.736</Score>
+<Score et="416.0">JC Pommier(14) lap=12 point=2 t=11.005 et=415.969</Score>
+<Score et="416.2">Travis Bickle(11) lap=12 point=2 t=11.034 et=416.211</Score>
+<Score et="416.5">Bob Weymouth(1) lap=12 point=2 t=10.928 et=416.495</Score>
+<Score et="417.0">Marja Koel(10) lap=12 point=2 t=11.127 et=417.014</Score>
+<Score et="417.7">Frank Morris(12) lap=12 point=2 t=11.047 et=417.659</Score>
+<Score et="418.7">Max Zachem(2) lap=13 point=0 t=17.107 et=418.713</Score>
+<Score et="418.9">Jesse Bunnell(4) lap=13 point=0 t=17.050 et=418.903</Score>
+<Score et="419.3">Richard Matthews(0) lap=13 point=0 t=16.847 et=419.256</Score>
+<Score et="419.4">Simo Pukka(7) lap=13 point=0 t=17.106 et=419.359</Score>
+<Score et="420.0">Keijo Hiili(13) lap=13 point=0 t=16.965 et=419.972</Score>
+<Score et="420.2">Matt Johnson(3) lap=13 point=0 t=16.855 et=420.157</Score>
+<Score et="420.8">Nicholas Angel(6) lap=13 point=0 t=17.049 et=420.758</Score>
+<Score et="421.2">David Manning(8) lap=13 point=0 t=17.177 et=421.171</Score>
+<Score et="421.7">Fabrizio Telasio(5) lap=13 point=0 t=17.283 et=421.703</Score>
+<Score et="421.9">James Conway(15) lap=13 point=0 t=17.225 et=421.828</Score>
+<Score et="422.0">Max Zachem(2) lap=13 point=1 t=3.229 et=421.942</Score>
+<Score et="422.1">Joshua Grouseman(9) lap=13 point=0 t=17.225 et=422.028</Score>
+<Score et="422.2">Jesse Bunnell(4) lap=13 point=1 t=3.242 et=422.145</Score>
+<Score et="422.2">JC Pommier(14) lap=13 point=0 t=17.206 et=422.170</Score>
+<Score et="422.3">Travis Bickle(11) lap=13 point=0 t=17.119 et=422.297</Score>
+<Score et="422.5">Richard Matthews(0) lap=13 point=1 t=3.200 et=422.456</Score>
+<Score et="422.6">Simo Pukka(7) lap=13 point=1 t=3.199 et=422.558</Score>
+<Score et="422.6">Bob Weymouth(1) lap=13 point=0 t=17.038 et=422.605</Score>
+<Score et="423.2">Keijo Hiili(13) lap=13 point=1 t=3.244 et=423.217</Score>
+<Score et="423.3">Marja Koel(10) lap=13 point=0 t=17.371 et=423.258</Score>
+<Score et="423.4">Matt Johnson(3) lap=13 point=1 t=3.245 et=423.403</Score>
+<Score et="423.9">Frank Morris(12) lap=13 point=0 t=17.294 et=423.906</Score>
+<Score et="424.0">Nicholas Angel(6) lap=13 point=1 t=3.234 et=423.993</Score>
+<Score et="424.5">David Manning(8) lap=13 point=1 t=3.317 et=424.488</Score>
+<Score et="425.1">Fabrizio Telasio(5) lap=13 point=1 t=3.331 et=425.033</Score>
+<Score et="425.2">James Conway(15) lap=13 point=1 t=3.346 et=425.174</Score>
+<Score et="425.3">Joshua Grouseman(9) lap=13 point=1 t=3.213 et=425.241</Score>
+<Score et="425.5">JC Pommier(14) lap=13 point=1 t=3.309 et=425.479</Score>
+<Score et="425.6">Travis Bickle(11) lap=13 point=1 t=3.317 et=425.614</Score>
+<Score et="425.9">Bob Weymouth(1) lap=13 point=1 t=3.307 et=425.912</Score>
+<Score et="426.7">Marja Koel(10) lap=13 point=1 t=3.371 et=426.629</Score>
+<Score et="427.3">Frank Morris(12) lap=13 point=1 t=3.376 et=427.282</Score>
+<Score et="429.6">Max Zachem(2) lap=13 point=2 t=10.878 et=429.591</Score>
+<Score et="429.9">Jesse Bunnell(4) lap=13 point=2 t=10.980 et=429.882</Score>
+<Score et="430.1">Richard Matthews(0) lap=13 point=2 t=10.856 et=430.112</Score>
+<Score et="430.7">Simo Pukka(7) lap=13 point=2 t=11.287 et=430.646</Score>
+<Score et="430.9">Keijo Hiili(13) lap=13 point=2 t=10.942 et=430.915</Score>
+<Score et="431.1">Matt Johnson(3) lap=13 point=2 t=10.900 et=431.058</Score>
+<Score et="431.7">Nicholas Angel(6) lap=13 point=2 t=10.888 et=431.646</Score>
+<Score et="432.3">David Manning(8) lap=13 point=2 t=11.145 et=432.316</Score>
+<Score et="432.9">Fabrizio Telasio(5) lap=13 point=2 t=11.155 et=432.858</Score>
+<Score et="432.9">Joshua Grouseman(9) lap=13 point=2 t=10.845 et=432.873</Score>
+<Score et="433.1">James Conway(15) lap=13 point=2 t=11.203 et=433.031</Score>
+<Score et="433.3">JC Pommier(14) lap=13 point=2 t=11.074 et=433.244</Score>
+<Score et="433.5">Travis Bickle(11) lap=13 point=2 t=11.141 et=433.438</Score>
+<Score et="433.7">Bob Weymouth(1) lap=13 point=2 t=11.077 et=433.682</Score>
+<Score et="434.3">Marja Koel(10) lap=13 point=2 t=11.064 et=434.322</Score>
+<Score et="435.1">Frank Morris(12) lap=13 point=2 t=11.097 et=435.003</Score>
+<Score et="435.8">Max Zachem(2) lap=14 point=0 t=17.092 et=435.805</Score>
+<Score et="436.3">Richard Matthews(0) lap=14 point=0 t=16.987 et=436.243</Score>
+<Score et="436.3">Jesse Bunnell(4) lap=14 point=0 t=17.325 et=436.228</Score>
+<Score et="436.9">Simo Pukka(7) lap=14 point=0 t=17.494 et=436.853</Score>
+<Score et="437.3">Keijo Hiili(13) lap=14 point=0 t=17.282 et=437.254</Score>
+<Score et="437.4">Matt Johnson(3) lap=14 point=0 t=17.250 et=437.408</Score>
+<Score et="438.0">Nicholas Angel(6) lap=14 point=0 t=17.186 et=437.944</Score>
+<Score et="438.7">David Manning(8) lap=14 point=0 t=17.486 et=438.657</Score>
+<Score et="439.1">Max Zachem(2) lap=14 point=1 t=3.224 et=439.029</Score>
+<Score et="439.1">Joshua Grouseman(9) lap=14 point=0 t=17.011 et=439.038</Score>
+<Score et="439.2">Fabrizio Telasio(5) lap=14 point=0 t=17.466 et=439.169</Score>
+<Score et="439.4">James Conway(15) lap=14 point=0 t=17.525 et=439.353</Score>
+<Score et="439.4">Richard Matthews(0) lap=14 point=1 t=3.150 et=439.393</Score>
+<Score et="439.6">Jesse Bunnell(4) lap=14 point=1 t=3.316 et=439.544</Score>
+<Score et="439.6">JC Pommier(14) lap=14 point=0 t=17.357 et=439.528</Score>
+<Score et="439.8">Travis Bickle(11) lap=14 point=0 t=17.508 et=439.805</Score>
+<Score et="440.0">Bob Weymouth(1) lap=14 point=0 t=17.398 et=440.003</Score>
+<Score et="440.0">Simo Pukka(7) lap=14 point=1 t=3.163 et=440.015</Score>
+<Score et="440.5">Keijo Hiili(13) lap=14 point=1 t=3.179 et=440.433</Score>
+<Score et="440.5">Marja Koel(10) lap=14 point=0 t=17.199 et=440.457</Score>
+<Score et="440.7">Matt Johnson(3) lap=14 point=1 t=3.255 et=440.662</Score>
+<Score et="440.9">Frank Morris(12) lap=14 point=0 t=17.013 et=440.919</Score>
+<Score et="441.3">Nicholas Angel(6) lap=14 point=1 t=3.298 et=441.242</Score>
+<Score et="442.0">David Manning(8) lap=14 point=1 t=3.328 et=441.985</Score>
+<Score et="442.3">Joshua Grouseman(9) lap=14 point=1 t=3.232 et=442.270</Score>
+<Score et="442.5">Fabrizio Telasio(5) lap=14 point=1 t=3.259 et=442.428</Score>
+<Score et="442.7">James Conway(15) lap=14 point=1 t=3.286 et=442.639</Score>
+<Score et="442.8">JC Pommier(14) lap=14 point=1 t=3.255 et=442.783</Score>
+<Score et="443.1">Travis Bickle(11) lap=14 point=1 t=3.309 et=443.113</Score>
+<Score et="443.4">Bob Weymouth(1) lap=14 point=1 t=3.370 et=443.373</Score>
+<Score et="443.9">Marja Koel(10) lap=14 point=1 t=3.389 et=443.846</Score>
+<Score et="444.3">Frank Morris(12) lap=14 point=1 t=3.317 et=444.236</Score>
+<Score et="446.7">Max Zachem(2) lap=14 point=2 t=10.858 et=446.663</Score>
+<Score et="447.0">Richard Matthews(0) lap=14 point=2 t=10.685 et=446.928</Score>
+<Score et="447.4">Jesse Bunnell(4) lap=14 point=2 t=11.141 et=447.369</Score>
+<Incident et="447.5">Frank Morris(12) reported contact (0.48) with Immovable</Incident>
+<Incident et="447.6">Frank Morris(12) reported contact (0.03) with Immovable</Incident>
+<Incident et="447.6">Frank Morris(12) reported contact (0.19) with Immovable</Incident>
+<Score et="447.8">Simo Pukka(7) lap=14 point=2 t=10.900 et=447.753</Score>
+<Score et="448.1">Keijo Hiili(13) lap=14 point=2 t=10.841 et=448.095</Score>
+<Score et="448.3">Matt Johnson(3) lap=14 point=2 t=10.886 et=448.293</Score>
+<Score et="448.9">Nicholas Angel(6) lap=14 point=2 t=10.944 et=448.888</Score>
+<Score et="449.9">David Manning(8) lap=14 point=2 t=11.215 et=449.872</Score>
+<Score et="450.1">Joshua Grouseman(9) lap=14 point=2 t=11.067 et=450.105</Score>
+<Score et="450.3">Fabrizio Telasio(5) lap=14 point=2 t=11.097 et=450.266</Score>
+<Score et="450.4">James Conway(15) lap=14 point=2 t=11.055 et=450.408</Score>
+<Score et="450.6">JC Pommier(14) lap=14 point=2 t=11.003 et=450.530</Score>
+<Score et="450.8">Travis Bickle(11) lap=14 point=2 t=10.973 et=450.778</Score>
+<Score et="451.1">Bob Weymouth(1) lap=14 point=2 t=11.050 et=451.053</Score>
+<Score et="451.6">Marja Koel(10) lap=14 point=2 t=11.146 et=451.603</Score>
+<Score et="452.9">Max Zachem(2) lap=15 point=0 t=17.048 et=452.853</Score>
+<Score et="452.9">Richard Matthews(0) lap=15 point=0 t=16.666 et=452.909</Score>
+<Score et="453.6">Jesse Bunnell(4) lap=15 point=0 t=17.356 et=453.584</Score>
+<Score et="454.1">Simo Pukka(7) lap=15 point=0 t=17.220 et=454.072</Score>
+<Score et="454.3">Keijo Hiili(13) lap=15 point=0 t=17.004 et=454.258</Score>
+<Score et="454.6">Matt Johnson(3) lap=15 point=0 t=17.120 et=454.528</Score>
+<Score et="455.2">Nicholas Angel(6) lap=15 point=0 t=17.184 et=455.128</Score>
+<Score et="456.1">Richard Matthews(0) lap=15 point=1 t=3.170 et=456.079</Score>
+<Score et="456.1">Max Zachem(2) lap=15 point=1 t=3.235 et=456.088</Score>
+<Score et="456.2">David Manning(8) lap=15 point=0 t=17.564 et=456.221</Score>
+<Score et="456.5">Joshua Grouseman(9) lap=15 point=0 t=17.439 et=456.478</Score>
+<Score et="456.7">Fabrizio Telasio(5) lap=15 point=0 t=17.459 et=456.628</Score>
+<Score et="456.8">James Conway(15) lap=15 point=0 t=17.425 et=456.778</Score>
+<Score et="456.9">JC Pommier(14) lap=15 point=0 t=17.391 et=456.919</Score>
+<Score et="457.0">Jesse Bunnell(4) lap=15 point=1 t=3.344 et=456.928</Score>
+<Score et="457.2">Travis Bickle(11) lap=15 point=0 t=17.323 et=457.128</Score>
+<Score et="457.4">Bob Weymouth(1) lap=15 point=0 t=17.362 et=457.365</Score>
+<Score et="457.4">Simo Pukka(7) lap=15 point=1 t=3.349 et=457.422</Score>
+<Score et="457.5">Keijo Hiili(13) lap=15 point=1 t=3.249 et=457.507</Score>
+<Score et="457.8">Matt Johnson(3) lap=15 point=1 t=3.236 et=457.763</Score>
+<Score et="458.0">Marja Koel(10) lap=15 point=0 t=17.490 et=457.947</Score>
+<Score et="458.4">Nicholas Angel(6) lap=15 point=1 t=3.245 et=458.373</Score>
+<Score et="459.6">David Manning(8) lap=15 point=1 t=3.332 et=459.553</Score>
+<Score et="459.9">Joshua Grouseman(9) lap=15 point=1 t=3.342 et=459.819</Score>
+<Score et="460.0">Fabrizio Telasio(5) lap=15 point=1 t=3.325 et=459.953</Score>
+<Score et="460.1">James Conway(15) lap=15 point=1 t=3.330 et=460.108</Score>
+<Score et="460.3">JC Pommier(14) lap=15 point=1 t=3.348 et=460.267</Score>
+<Score et="460.5">Travis Bickle(11) lap=15 point=1 t=3.342 et=460.470</Score>
+<Score et="460.7">Bob Weymouth(1) lap=15 point=1 t=3.324 et=460.689</Score>
+<Score et="461.2">Marja Koel(10) lap=15 point=1 t=3.241 et=461.188</Score>
+<Score et="463.7">Richard Matthews(0) lap=15 point=2 t=10.728 et=463.637</Score>
+<Score et="463.8">Max Zachem(2) lap=15 point=2 t=10.900 et=463.753</Score>
+<Score et="464.8">Jesse Bunnell(4) lap=15 point=2 t=11.207 et=464.791</Score>
+<Score et="465.2">Keijo Hiili(13) lap=15 point=2 t=10.879 et=465.137</Score>
+<Score et="465.3">Simo Pukka(7) lap=15 point=2 t=11.180 et=465.253</Score>
+<Score et="465.4">Matt Johnson(3) lap=15 point=2 t=10.859 et=465.387</Score>
+<Score et="466.0">Nicholas Angel(6) lap=15 point=2 t=10.892 et=466.020</Score>
+<Score et="467.4">David Manning(8) lap=15 point=2 t=11.182 et=467.403</Score>
+<Score et="467.6">Joshua Grouseman(9) lap=15 point=2 t=11.134 et=467.611</Score>
+<Score et="467.8">Fabrizio Telasio(5) lap=15 point=2 t=11.143 et=467.771</Score>
+<Score et="468.0">James Conway(15) lap=15 point=2 t=11.175 et=467.953</Score>
+<Score et="468.2">JC Pommier(14) lap=15 point=2 t=11.228 et=468.147</Score>
+<Score et="468.3">Travis Bickle(11) lap=15 point=2 t=11.175 et=468.303</Score>
+<Score et="468.5">Bob Weymouth(1) lap=15 point=2 t=11.122 et=468.487</Score>
+<Score et="469.0">Marja Koel(10) lap=15 point=2 t=10.993 et=468.940</Score>
+<Score et="469.7">Richard Matthews(0) lap=16 point=0 t=16.814 et=469.723</Score>
+<Score et="470.1">Max Zachem(2) lap=16 point=0 t=17.270 et=470.123</Score>
+<Score et="471.2">Jesse Bunnell(4) lap=16 point=0 t=17.583 et=471.167</Score>
+<Score et="471.4">Keijo Hiili(13) lap=16 point=0 t=17.080 et=471.339</Score>
+<Score et="471.6">Matt Johnson(3) lap=16 point=0 t=17.028 et=471.556</Score>
+<Score et="471.6">Simo Pukka(7) lap=16 point=0 t=17.550 et=471.622</Score>
+<Score et="472.2">Nicholas Angel(6) lap=16 point=0 t=17.055 et=472.183</Score>
+<Score et="472.9">Richard Matthews(0) lap=16 point=1 t=3.119 et=472.843</Score>
+<Score et="473.6">Max Zachem(2) lap=16 point=1 t=3.455 et=473.578</Score>
+<Score et="473.8">David Manning(8) lap=16 point=0 t=17.582 et=473.803</Score>
+<Score et="474.0">Joshua Grouseman(9) lap=16 point=0 t=17.462 et=473.940</Score>
+<Score et="474.2">Fabrizio Telasio(5) lap=16 point=0 t=17.486 et=474.114</Score>
+<Score et="474.3">James Conway(15) lap=16 point=0 t=17.516 et=474.294</Score>
+<Score et="474.5">Jesse Bunnell(4) lap=16 point=1 t=3.313 et=474.480</Score>
+<Score et="474.6">JC Pommier(14) lap=16 point=0 t=17.597 et=474.516</Score>
+<Score et="474.7">Keijo Hiili(13) lap=16 point=1 t=3.297 et=474.636</Score>
+<Score et="474.7">Travis Bickle(11) lap=16 point=0 t=17.538 et=474.666</Score>
+<Score et="474.8">Matt Johnson(3) lap=16 point=1 t=3.225 et=474.781</Score>
+<Score et="474.9">Bob Weymouth(1) lap=16 point=0 t=17.488 et=474.853</Score>
+<Score et="475.0">Simo Pukka(7) lap=16 point=1 t=3.324 et=474.946</Score>
+<Score et="475.3">Marja Koel(10) lap=16 point=0 t=17.306 et=475.253</Score>
+<Score et="475.4">Nicholas Angel(6) lap=16 point=1 t=3.180 et=475.363</Score>
+<Score et="477.1">David Manning(8) lap=16 point=1 t=3.289 et=477.092</Score>
+<Score et="477.3">Joshua Grouseman(9) lap=16 point=1 t=3.295 et=477.235</Score>
+<Score et="477.5">Fabrizio Telasio(5) lap=16 point=1 t=3.346 et=477.461</Score>
+<Score et="477.7">James Conway(15) lap=16 point=1 t=3.334 et=477.628</Score>
+<Score et="477.9">JC Pommier(14) lap=16 point=1 t=3.327 et=477.843</Score>
+<Score et="478.0">Travis Bickle(11) lap=16 point=1 t=3.323 et=477.989</Score>
+<Score et="478.2">Bob Weymouth(1) lap=16 point=1 t=3.321 et=478.174</Score>
+<Score et="478.6">Marja Koel(10) lap=16 point=1 t=3.355 et=478.608</Score>
+<Score et="480.6">Richard Matthews(0) lap=16 point=2 t=10.823 et=480.546</Score>
+<Score et="481.4">Max Zachem(2) lap=16 point=2 t=11.245 et=481.367</Score>
+<Score et="482.4">Jesse Bunnell(4) lap=16 point=2 t=11.170 et=482.337</Score>
+<Score et="482.4">Matt Johnson(3) lap=16 point=2 t=10.850 et=482.406</Score>
+<Score et="482.5">Keijo Hiili(13) lap=16 point=2 t=11.153 et=482.492</Score>
+<Score et="482.8">Simo Pukka(7) lap=16 point=2 t=11.167 et=482.789</Score>
+<Score et="483.2">Nicholas Angel(6) lap=16 point=2 t=10.949 et=483.132</Score>
+<Score et="485.0">David Manning(8) lap=16 point=2 t=11.175 et=484.978</Score>
+<Score et="485.2">Joshua Grouseman(9) lap=16 point=2 t=11.188 et=485.128</Score>
+<Score et="485.4">Fabrizio Telasio(5) lap=16 point=2 t=11.229 et=485.344</Score>
+<Score et="485.5">James Conway(15) lap=16 point=2 t=11.191 et=485.485</Score>
+<Score et="485.7">JC Pommier(14) lap=16 point=2 t=11.139 et=485.654</Score>
+<Score et="485.9">Travis Bickle(11) lap=16 point=2 t=11.187 et=485.853</Score>
+<Score et="486.0">Bob Weymouth(1) lap=16 point=2 t=11.130 et=485.983</Score>
+<Score et="486.5">Marja Koel(10) lap=16 point=2 t=11.188 et=486.441</Score>
+<Score et="486.7">Richard Matthews(0) lap=17 point=0 t=16.982 et=486.705</Score>
+<Score et="487.6">Max Zachem(2) lap=17 point=0 t=17.461 et=487.584</Score>
+<Score et="488.6">Matt Johnson(3) lap=17 point=0 t=17.049 et=488.605</Score>
+<Score et="488.7">Jesse Bunnell(4) lap=17 point=0 t=17.519 et=488.686</Score>
+<Score et="488.9">Keijo Hiili(13) lap=17 point=0 t=17.491 et=488.829</Score>
+<Score et="489.1">Simo Pukka(7) lap=17 point=0 t=17.491 et=489.113</Score>
+<Score et="489.5">Nicholas Angel(6) lap=17 point=0 t=17.270 et=489.453</Score>
+<Score et="489.7">Richard Matthews(0) lap=17 point=1 t=2.973 et=489.678</Score>
+<Score et="490.8">Max Zachem(2) lap=17 point=1 t=3.236 et=490.820</Score>
+<Score et="491.3">David Manning(8) lap=17 point=0 t=17.491 et=491.294</Score>
+<Score et="491.5">Joshua Grouseman(9) lap=17 point=0 t=17.543 et=491.483</Score>
+<Score et="491.7">Fabrizio Telasio(5) lap=17 point=0 t=17.547 et=491.662</Score>
+<Score et="491.8">Matt Johnson(3) lap=17 point=1 t=3.200 et=491.805</Score>
+<Score et="491.8">James Conway(15) lap=17 point=0 t=17.523 et=491.817</Score>
+<Score et="492.0">JC Pommier(14) lap=17 point=0 t=17.453 et=491.969</Score>
+<Score et="492.0">Jesse Bunnell(4) lap=17 point=1 t=3.322 et=492.007</Score>
+<Score et="492.2">Travis Bickle(11) lap=17 point=0 t=17.537 et=492.203</Score>
+<Score et="492.3">Keijo Hiili(13) lap=17 point=1 t=3.434 et=492.263</Score>
+<Score et="492.4">Bob Weymouth(1) lap=17 point=0 t=17.490 et=492.343</Score>
+<Score et="492.5">Simo Pukka(7) lap=17 point=1 t=3.375 et=492.488</Score>
+<Score et="492.8">Marja Koel(10) lap=17 point=0 t=17.500 et=492.753</Score>
+<Score et="492.8">Nicholas Angel(6) lap=17 point=1 t=3.343 et=492.796</Score>
+<Score et="494.7">David Manning(8) lap=17 point=1 t=3.343 et=494.637</Score>
+<Score et="494.8">Joshua Grouseman(9) lap=17 point=1 t=3.340 et=494.823</Score>
+<Score et="495.1">Fabrizio Telasio(5) lap=17 point=1 t=3.406 et=495.068</Score>
+<Score et="495.2">JC Pommier(14) lap=17 point=1 t=3.238 et=495.207</Score>
+<Score et="495.2">James Conway(15) lap=17 point=1 t=3.391 et=495.208</Score>
+<Score et="495.5">Travis Bickle(11) lap=17 point=1 t=3.310 et=495.513</Score>
+<Score et="495.7">Bob Weymouth(1) lap=17 point=1 t=3.337 et=495.681</Score>
+<Score et="496.1">Marja Koel(10) lap=17 point=1 t=3.325 et=496.078</Score>
+<Score et="497.3">Richard Matthews(0) lap=17 point=2 t=10.537 et=497.242</Score>
+<Score et="498.5">Max Zachem(2) lap=17 point=2 t=10.874 et=498.458</Score>
+<Score et="499.5">Matt Johnson(3) lap=17 point=2 t=10.839 et=499.444</Score>
+<Score et="499.9">Jesse Bunnell(4) lap=17 point=2 t=11.202 et=499.888</Score>
+<Score et="500.1">Keijo Hiili(13) lap=17 point=2 t=11.273 et=500.103</Score>
+<Score et="500.3">Simo Pukka(7) lap=17 point=2 t=11.168 et=500.281</Score>
+<Score et="500.7">Nicholas Angel(6) lap=17 point=2 t=11.175 et=500.628</Score>
+<Score et="502.6">David Manning(8) lap=17 point=2 t=11.209 et=502.503</Score>
+<Score et="502.7">Joshua Grouseman(9) lap=17 point=2 t=11.228 et=502.711</Score>
+<Score et="502.9">JC Pommier(14) lap=17 point=2 t=10.884 et=502.853</Score>
+<Score et="502.9">Fabrizio Telasio(5) lap=17 point=2 t=11.216 et=502.878</Score>
+<Score et="503.1">James Conway(15) lap=17 point=2 t=11.225 et=503.043</Score>
+<Score et="503.2">Travis Bickle(11) lap=17 point=2 t=11.015 et=503.217</Score>
+<Score et="503.5">Richard Matthews(0) lap=18 point=0 t=16.755 et=503.460</Score>
+<Score et="503.5">Bob Weymouth(1) lap=17 point=2 t=11.160 et=503.503</Score>
+<Score et="503.9">Marja Koel(10) lap=17 point=2 t=11.143 et=503.896</Score>
+<Score et="504.7">Max Zachem(2) lap=18 point=0 t=17.069 et=504.653</Score>
+<Score et="505.7">Matt Johnson(3) lap=18 point=0 t=17.061 et=505.666</Score>
+<Score et="506.3">Jesse Bunnell(4) lap=18 point=0 t=17.556 et=506.241</Score>
+<Score et="506.4">Keijo Hiili(13) lap=18 point=0 t=17.591 et=506.421</Score>
+<Score et="506.5">Richard Matthews(0) lap=18 point=1 t=3.018 et=506.478</Score>
+<Score et="506.6">Simo Pukka(7) lap=18 point=0 t=17.492 et=506.605</Score>
+<Score et="507.0">Nicholas Angel(6) lap=18 point=0 t=17.535 et=506.988</Score>
+<Score et="507.9">Max Zachem(2) lap=18 point=1 t=3.236 et=507.889</Score>
+<Score et="508.9">Matt Johnson(3) lap=18 point=1 t=3.232 et=508.898</Score>
+<Score et="508.9">David Manning(8) lap=18 point=0 t=17.600 et=508.894</Score>
+<Score et="509.1">Joshua Grouseman(9) lap=18 point=0 t=17.578 et=509.061</Score>
+<Score et="509.2">JC Pommier(14) lap=18 point=0 t=17.159 et=509.128</Score>
+<Score et="509.3">Fabrizio Telasio(5) lap=18 point=0 t=17.576 et=509.238</Score>
+<Score et="509.4">James Conway(15) lap=18 point=0 t=17.579 et=509.396</Score>
+<Score et="509.6">Travis Bickle(11) lap=18 point=0 t=17.382 et=509.585</Score>
+<Score et="509.6">Jesse Bunnell(4) lap=18 point=1 t=3.383 et=509.625</Score>
+<Score et="509.8">Keijo Hiili(13) lap=18 point=1 t=3.365 et=509.786</Score>
+<Score et="509.8">Bob Weymouth(1) lap=18 point=0 t=17.462 et=509.805</Score>
+<Score et="510.0">Simo Pukka(7) lap=18 point=1 t=3.344 et=509.949</Score>
+<Score et="510.3">Marja Koel(10) lap=18 point=0 t=17.488 et=510.240</Score>
+<Score et="510.3">Nicholas Angel(6) lap=18 point=1 t=3.319 et=510.306</Score>
+<Score et="512.2">David Manning(8) lap=18 point=1 t=3.304 et=512.198</Score>
+<Score et="512.4">JC Pommier(14) lap=18 point=1 t=3.217 et=512.344</Score>
+<Score et="512.4">Joshua Grouseman(9) lap=18 point=1 t=3.297 et=512.358</Score>
+<Score et="512.6">Fabrizio Telasio(5) lap=18 point=1 t=3.366 et=512.605</Score>
+<Score et="512.8">James Conway(15) lap=18 point=1 t=3.344 et=512.741</Score>
+<Score et="513.0">Travis Bickle(11) lap=18 point=1 t=3.343 et=512.928</Score>
+<Score et="513.1">Bob Weymouth(1) lap=18 point=1 t=3.247 et=513.053</Score>
+<Score et="513.6">Marja Koel(10) lap=18 point=1 t=3.364 et=513.604</Score>
+<Score et="514.0">Richard Matthews(0) lap=18 point=2 t=10.495 et=513.955</Score>
+<Score et="515.6">Max Zachem(2) lap=18 point=2 t=10.900 et=515.553</Score>
+<Score et="516.6">Matt Johnson(3) lap=18 point=2 t=10.862 et=516.528</Score>
+<Score et="517.3">Jesse Bunnell(4) lap=18 point=2 t=10.988 et=517.230</Score>
+<Score et="517.5">Keijo Hiili(13) lap=18 point=2 t=11.091 et=517.512</Score>
+<Score et="517.7">Simo Pukka(7) lap=18 point=2 t=11.073 et=517.678</Score>
+<Score et="518.1">Nicholas Angel(6) lap=18 point=2 t=11.083 et=518.070</Score>
+<Score et="520.1">Richard Matthews(0) lap=19 point=0 t=16.580 et=520.040</Score>
+<Score et="520.1">David Manning(8) lap=18 point=2 t=11.167 et=520.061</Score>
+<Score et="520.1">JC Pommier(14) lap=18 point=2 t=10.944 et=520.072</Score>
+<Score et="520.2">Joshua Grouseman(9) lap=18 point=2 t=11.117 et=520.178</Score>
+<Score et="520.5">Fabrizio Telasio(5) lap=18 point=2 t=11.197 et=520.435</Score>
+<Score et="520.6">James Conway(15) lap=18 point=2 t=11.191 et=520.587</Score>
+<Score et="520.8">Travis Bickle(11) lap=18 point=2 t=11.148 et=520.733</Score>
+<Score et="520.9">Bob Weymouth(1) lap=18 point=2 t=11.101 et=520.907</Score>
+<Score et="521.5">Marja Koel(10) lap=18 point=2 t=11.187 et=521.428</Score>
+<Score et="521.8">Max Zachem(2) lap=19 point=0 t=17.088 et=521.741</Score>
+<Score et="522.7">Matt Johnson(3) lap=19 point=0 t=17.016 et=522.682</Score>
+<Score et="523.2">Richard Matthews(0) lap=19 point=1 t=3.128 et=523.168</Score>
+<Score et="523.4">Jesse Bunnell(4) lap=19 point=0 t=17.123 et=523.364</Score>
+<Score et="523.9">Keijo Hiili(13) lap=19 point=0 t=17.460 et=523.880</Score>
+<Score et="524.1">Simo Pukka(7) lap=19 point=0 t=17.431 et=524.036</Score>
+<Score et="524.4">Nicholas Angel(6) lap=19 point=0 t=17.400 et=524.387</Score>
+<Score et="525.0">Max Zachem(2) lap=19 point=1 t=3.227 et=524.968</Score>
+<Score et="525.9">Matt Johnson(3) lap=19 point=1 t=3.241 et=525.923</Score>
+<Score et="526.3">JC Pommier(14) lap=19 point=0 t=17.190 et=526.317</Score>
+<Score et="526.5">David Manning(8) lap=19 point=0 t=17.588 et=526.483</Score>
+<Score et="526.6">Jesse Bunnell(4) lap=19 point=1 t=3.203 et=526.567</Score>
+<Score et="526.6">Joshua Grouseman(9) lap=19 point=0 t=17.559 et=526.619</Score>
+<Score et="526.8">Fabrizio Telasio(5) lap=19 point=0 t=17.565 et=526.803</Score>
+<Score et="527.0">James Conway(15) lap=19 point=0 t=17.574 et=526.971</Score>
+<Score et="527.1">Travis Bickle(11) lap=19 point=0 t=17.524 et=527.109</Score>
+<Score et="527.2">Keijo Hiili(13) lap=19 point=1 t=3.309 et=527.190</Score>
+<Score et="527.3">Bob Weymouth(1) lap=19 point=0 t=17.488 et=527.293</Score>
+<Score et="527.4">Simo Pukka(7) lap=19 point=1 t=3.329 et=527.364</Score>
+<Score et="527.7">Marja Koel(10) lap=19 point=0 t=17.473 et=527.713</Score>
+<Score et="527.8">Nicholas Angel(6) lap=19 point=1 t=3.366 et=527.753</Score>
+<Score et="529.6">JC Pommier(14) lap=19 point=1 t=3.228 et=529.545</Score>
+<Score et="529.7">David Manning(8) lap=19 point=1 t=3.220 et=529.703</Score>
+<Score et="529.9">Joshua Grouseman(9) lap=19 point=1 t=3.228 et=529.847</Score>
+<Score et="530.1">Fabrizio Telasio(5) lap=19 point=1 t=3.239 et=530.041</Score>
+<Score et="530.3">James Conway(15) lap=19 point=1 t=3.283 et=530.253</Score>
+<Score et="530.5">Travis Bickle(11) lap=19 point=1 t=3.343 et=530.453</Score>
+<Score et="530.7">Bob Weymouth(1) lap=19 point=1 t=3.380 et=530.673</Score>
+<Score et="530.9">Richard Matthews(0) lap=19 point=2 t=10.788 et=530.828</Score>
+<Score et="531.1">Marja Koel(10) lap=19 point=1 t=3.317 et=531.030</Score>
+<Score et="532.6">Max Zachem(2) lap=19 point=2 t=10.875 et=532.615</Score>
+<Score et="533.6">Matt Johnson(3) lap=19 point=2 t=10.910 et=533.592</Score>
+<Score et="534.3">Jesse Bunnell(4) lap=19 point=2 t=10.939 et=534.303</Score>
+<Score et="535.1">Keijo Hiili(13) lap=19 point=2 t=11.163 et=535.043</Score>
+<Score et="535.3">Simo Pukka(7) lap=19 point=2 t=11.192 et=535.228</Score>
+<Score et="535.6">Nicholas Angel(6) lap=19 point=2 t=11.157 et=535.544</Score>
+<Score et="537.1">Richard Matthews(0) lap=20 point=0 t=16.988 et=537.028</Score>
+<Score et="537.2">JC Pommier(14) lap=19 point=2 t=10.835 et=537.153</Score>
+<Score et="537.6">David Manning(8) lap=19 point=2 t=11.111 et=537.593</Score>
+<Score et="537.7">Joshua Grouseman(9) lap=19 point=2 t=11.034 et=537.653</Score>
+<Score et="537.9">Fabrizio Telasio(5) lap=19 point=2 t=11.064 et=537.867</Score>
+<Score et="538.1">James Conway(15) lap=19 point=2 t=11.077 et=538.047</Score>
+<Score et="538.3">Travis Bickle(11) lap=19 point=2 t=11.136 et=538.245</Score>
+<Score et="538.4">Bob Weymouth(1) lap=19 point=2 t=11.117 et=538.410</Score>
+<Score et="538.8">Marja Koel(10) lap=19 point=2 t=11.090 et=538.803</Score>
+<Score et="538.9">Max Zachem(2) lap=20 point=0 t=17.092 et=538.833</Score>
+<Score et="539.9">Matt Johnson(3) lap=20 point=0 t=17.148 et=539.830</Score>
+<Score et="540.1">Richard Matthews(0) lap=20 point=1 t=3.054 et=540.082</Score>
+<Score et="540.4">Jesse Bunnell(4) lap=20 point=0 t=17.024 et=540.388</Score>
+<Score et="541.1">Keijo Hiili(13) lap=20 point=0 t=17.183 et=541.063</Score>
+<Score et="541.3">Simo Pukka(7) lap=20 point=0 t=17.203 et=541.239</Score>
+<Score et="541.7">Nicholas Angel(6) lap=20 point=0 t=17.274 et=541.662</Score>
+<Score et="542.1">Max Zachem(2) lap=20 point=1 t=3.240 et=542.073</Score>
+<Score et="543.1">Matt Johnson(3) lap=20 point=1 t=3.243 et=543.073</Score>
+<Score et="543.3">JC Pommier(14) lap=20 point=0 t=16.976 et=543.294</Score>
+<Score et="543.6">Jesse Bunnell(4) lap=20 point=1 t=3.231 et=543.619</Score>
+<Score et="543.9">Joshua Grouseman(9) lap=20 point=0 t=17.286 et=543.905</Score>
+<Score et="544.0">David Manning(8) lap=20 point=0 t=17.451 et=543.934</Score>
+<Score et="544.1">Fabrizio Telasio(5) lap=20 point=0 t=17.307 et=544.109</Score>
+<Score et="544.3">Keijo Hiili(13) lap=20 point=1 t=3.204 et=544.267</Score>
+<Score et="544.3">James Conway(15) lap=20 point=0 t=17.307 et=544.278</Score>
+<Score et="544.4">Simo Pukka(7) lap=20 point=1 t=3.168 et=544.407</Score>
+<Score et="544.5">Travis Bickle(11) lap=20 point=0 t=17.353 et=544.463</Score>
+<Score et="544.7">Bob Weymouth(1) lap=20 point=0 t=17.335 et=544.628</Score>
+<Score et="544.9">Nicholas Angel(6) lap=20 point=1 t=3.194 et=544.855</Score>
+<Score et="545.1">Marja Koel(10) lap=20 point=0 t=17.323 et=545.036</Score>
+<Score et="546.5">JC Pommier(14) lap=20 point=1 t=3.217 et=546.511</Score>
+<Score et="547.2">Joshua Grouseman(9) lap=20 point=1 t=3.248 et=547.153</Score>
+<Score et="547.3">David Manning(8) lap=20 point=1 t=3.336 et=547.270</Score>
+<Score et="547.4">Fabrizio Telasio(5) lap=20 point=1 t=3.243 et=547.353</Score>
+<Score et="547.6">James Conway(15) lap=20 point=1 t=3.250 et=547.528</Score>
+<Score et="547.6">Richard Matthews(0) lap=20 point=2 t=10.543 et=547.571</Score>
+<Score et="547.7">Travis Bickle(11) lap=20 point=1 t=3.228 et=547.691</Score>
+<Score et="547.9">Bob Weymouth(1) lap=20 point=1 t=3.252 et=547.880</Score>
+<Score et="548.3">Marja Koel(10) lap=20 point=1 t=3.246 et=548.283</Score>
+<Score et="549.8">Max Zachem(2) lap=20 point=2 t=10.889 et=549.721</Score>
+<Score et="550.8">Matt Johnson(3) lap=20 point=2 t=10.898 et=550.728</Score>
+<Score et="551.3">Jesse Bunnell(4) lap=20 point=2 t=10.874 et=551.262</Score>
+<Score et="552.0">Keijo Hiili(13) lap=20 point=2 t=10.876 et=551.939</Score>
+<Score et="552.2">Simo Pukka(7) lap=20 point=2 t=10.915 et=552.154</Score>
+<Score et="552.5">Nicholas Angel(6) lap=20 point=2 t=10.835 et=552.496</Score>
+<Score et="553.6">Richard Matthews(0) lap=21 point=0 t=16.567 et=553.594</Score>
+<Score et="554.2">JC Pommier(14) lap=20 point=2 t=10.847 et=554.141</Score>
+<Score et="554.8">Joshua Grouseman(9) lap=20 point=2 t=10.882 et=554.787</Score>
+<Score et="555.0">Fabrizio Telasio(5) lap=20 point=2 t=10.849 et=554.958</Score>
+<Score et="555.1">David Manning(8) lap=20 point=2 t=11.178 et=555.112</Score>
+<Score et="555.2">James Conway(15) lap=20 point=2 t=10.868 et=555.146</Score>
+<Score et="555.4">Travis Bickle(11) lap=20 point=2 t=10.852 et=555.314</Score>
+<Score et="555.5">Bob Weymouth(1) lap=20 point=2 t=10.887 et=555.515</Score>
+<Score et="555.9">Max Zachem(2) lap=21 point=0 t=17.077 et=555.909</Score>
+<Score et="555.9">Marja Koel(10) lap=20 point=2 t=10.868 et=555.904</Score>
+<Score et="556.7">Richard Matthews(0) lap=21 point=1 t=3.052 et=556.646</Score>
+<Score et="556.9">Matt Johnson(3) lap=21 point=0 t=17.079 et=556.909</Score>
+<Score et="557.5">Jesse Bunnell(4) lap=21 point=0 t=17.070 et=557.458</Score>
+<Score et="558.0">Keijo Hiili(13) lap=21 point=0 t=16.933 et=557.996</Score>
+<Score et="558.2">Simo Pukka(7) lap=21 point=0 t=16.939 et=558.178</Score>
+<Score et="558.6">Nicholas Angel(6) lap=21 point=0 t=16.885 et=558.547</Score>
+<Score et="559.2">Max Zachem(2) lap=21 point=1 t=3.238 et=559.147</Score>
+<Score et="560.2">Matt Johnson(3) lap=21 point=1 t=3.219 et=560.128</Score>
+<Score et="560.3">JC Pommier(14) lap=21 point=0 t=17.024 et=560.318</Score>
+<Score et="560.7">Jesse Bunnell(4) lap=21 point=1 t=3.233 et=560.692</Score>
+<Score et="560.9">Joshua Grouseman(9) lap=21 point=0 t=16.958 et=560.864</Score>
+<Score et="561.1">Fabrizio Telasio(5) lap=21 point=0 t=16.918 et=561.028</Score>
+<Score et="561.2">Keijo Hiili(13) lap=21 point=1 t=3.175 et=561.171</Score>
+<Score et="561.3">James Conway(15) lap=21 point=0 t=16.971 et=561.249</Score>
+<Score et="561.5">Simo Pukka(7) lap=21 point=1 t=3.257 et=561.435</Score>
+<Score et="561.5">David Manning(8) lap=21 point=0 t=17.572 et=561.506</Score>
+<Score et="561.6">Travis Bickle(11) lap=21 point=0 t=17.090 et=561.553</Score>
+<Score et="561.7">Bob Weymouth(1) lap=21 point=0 t=17.088 et=561.716</Score>
+<Score et="561.9">Nicholas Angel(6) lap=21 point=1 t=3.315 et=561.861</Score>
+<Score et="562.1">Marja Koel(10) lap=21 point=0 t=17.019 et=562.055</Score>
+<Score et="563.6">JC Pommier(14) lap=21 point=1 t=3.261 et=563.579</Score>
+<Score et="564.1">Richard Matthews(0) lap=21 point=2 t=10.490 et=564.084</Score>
+<Score et="564.2">Joshua Grouseman(9) lap=21 point=1 t=3.323 et=564.186</Score>
+<Score et="564.4">Fabrizio Telasio(5) lap=21 point=1 t=3.319 et=564.347</Score>
+<Score et="564.6">James Conway(15) lap=21 point=1 t=3.342 et=564.591</Score>
+<Score et="564.8">Travis Bickle(11) lap=21 point=1 t=3.191 et=564.744</Score>
+<Score et="564.8">David Manning(8) lap=21 point=1 t=3.304 et=564.810</Score>
+<Score et="565.0">Bob Weymouth(1) lap=21 point=1 t=3.226 et=564.941</Score>
+<Score et="565.3">Marja Koel(10) lap=21 point=1 t=3.223 et=565.278</Score>
+<Score et="566.8">Max Zachem(2) lap=21 point=2 t=10.894 et=566.803</Score>
+<Score et="567.8">Matt Johnson(3) lap=21 point=2 t=10.832 et=567.741</Score>
+<Score et="568.3">Jesse Bunnell(4) lap=21 point=2 t=10.862 et=568.321</Score>
+<Score et="568.8">Keijo Hiili(13) lap=21 point=2 t=10.791 et=568.788</Score>
+<Score et="569.2">Simo Pukka(7) lap=21 point=2 t=10.968 et=569.147</Score>
+<Score et="569.5">Nicholas Angel(6) lap=21 point=2 t=10.923 et=569.470</Score>
+<Score et="570.2">Richard Matthews(0) lap=22 point=0 t=16.544 et=570.138</Score>
+<Score et="571.4">JC Pommier(14) lap=21 point=2 t=11.027 et=571.345</Score>
+<Score et="572.0">Joshua Grouseman(9) lap=21 point=2 t=11.131 et=571.995</Score>
+<Score et="572.2">Fabrizio Telasio(5) lap=21 point=2 t=11.150 et=572.178</Score>
+<Score et="572.4">Travis Bickle(11) lap=21 point=2 t=10.801 et=572.354</Score>
+<Score et="572.4">James Conway(15) lap=21 point=2 t=11.163 et=572.411</Score>
+<Score et="572.6">Bob Weymouth(1) lap=21 point=2 t=10.862 et=572.578</Score>
+<Score et="572.7">David Manning(8) lap=21 point=2 t=11.160 et=572.666</Score>
+<Score et="573.0">Marja Koel(10) lap=21 point=2 t=10.882 et=572.937</Score>
+<Score et="573.0">Max Zachem(2) lap=22 point=0 t=17.080 et=572.989</Score>
+<Score et="573.2">Richard Matthews(0) lap=22 point=1 t=2.995 et=573.133</Score>
+<Score et="574.0">Matt Johnson(3) lap=22 point=0 t=17.019 et=573.928</Score>
+<Score et="574.6">Jesse Bunnell(4) lap=22 point=0 t=17.073 et=574.532</Score>
+<Score et="575.0">Keijo Hiili(13) lap=22 point=0 t=17.013 et=575.009</Score>
+<Score et="575.4">Simo Pukka(7) lap=22 point=0 t=17.225 et=575.404</Score>
+<Score et="575.7">Nicholas Angel(6) lap=22 point=0 t=17.106 et=575.653</Score>
+<Score et="576.2">Max Zachem(2) lap=22 point=1 t=3.230 et=576.218</Score>
+<Score et="577.2">Matt Johnson(3) lap=22 point=1 t=3.242 et=577.170</Score>
+<Score et="577.7">JC Pommier(14) lap=22 point=0 t=17.401 et=577.718</Score>
+<Score et="577.8">Jesse Bunnell(4) lap=22 point=1 t=3.238 et=577.769</Score>
+<Score et="578.3">Keijo Hiili(13) lap=22 point=1 t=3.269 et=578.278</Score>
+<Score et="578.4">Joshua Grouseman(9) lap=22 point=0 t=17.501 et=578.365</Score>
+<Score et="578.5">Fabrizio Telasio(5) lap=22 point=0 t=17.427 et=578.455</Score>
+<Score et="578.6">Travis Bickle(11) lap=22 point=0 t=17.070 et=578.622</Score>
+<Score et="578.8">James Conway(15) lap=22 point=0 t=17.517 et=578.765</Score>
+<Score et="578.8">Bob Weymouth(1) lap=22 point=0 t=17.096 et=578.812</Score>
+<Score et="578.8">Simo Pukka(7) lap=22 point=1 t=3.408 et=578.812</Score>
+<Score et="578.9">Nicholas Angel(6) lap=22 point=1 t=3.225 et=578.878</Score>
+<Score et="579.0">David Manning(8) lap=22 point=0 t=17.472 et=578.978</Score>
+<Score et="579.2">Marja Koel(10) lap=22 point=0 t=17.073 et=579.128</Score>
+<Score et="580.7">Richard Matthews(0) lap=22 point=2 t=10.541 et=580.679</Score>
+<Score et="581.1">JC Pommier(14) lap=22 point=1 t=3.346 et=581.064</Score>
+<Score et="581.7">Fabrizio Telasio(5) lap=22 point=1 t=3.241 et=581.695</Score>
+<Score et="581.8">Joshua Grouseman(9) lap=22 point=1 t=3.379 et=581.744</Score>
+<Score et="581.9">Travis Bickle(11) lap=22 point=1 t=3.265 et=581.887</Score>
+<Score et="582.1">Bob Weymouth(1) lap=22 point=1 t=3.251 et=582.062</Score>
+<Score et="582.1">James Conway(15) lap=22 point=1 t=3.329 et=582.095</Score>
+<Score et="582.3">David Manning(8) lap=22 point=1 t=3.261 et=582.239</Score>
+<Score et="582.4">Marja Koel(10) lap=22 point=1 t=3.261 et=582.389</Score>
+<Score et="583.9">Max Zachem(2) lap=22 point=2 t=10.889 et=583.878</Score>
+<Score et="584.9">Matt Johnson(3) lap=22 point=2 t=10.928 et=584.856</Score>
+<Score et="585.6">Jesse Bunnell(4) lap=22 point=2 t=10.996 et=585.528</Score>
+<Score et="586.1">Keijo Hiili(13) lap=22 point=2 t=11.096 et=586.105</Score>
+<Score et="586.6">Nicholas Angel(6) lap=22 point=2 t=10.951 et=586.604</Score>
+<Score et="586.6">Simo Pukka(7) lap=22 point=2 t=11.209 et=586.612</Score>
+<Score et="586.8">Richard Matthews(0) lap=23 point=0 t=16.616 et=586.754</Score>
+<Score et="589.0">JC Pommier(14) lap=22 point=2 t=11.260 et=588.978</Score>
+<Score et="589.3">Fabrizio Telasio(5) lap=22 point=2 t=10.814 et=589.268</Score>
+<Score et="589.6">Travis Bickle(11) lap=22 point=2 t=10.984 et=589.606</Score>
+<Score et="589.7">Joshua Grouseman(9) lap=22 point=2 t=11.317 et=589.682</Score>
+<Score et="589.8">Bob Weymouth(1) lap=22 point=2 t=10.941 et=589.753</Score>
+<Score et="589.9">Richard Matthews(0) lap=23 point=1 t=3.074 et=589.828</Score>
+<Score et="589.9">James Conway(15) lap=22 point=2 t=11.124 et=589.889</Score>
+<Score et="590.0">Marja Koel(10) lap=22 point=2 t=10.836 et=589.964</Score>
+<Score et="590.1">David Manning(8) lap=22 point=2 t=11.085 et=590.063</Score>
+<Score et="590.1">Max Zachem(2) lap=23 point=0 t=17.098 et=590.086</Score>
+<Score et="591.1">Matt Johnson(3) lap=23 point=0 t=17.160 et=591.088</Score>
+<Score et="591.7">Jesse Bunnell(4) lap=23 point=0 t=17.188 et=591.720</Score>
+<Score et="592.6">Keijo Hiili(13) lap=23 point=0 t=17.520 et=592.529</Score>
+<Score et="592.9">Nicholas Angel(6) lap=23 point=0 t=17.183 et=592.835</Score>
+<Score et="593.0">Simo Pukka(7) lap=23 point=0 t=17.611 et=593.015</Score>
+<Score et="593.3">Max Zachem(2) lap=23 point=1 t=3.230 et=593.317</Score>
+<Score et="594.4">Matt Johnson(3) lap=23 point=1 t=3.240 et=594.328</Score>
+<Score et="595.0">Jesse Bunnell(4) lap=23 point=1 t=3.250 et=594.970</Score>
+<Score et="595.4">JC Pommier(14) lap=23 point=0 t=17.635 et=595.353</Score>
+<Score et="595.4">Fabrizio Telasio(5) lap=23 point=0 t=16.962 et=595.417</Score>
+<Score et="595.8">Travis Bickle(11) lap=23 point=0 t=17.173 et=595.795</Score>
+<Score et="595.8">Keijo Hiili(13) lap=23 point=1 t=3.276 et=595.804</Score>
+<Score et="596.0">Bob Weymouth(1) lap=23 point=0 t=17.153 et=595.965</Score>
+<Score et="596.1">Joshua Grouseman(9) lap=23 point=0 t=17.663 et=596.028</Score>
+<Score et="596.1">Nicholas Angel(6) lap=23 point=1 t=3.236 et=596.072</Score>
+<Score et="596.2">Marja Koel(10) lap=23 point=0 t=17.009 et=596.136</Score>
+<Score et="596.3">James Conway(15) lap=23 point=0 t=17.462 et=596.228</Score>
+<Score et="596.5">David Manning(8) lap=23 point=0 t=17.455 et=596.433</Score>
+<Score et="597.3">Richard Matthews(0) lap=23 point=2 t=10.520 et=597.274</Score>
+<Score et="598.7">Fabrizio Telasio(5) lap=23 point=1 t=3.247 et=598.664</Score>
+<Score et="598.9">JC Pommier(14) lap=23 point=1 t=3.492 et=598.845</Score>
+<Score et="599.0">Travis Bickle(11) lap=23 point=1 t=3.221 et=599.016</Score>
+<Score et="599.2">Bob Weymouth(1) lap=23 point=1 t=3.254 et=599.218</Score>
+<Score et="599.4">Joshua Grouseman(9) lap=23 point=1 t=3.319 et=599.347</Score>
+<Score et="599.4">Marja Koel(10) lap=23 point=1 t=3.259 et=599.395</Score>
+<Score et="599.6">James Conway(15) lap=23 point=1 t=3.328 et=599.556</Score>
+<Score et="599.8">David Manning(8) lap=23 point=1 t=3.331 et=599.764</Score>
+<Score et="600.0">Simo Pukka(7) lap=23 point=1 t=6.927 et=599.942</Score>
+<Score et="601.0">Max Zachem(2) lap=23 point=2 t=10.866 et=600.953</Score>
+<Score et="602.0">Matt Johnson(3) lap=23 point=2 t=10.869 et=601.957</Score>
+<Score et="602.6">Jesse Bunnell(4) lap=23 point=2 t=10.871 et=602.591</Score>
+<Score et="603.3">Richard Matthews(0) lap=24 point=0 t=16.566 et=603.320</Score>
+<Score et="603.4">Keijo Hiili(13) lap=23 point=2 t=10.869 et=603.398</Score>
+<Score et="603.7">Nicholas Angel(6) lap=23 point=2 t=10.801 et=603.636</Score>
+<Score et="606.4">Fabrizio Telasio(5) lap=23 point=2 t=10.899 et=606.316</Score>
+<Score et="606.4">Richard Matthews(0) lap=24 point=1 t=3.076 et=606.396</Score>
+<Score et="606.6">JC Pommier(14) lap=23 point=2 t=11.214 et=606.567</Score>
+<Score et="606.7">Travis Bickle(11) lap=23 point=2 t=10.883 et=606.678</Score>
+<Score et="606.9">Bob Weymouth(1) lap=23 point=2 t=10.864 et=606.829</Score>
+<Score et="607.1">Marja Koel(10) lap=23 point=2 t=10.916 et=607.053</Score>
+<Score et="607.2">Max Zachem(2) lap=24 point=0 t=17.056 et=607.142</Score>
+<Score et="607.2">Joshua Grouseman(9) lap=23 point=2 t=11.100 et=607.128</Score>
+<Score et="607.4">James Conway(15) lap=23 point=2 t=11.143 et=607.371</Score>
+<Score et="607.6">David Manning(8) lap=23 point=2 t=11.172 et=607.605</Score>
+<Score et="608.1">Matt Johnson(3) lap=24 point=0 t=17.022 et=608.110</Score>
+<Score et="608.9">Jesse Bunnell(4) lap=24 point=0 t=17.144 et=608.863</Score>
+<Score et="609.1">Simo Pukka(7) lap=23 point=2 t=16.016 et=609.030</Score>
+<Score et="609.3">Keijo Hiili(13) lap=24 point=0 t=16.760 et=609.289</Score>
+<Score et="609.5">Nicholas Angel(6) lap=24 point=0 t=16.646 et=609.481</Score>
+<Score et="610.4">Max Zachem(2) lap=24 point=1 t=3.249 et=610.391</Score>
+<Score et="611.4">Matt Johnson(3) lap=24 point=1 t=3.232 et=611.342</Score>
+<Score et="612.1">Jesse Bunnell(4) lap=24 point=1 t=3.240 et=612.103</Score>
+<Score et="612.5">Fabrizio Telasio(5) lap=24 point=0 t=17.051 et=612.468</Score>
+<Score et="612.6">Keijo Hiili(13) lap=24 point=1 t=3.274 et=612.563</Score>
+<Score et="612.8">Nicholas Angel(6) lap=24 point=1 t=3.267 et=612.748</Score>
+<Score et="612.9">JC Pommier(14) lap=24 point=0 t=17.525 et=612.878</Score>
+<Score et="613.1">Travis Bickle(11) lap=24 point=0 t=17.268 et=613.063</Score>
+<Score et="613.2">Bob Weymouth(1) lap=24 point=0 t=17.226 et=613.191</Score>
+<Score et="613.3">Marja Koel(10) lap=24 point=0 t=17.148 et=613.284</Score>
+<Score et="613.5">Joshua Grouseman(9) lap=24 point=0 t=17.405 et=613.432</Score>
+<Score et="613.6">James Conway(15) lap=24 point=0 t=17.307 et=613.535</Score>
+<Score et="613.8">Richard Matthews(0) lap=24 point=2 t=10.479 et=613.799</Score>
+<Score et="614.0">David Manning(8) lap=24 point=0 t=17.495 et=613.928</Score>
+<Score et="615.4">Simo Pukka(7) lap=24 point=0 t=22.366 et=615.381</Score>
+<Score et="615.7">Fabrizio Telasio(5) lap=24 point=1 t=3.214 et=615.682</Score>
+<Score et="616.2">JC Pommier(14) lap=24 point=1 t=3.300 et=616.178</Score>
+<Score et="616.4">Travis Bickle(11) lap=24 point=1 t=3.347 et=616.410</Score>
+<Score et="616.6">Bob Weymouth(1) lap=24 point=1 t=3.344 et=616.534</Score>
+<Score et="616.6">Marja Koel(10) lap=24 point=1 t=3.247 et=616.531</Score>
+<Score et="616.7">Joshua Grouseman(9) lap=24 point=1 t=3.260 et=616.693</Score>
+<Score et="616.9">James Conway(15) lap=24 point=1 t=3.363 et=616.898</Score>
+<Score et="617.3">David Manning(8) lap=24 point=1 t=3.343 et=617.271</Score>
+<Score et="618.1">Max Zachem(2) lap=24 point=2 t=10.911 et=618.053</Score>
+<Score et="618.7">Simo Pukka(7) lap=24 point=1 t=3.332 et=618.713</Score>
+<Score et="619.0">Matt Johnson(3) lap=24 point=2 t=10.882 et=618.993</Score>
+<Score et="619.8">Jesse Bunnell(4) lap=24 point=2 t=10.865 et=619.728</Score>
+<Score et="620.0">Checkered for Richard Matthews, laps=25/25, endET=619.929871/306254101833471170000000000000000000000.000000, crossedAfterTime=0</Score>
+<Score et="620.0">Richard Matthews(0) lap=25 point=0 t=16.610 et=619.930</Score>
+<Score et="620.4">Keijo Hiili(13) lap=24 point=2 t=11.064 et=620.353</Score>
+<Score et="620.5">Nicholas Angel(6) lap=24 point=2 t=11.039 et=620.520</Score>
+<Incident et="621.8">Richard Matthews(0) reported contact (0.23) with Immovable</Incident>
+<Score et="623.3">Fabrizio Telasio(5) lap=24 point=2 t=10.837 et=623.305</Score>
+<Score et="624.1">JC Pommier(14) lap=24 point=2 t=11.158 et=624.036</Score>
+<Score et="624.2">Marja Koel(10) lap=24 point=2 t=10.876 et=624.160</Score>
+<Score et="624.2">Travis Bickle(11) lap=24 point=2 t=11.140 et=624.203</Score>
+<Score et="624.3">Max Zachem(2) lap=25 point=0 t=17.094 et=624.236</Score>
+<Score et="624.4">Bob Weymouth(1) lap=24 point=2 t=11.187 et=624.378</Score>
+<Score et="624.6">Joshua Grouseman(9) lap=24 point=2 t=11.129 et=624.561</Score>
+<Score et="624.7">James Conway(15) lap=24 point=2 t=11.168 et=624.703</Score>
+<Score et="625.1">David Manning(8) lap=24 point=2 t=11.082 et=625.010</Score>
+<Score et="625.2">Matt Johnson(3) lap=25 point=0 t=17.111 et=625.221</Score>
+<Score et="625.9">Jesse Bunnell(4) lap=25 point=0 t=17.000 et=625.863</Score>
+<Score et="626.6">Simo Pukka(7) lap=24 point=2 t=11.151 et=626.532</Score>
+<Score et="626.7">Keijo Hiili(13) lap=25 point=0 t=17.389 et=626.678</Score>
+<Score et="626.9">Nicholas Angel(6) lap=25 point=0 t=17.397 et=626.878</Score>
+<Score et="629.5">Fabrizio Telasio(5) lap=25 point=0 t=16.994 et=629.462</Score>
+<Score et="630.4">Marja Koel(10) lap=25 point=0 t=17.054 et=630.338</Score>
+<Score et="630.4">JC Pommier(14) lap=25 point=0 t=17.536 et=630.414</Score>
+<Score et="630.6">Travis Bickle(11) lap=25 point=0 t=17.497 et=630.560</Score>
+<Score et="630.8">Bob Weymouth(1) lap=25 point=0 t=17.542 et=630.732</Score>
+<Score et="631.0">Joshua Grouseman(9) lap=25 point=0 t=17.527 et=630.960</Score>
+<Score et="631.1">James Conway(15) lap=25 point=0 t=17.571 et=631.106</Score>
+<Score et="631.3">David Manning(8) lap=25 point=0 t=17.388 et=631.316</Score>
+<Score et="632.9">Simo Pukka(7) lap=25 point=0 t=17.514 et=632.895</Score>
+<Incident et="653.6">Richard Matthews(0) reported contact (0.13) with Immovable</Incident>
+<Incident et="661.7">Richard Matthews(0) reported contact (0.10) with Immovable</Incident>
+</Stream>
+<MostLapsCompleted>25</MostLapsCompleted>
+<Driver>
+<Name>Richard Matthews</Name>
+<Connected>1</Connected>
+<VehFile>C_138.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#138 American Black-Red</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>138</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>1</isPlayer>
+<GridPos>1</GridPos>
+<Position>1</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>24</Points>
+<ClassPoints>24</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="36.8028" s1="3.4250" s2="8.5328" s3="6.1056" fuel="0.306">18.0634</Lap>
+<Lap num="2" p="4" et="54.8662" s1="6.1616" s2="22.9000" s3="14.5539" fuel="0.298">43.6155</Lap>
+<Lap num="3" p="4" et="98.4817" s1="7.7961" s2="18.9770" s3="14.9480" fuel="0.290">41.7211</Lap>
+<Lap num="4" p="4" et="140.2028" s1="7.6842" s2="19.0013" s3="15.0145" fuel="0.282">41.7000</Lap>
+<Lap num="5" p="4" et="181.9028" s1="7.6641" s2="18.9733" s3="14.7459" fuel="0.278">41.3833</Lap>
+<Lap num="6" p="4" et="223.2861" s1="7.9683" s2="18.9059" s3="14.9317" fuel="0.271">41.8060</Lap>
+<Lap num="7" p="4" et="265.0920" s1="7.7419" s2="19.0188" s3="14.9250" fuel="0.267">41.6857</Lap>
+<Lap num="8" p="4" et="306.7778" s1="7.5695" s2="12.2913" s3="6.9018" fuel="0.259">26.7626</Lap>
+<Lap num="9" p="4" et="333.5404" s1="3.3022" s2="7.4740" s3="6.1195" fuel="0.251">16.8958</Lap>
+<Lap num="10" p="4" et="350.4362" s1="3.2999" s2="7.9716" s3="6.2340" fuel="0.243">17.5055</Lap>
+<Lap num="11" p="4" et="367.9417" s1="3.3689" s2="7.9203" s3="6.2175" fuel="0.235">17.5067</Lap>
+<Lap num="12" p="4" et="385.4484" s1="3.3130" s2="7.6881" s3="5.9603" fuel="0.227">16.9614</Lap>
+<Lap num="13" p="3" et="402.4098" s1="3.2232" s2="7.4994" s3="6.1241" fuel="0.220">16.8467</Lap>
+<Lap num="14" p="2" et="419.2564" s1="3.1996" s2="7.6563" s3="6.1306" fuel="0.216">16.9865</Lap>
+<Lap num="15" p="2" et="436.2430" s1="3.1505" s2="7.5344" s3="5.9814" fuel="0.208">16.6662</Lap>
+<Lap num="16" p="1" et="452.9092" s1="3.1701" s2="7.5577" s3="6.0864" fuel="0.200">16.8142</Lap>
+<Lap num="17" p="1" et="469.7234" s1="3.1194" s2="7.7032" s3="6.1590" fuel="0.192">16.9816</Lap>
+<Lap num="18" p="1" et="486.7050" s1="2.9728" s2="7.5640" s3="6.2180" fuel="0.184">16.7547</Lap>
+<Lap num="19" p="1" et="503.4597" s1="3.0180" s2="7.4771" s3="6.0850" fuel="0.180">16.5802</Lap>
+<Lap num="20" p="1" et="520.0399" s1="3.1282" s2="7.6597" s3="6.2000" fuel="0.173">16.9879</Lap>
+<Lap num="21" p="1" et="537.0278" s1="3.0544" s2="7.4887" s3="6.0234" fuel="0.165">16.5665</Lap>
+<Lap num="22" p="1" et="553.5943" s1="3.0518" s2="7.4383" s3="6.0538" fuel="0.157">16.5439</Lap>
+<Lap num="23" p="1" et="570.1382" s1="2.9949" s2="7.5459" s3="6.0751" fuel="0.153">16.6159</Lap>
+<Lap num="24" p="1" et="586.7541" s1="3.0737" s2="7.4464" s3="6.0457" fuel="0.145">16.5658</Lap>
+<Lap num="25" p="1" et="603.3199" s1="3.0759" s2="7.4036" s3="6.1305" fuel="0.137">16.6100</Lap>
+<BestLapTime>16.5439</BestLapTime>
+<FinishTime>586.1108</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Nicholas Angel</Name>
+<Connected>1</Connected>
+<VehFile>S_145.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#145 American White-Orange</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>145</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>8</GridPos>
+<Position>6</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>10</Points>
+<ClassPoints>14</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="38.4296" s1="4.1737" s2="8.4103" s3="6.3891" fuel="0.980">18.9731</Lap>
+<Lap num="2" p="7" et="57.4028" s1="5.9000" s2="22.1750" s3="14.5250" fuel="0.976">42.6000</Lap>
+<Lap num="3" p="7" et="100.0028" s1="7.8500" s2="18.7250" s3="15.1250" fuel="0.969">41.7000</Lap>
+<Lap num="4" p="7" et="141.7028" s1="7.7250" s2="18.7841" s3="15.4909" fuel="0.965">42.0000</Lap>
+<Lap num="5" p="7" et="183.7028" s1="7.2250" s2="19.0517" s3="14.8544" fuel="0.957">41.1311</Lap>
+<Lap num="6" p="7" et="224.8338" s1="8.0573" s2="18.7413" s3="14.9203" fuel="0.953">41.7189</Lap>
+<Lap num="7" p="7" et="266.5528" s1="7.5844" s2="19.1156" s3="15.0250" fuel="0.945">41.7250</Lap>
+<Lap num="8" p="7" et="308.2778" s1="7.3750" s2="12.4915" s3="6.5835" fuel="0.937">26.4500</Lap>
+<Lap num="9" p="7" et="334.7278" s1="3.3430" s2="7.5747" s3="6.1614" fuel="0.933">17.0792</Lap>
+<Lap num="10" p="6" et="351.8069" s1="3.2417" s2="7.6622" s3="6.1863" fuel="0.925">17.0902</Lap>
+<Lap num="11" p="6" et="368.8971" s1="3.1808" s2="7.8499" s3="6.2883" fuel="0.918">17.3190</Lap>
+<Lap num="12" p="7" et="386.2161" s1="3.3676" s2="7.7445" s3="6.3815" fuel="0.910">17.4936</Lap>
+<Lap num="13" p="7" et="403.7097" s1="3.2027" s2="7.6329" s3="6.2130" fuel="0.906">17.0486</Lap>
+<Lap num="14" p="7" et="420.7583" s1="3.2342" s2="7.6534" s3="6.2981" fuel="0.898">17.1858</Lap>
+<Lap num="15" p="7" et="437.9441" s1="3.2976" s2="7.6465" s3="6.2399" fuel="0.890">17.1841</Lap>
+<Lap num="16" p="7" et="455.1282" s1="3.2450" s2="7.6471" s3="6.1629" fuel="0.882">17.0550</Lap>
+<Lap num="17" p="7" et="472.1832" s1="3.1798" s2="7.7690" s3="6.3207" fuel="0.875">17.2696</Lap>
+<Lap num="18" p="7" et="489.4528" s1="3.3429" s2="7.8320" s3="6.3597" fuel="0.871">17.5347</Lap>
+<Lap num="19" p="7" et="506.9875" s1="3.3189" s2="7.7639" s3="6.3169" fuel="0.863">17.3997</Lap>
+<Lap num="20" p="7" et="524.3873" s1="3.3655" s2="7.7912" s3="6.1177" fuel="0.855">17.2744</Lap>
+<Lap num="21" p="7" et="541.6617" s1="3.1936" s2="7.6410" s3="6.0503" fuel="0.851">16.8848</Lap>
+<Lap num="22" p="7" et="558.5465" s1="3.3148" s2="7.6086" s3="6.1828" fuel="0.843">17.1063</Lap>
+<Lap num="23" p="6" et="575.6528" s1="3.2250" s2="7.7263" s3="6.2314" fuel="0.835">17.1827</Lap>
+<Lap num="24" p="6" et="592.8354" s1="3.2362" s2="7.5644" s3="5.8453" fuel="0.831">16.6458</Lap>
+<Lap num="25" p="6" et="609.4812" s1="3.2670" s2="7.7722" s3="6.3574" fuel="0.824">17.3966</Lap>
+<BestLapTime>16.6458</BestLapTime>
+<FinishTime>593.0587</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Keijo Hiili</Name>
+<Connected>1</Connected>
+<VehFile>C_52.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#52 Orange-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>52</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>9</GridPos>
+<Position>5</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>12</Points>
+<ClassPoints>16</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="38.9783" s1="3.2957" s2="8.0641" s3="6.3803" fuel="0.984">17.7401</Lap>
+<Lap num="2" p="6" et="56.7184" s1="5.6844" s2="22.5524" s3="14.4976" fuel="0.976">42.7344</Lap>
+<Lap num="3" p="6" et="99.4528" s1="7.8500" s2="18.8000" s3="15.0500" fuel="0.973">41.7000</Lap>
+<Lap num="4" p="6" et="141.1528" s1="7.6595" s2="18.9656" s3="15.3250" fuel="0.965">41.9500</Lap>
+<Lap num="5" p="6" et="183.1028" s1="7.3000" s2="19.1088" s3="14.7952" fuel="0.961">41.2039</Lap>
+<Lap num="6" p="6" et="224.3067" s1="8.0210" s2="18.8000" s3="14.8837" fuel="0.953">41.7048</Lap>
+<Lap num="7" p="6" et="266.0115" s1="7.6413" s2="19.1500" s3="14.9500" fuel="0.949">41.7413</Lap>
+<Lap num="8" p="6" et="307.7528" s1="7.3750" s2="12.6418" s3="6.6748" fuel="0.941">26.6917</Lap>
+<Lap num="9" p="5" et="334.4445" s1="3.2936" s2="7.6147" s3="6.1769" fuel="0.933">17.0852</Lap>
+<Lap num="10" p="5" et="351.5297" s1="3.2437" s2="7.5952" s3="6.2953" fuel="0.925">17.1342</Lap>
+<Lap num="11" p="5" et="368.6638" s1="3.1905" s2="7.8345" s3="6.1088" fuel="0.918">17.1338</Lap>
+<Lap num="12" p="5" et="385.7976" s1="3.2962" s2="7.9458" s3="5.9683" fuel="0.910">17.2103</Lap>
+<Lap num="13" p="5" et="403.0079" s1="3.2020" s2="7.6234" s3="6.1391" fuel="0.906">16.9645</Lap>
+<Lap num="14" p="5" et="419.9725" s1="3.2441" s2="7.6984" s3="6.3390" fuel="0.898">17.2815</Lap>
+<Lap num="15" p="5" et="437.2540" s1="3.1792" s2="7.6616" s3="6.1636" fuel="0.890">17.0044</Lap>
+<Lap num="16" p="4" et="454.2584" s1="3.2486" s2="7.6302" s3="6.2013" fuel="0.882">17.0801</Lap>
+<Lap num="17" p="5" et="471.3385" s1="3.2974" s2="7.8559" s3="6.3377" fuel="0.878">17.4910</Lap>
+<Lap num="18" p="5" et="488.8295" s1="3.4338" s2="7.8395" s3="6.3179" fuel="0.871">17.5912</Lap>
+<Lap num="19" p="5" et="506.4207" s1="3.3653" s2="7.7261" s3="6.3683" fuel="0.863">17.4597</Lap>
+<Lap num="20" p="5" et="523.8804" s1="3.3093" s2="7.8537" s3="6.0200" fuel="0.855">17.1829</Lap>
+<Lap num="21" p="5" et="541.0633" s1="3.2035" s2="7.6726" s3="6.0569" fuel="0.851">16.9330</Lap>
+<Lap num="22" p="5" et="557.9963" s1="3.1746" s2="7.6166" s3="6.2215" fuel="0.843">17.0128</Lap>
+<Lap num="23" p="5" et="575.0090" s1="3.2687" s2="7.8270" s3="6.4238" fuel="0.835">17.5195</Lap>
+<Lap num="24" p="5" et="592.5286" s1="3.2755" s2="7.5938" s3="5.8911" fuel="0.827">16.7605</Lap>
+<Lap num="25" p="5" et="609.2890" s1="3.2741" s2="7.7897" s3="6.3254" fuel="0.824">17.3892</Lap>
+<BestLapTime>16.7605</BestLapTime>
+<FinishTime>592.8591</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Matt Johnson</Name>
+<Connected>1</Connected>
+<VehFile>S_140.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#140 American Yellow-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>140</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>6</GridPos>
+<Position>3</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>16</Points>
+<ClassPoints>18</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="37.5409" s1="3.9715" s2="8.0986" s3="6.4168" fuel="0.984">18.4869</Lap>
+<Lap num="2" p="5" et="56.0278" s1="5.7500" s2="22.6250" s3="14.4782" fuel="0.976">42.8532</Lap>
+<Lap num="3" p="5" et="98.8809" s1="7.8718" s2="18.8789" s3="14.9461" fuel="0.969">41.6968</Lap>
+<Lap num="4" p="5" et="140.5778" s1="7.7000" s2="18.9790" s3="15.2211" fuel="0.965">41.9001</Lap>
+<Lap num="5" p="5" et="182.4779" s1="7.4759" s2="19.0240" s3="14.8066" fuel="0.957">41.3066</Lap>
+<Lap num="6" p="5" et="223.7844" s1="7.9934" s2="18.8250" s3="14.8500" fuel="0.953">41.6684</Lap>
+<Lap num="7" p="5" et="265.4528" s1="7.7600" s2="19.0683" s3="14.9466" fuel="0.945">41.7750</Lap>
+<Lap num="8" p="5" et="307.2278" s1="7.4535" s2="12.7519" s3="6.6954" fuel="0.937">26.9008</Lap>
+<Lap num="9" p="6" et="334.1286" s1="3.3992" s2="7.9500" s3="6.3017" fuel="0.929">17.6509</Lap>
+<Lap num="10" p="7" et="351.7794" s1="3.2790" s2="7.7979" s3="6.1904" fuel="0.922">17.2674</Lap>
+<Lap num="11" p="7" et="369.0468" s1="3.1809" s2="7.7914" s3="6.3248" fuel="0.914">17.2971</Lap>
+<Lap num="12" p="6" et="386.3440" s1="3.2211" s2="7.6419" s3="6.0958" fuel="0.910">16.9588</Lap>
+<Lap num="13" p="6" et="403.3028" s1="3.1904" s2="7.5502" s3="6.1140" fuel="0.902">16.8546</Lap>
+<Lap num="14" p="6" et="420.1574" s1="3.2454" s2="7.6548" s3="6.3499" fuel="0.894">17.2501</Lap>
+<Lap num="15" p="6" et="437.4075" s1="3.2545" s2="7.6313" s3="6.2344" fuel="0.886">17.1202</Lap>
+<Lap num="16" p="5" et="454.5278" s1="3.2356" s2="7.6232" s3="6.1693" fuel="0.882">17.0280</Lap>
+<Lap num="17" p="3" et="471.5558" s1="3.2249" s2="7.6256" s3="6.1986" fuel="0.875">17.0491</Lap>
+<Lap num="18" p="3" et="488.6049" s1="3.2003" s2="7.6384" s3="6.2225" fuel="0.867">17.0612</Lap>
+<Lap num="19" p="3" et="505.6661" s1="3.2317" s2="7.6300" s3="6.1542" fuel="0.859">17.0159</Lap>
+<Lap num="20" p="3" et="522.6820" s1="3.2406" s2="7.6691" s3="6.2382" fuel="0.851">17.1480</Lap>
+<Lap num="21" p="3" et="539.8300" s1="3.2431" s2="7.6547" s3="6.1810" fuel="0.843">17.0788</Lap>
+<Lap num="22" p="3" et="556.9088" s1="3.2190" s2="7.6131" s3="6.1869" fuel="0.839">17.0190</Lap>
+<Lap num="23" p="3" et="573.9278" s1="3.2418" s2="7.6861" s3="6.2324" fuel="0.831">17.1603</Lap>
+<Lap num="24" p="3" et="591.0881" s1="3.2396" s2="7.6294" s3="6.1530" fuel="0.824">17.0221</Lap>
+<Lap num="25" p="3" et="608.1102" s1="3.2317" s2="7.6507" s3="6.2281" fuel="0.816">17.1105</Lap>
+<BestLapTime>16.8546</BestLapTime>
+<FinishTime>591.4016</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fabrizio Telasio</Name>
+<Connected>1</Connected>
+<VehFile>F34C_28.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#28 Bridgestone Team</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>28</CarNumber>
+<TeamName>Team Bridgestone</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>12</GridPos>
+<Position>7</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>8</Points>
+<ClassPoints>17</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="40.4093" s1="3.4829" s2="8.5356" s3="6.4250" fuel="0.984">18.4435</Lap>
+<Lap num="2" p="9" et="58.8528" s1="5.9533" s2="21.6717" s3="14.6000" fuel="0.976">42.2250</Lap>
+<Lap num="3" p="9" et="101.0778" s1="7.8250" s2="18.6250" s3="15.3250" fuel="0.973">41.7750</Lap>
+<Lap num="4" p="9" et="142.8528" s1="7.6250" s2="18.7111" s3="15.6678" fuel="0.965">42.0039</Lap>
+<Lap num="5" p="9" et="184.8567" s1="6.9711" s2="19.1500" s3="14.9000" fuel="0.961">41.0211</Lap>
+<Lap num="6" p="9" et="225.8778" s1="8.0500" s2="18.7501" s3="14.9846" fuel="0.953">41.7847</Lap>
+<Lap num="7" p="9" et="267.6625" s1="7.3490" s2="19.2663" s3="15.0500" fuel="0.949">41.6653</Lap>
+<Lap num="8" p="9" et="309.3278" s1="7.3000" s2="12.1750" s3="6.4690" fuel="0.941">25.9440</Lap>
+<Lap num="9" p="9" et="335.2718" s1="3.3265" s2="7.5721" s3="6.2443" fuel="0.933">17.1430</Lap>
+<Lap num="10" p="9" et="352.4148" s1="3.3703" s2="7.8268" s3="6.1659" fuel="0.925">17.3630</Lap>
+<Lap num="11" p="9" et="369.7778" s1="3.2187" s2="7.6313" s3="6.3500" fuel="0.922">17.2000</Lap>
+<Lap num="12" p="9" et="386.9778" s1="3.3559" s2="7.7874" s3="6.2987" fuel="0.914">17.4420</Lap>
+<Lap num="13" p="9" et="404.4197" s1="3.1975" s2="7.6870" s3="6.3986" fuel="0.906">17.2830</Lap>
+<Lap num="14" p="10" et="421.7028" s1="3.3305" s2="7.8248" s3="6.3106" fuel="0.902">17.4659</Lap>
+<Lap num="15" p="10" et="439.1687" s1="3.2594" s2="7.8377" s3="6.3623" fuel="0.894">17.4594</Lap>
+<Lap num="16" p="10" et="456.6281" s1="3.3247" s2="7.8187" s3="6.3430" fuel="0.886">17.4863</Lap>
+<Lap num="17" p="10" et="474.1144" s1="3.3463" s2="7.8828" s3="6.3182" fuel="0.882">17.5473</Lap>
+<Lap num="18" p="11" et="491.6618" s1="3.4058" s2="7.8102" s3="6.3605" fuel="0.875">17.5765</Lap>
+<Lap num="19" p="11" et="509.2383" s1="3.3665" s2="7.8305" s3="6.3675" fuel="0.867">17.5645</Lap>
+<Lap num="20" p="11" et="526.8028" s1="3.2385" s2="7.8253" s3="6.2427" fuel="0.859">17.3066</Lap>
+<Lap num="21" p="10" et="544.1094" s1="3.2434" s2="7.6052" s3="6.0698" fuel="0.855">16.9184</Lap>
+<Lap num="22" p="10" et="561.0278" s1="3.3191" s2="7.8309" s3="6.2768" fuel="0.847">17.4268</Lap>
+<Lap num="23" p="9" et="578.4546" s1="3.2406" s2="7.5730" s3="6.1484" fuel="0.839">16.9620</Lap>
+<Lap num="24" p="7" et="595.4166" s1="3.2470" s2="7.6524" s3="6.1517" fuel="0.831">17.0511</Lap>
+<Lap num="25" p="7" et="612.4677" s1="3.2138" s2="7.6233" s3="6.1568" fuel="0.827">16.9940</Lap>
+<BestLapTime>16.9184</BestLapTime>
+<FinishTime>595.6426</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>JC Pommier</Name>
+<Connected>1</Connected>
+<VehFile>LCF_43.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>J.C. Pommier #43</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>43</CarNumber>
+<TeamName>MC Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>14</GridPos>
+<Position>9</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>6</Points>
+<ClassPoints>12</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="41.3028" s1="3.4005" s2="8.3745" s3="6.4767" fuel="0.984">18.2517</Lap>
+<Lap num="2" p="12" et="59.5545" s1="6.7733" s2="21.8886" s3="14.3948" fuel="0.980">43.0567</Lap>
+<Lap num="3" p="12" et="102.6112" s1="7.7255" s2="18.5763" s3="15.7897" fuel="0.973">42.0915</Lap>
+<Lap num="4" p="12" et="144.7028" s1="7.3250" s2="18.4557" s3="16.0443" fuel="0.965">41.8250</Lap>
+<Lap num="5" p="12" et="186.5278" s1="6.7000" s2="19.2000" s3="15.1250" fuel="0.961">41.0250</Lap>
+<Lap num="6" p="12" et="227.5528" s1="7.8000" s2="18.8133" s3="15.1367" fuel="0.953">41.7500</Lap>
+<Lap num="7" p="12" et="269.3028" s1="7.2045" s2="19.3234" s3="15.0334" fuel="0.949">41.5613</Lap>
+<Lap num="8" p="12" et="310.8641" s1="7.1637" s2="11.6178" s3="6.3425" fuel="0.941">25.1240</Lap>
+<Lap num="9" p="12" et="335.9881" s1="3.3810" s2="7.6954" s3="6.1439" fuel="0.933">17.2202</Lap>
+<Lap num="10" p="12" et="353.2083" s1="3.3462" s2="7.7807" s3="6.2226" fuel="0.925">17.3495</Lap>
+<Lap num="11" p="12" et="370.5578" s1="3.2340" s2="7.5925" s3="6.1064" fuel="0.922">16.9330</Lap>
+<Lap num="12" p="12" et="387.4908" s1="3.2229" s2="7.9048" s3="6.3460" fuel="0.914">17.4736</Lap>
+<Lap num="13" p="12" et="404.9644" s1="3.3290" s2="7.6758" s3="6.2012" fuel="0.906">17.2059</Lap>
+<Lap num="14" p="12" et="422.1703" s1="3.3087" s2="7.7655" s3="6.2833" fuel="0.898">17.3575</Lap>
+<Lap num="15" p="12" et="439.5278" s1="3.2553" s2="7.7472" s3="6.3888" fuel="0.894">17.3913</Lap>
+<Lap num="16" p="12" et="456.9191" s1="3.3478" s2="7.8799" s3="6.3689" fuel="0.886">17.5966</Lap>
+<Lap num="17" p="12" et="474.5157" s1="3.3274" s2="7.8111" s3="6.3145" fuel="0.878">17.4531</Lap>
+<Lap num="18" p="10" et="491.9688" s1="3.2380" s2="7.6460" s3="6.2750" fuel="0.871">17.1590</Lap>
+<Lap num="19" p="8" et="509.1278" s1="3.2165" s2="7.7274" s3="6.2456" fuel="0.867">17.1895</Lap>
+<Lap num="20" p="8" et="526.3173" s1="3.2277" s2="7.6078" s3="6.1408" fuel="0.859">16.9762</Lap>
+<Lap num="21" p="8" et="543.2936" s1="3.2170" s2="7.6305" s3="6.1767" fuel="0.851">17.0242</Lap>
+<Lap num="22" p="8" et="560.3177" s1="3.2610" s2="7.7658" s3="6.3738" fuel="0.843">17.4005</Lap>
+<Lap num="23" p="8" et="577.7183" s1="3.3457" s2="7.9138" s3="6.3750" fuel="0.835">17.6345</Lap>
+<Lap num="24" p="8" et="595.3528" s1="3.4924" s2="7.7219" s3="6.3107" fuel="0.827">17.5250</Lap>
+<Lap num="25" p="9" et="612.8778" s1="3.3000" s2="7.8582" s3="6.3782" fuel="0.824">17.5364</Lap>
+<BestLapTime>16.9330</BestLapTime>
+<FinishTime>596.5951</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Simo Pukka</Name>
+<Connected>1</Connected>
+<VehFile>C_71.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#71 Shell</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>71</CarNumber>
+<TeamName>Team Shell</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>4</GridPos>
+<Position>15</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>7</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="37.1028" s1="3.3960" s2="7.7484" s3="6.1359" fuel="0.984">17.2803</Lap>
+<Lap num="2" p="2" et="54.3830" s1="5.9697" s2="22.4250" s3="14.7537" fuel="0.980">43.1484</Lap>
+<Lap num="3" p="2" et="97.5315" s1="7.7963" s2="18.9250" s3="14.9080" fuel="0.973">41.6293</Lap>
+<Lap num="4" p="2" et="139.1607" s1="7.7670" s2="18.9750" s3="14.8513" fuel="0.969">41.5933</Lap>
+<Lap num="5" p="2" et="180.7541" s1="7.7798" s2="18.9807" s3="14.8685" fuel="0.961">41.6291</Lap>
+<Lap num="6" p="2" et="222.3832" s1="7.7696" s2="19.0000" s3="14.8611" fuel="0.957">41.6307</Lap>
+<Lap num="7" p="2" et="264.0139" s1="7.7639" s2="19.0000" s3="14.9000" fuel="0.953">41.6639</Lap>
+<Lap num="8" p="2" et="305.6778" s1="7.7274" s2="12.4905" s3="6.9691" fuel="0.945">27.1870</Lap>
+<Lap num="9" p="2" et="332.8647" s1="3.3302" s2="7.7829" s3="6.3008" fuel="0.937">17.4139</Lap>
+<Lap num="10" p="3" et="350.2786" s1="3.3582" s2="7.7607" s3="6.3647" fuel="0.929">17.4836</Lap>
+<Lap num="11" p="3" et="367.7621" s1="3.3228" s2="7.8953" s3="6.2142" fuel="0.922">17.4323</Lap>
+<Lap num="12" p="3" et="385.1945" s1="3.2454" s2="7.6244" s3="6.1886" fuel="0.918">17.0583</Lap>
+<Lap num="13" p="4" et="402.2528" s1="3.2296" s2="7.6605" s3="6.2159" fuel="0.910">17.1061</Lap>
+<Lap num="14" p="4" et="419.3589" s1="3.1991" s2="8.0879" s3="6.2068" fuel="0.906">17.4939</Lap>
+<Lap num="15" p="4" et="436.8528" s1="3.1625" s2="7.7375" s3="6.3197" fuel="0.898">17.2197</Lap>
+<Lap num="16" p="6" et="454.0725" s1="3.3494" s2="7.8309" s3="6.3694" fuel="0.890">17.5497</Lap>
+<Lap num="17" p="6" et="471.6222" s1="3.3239" s2="7.8433" s3="6.3238" fuel="0.886">17.4910</Lap>
+<Lap num="18" p="6" et="489.1132" s1="3.3747" s2="7.7936" s3="6.3234" fuel="0.878">17.4916</Lap>
+<Lap num="19" p="6" et="506.6048" s1="3.3443" s2="7.7286" s3="6.3578" fuel="0.871">17.4308</Lap>
+<Lap num="20" p="6" et="524.0356" s1="3.3287" s2="7.8635" s3="6.0111" fuel="0.863">17.2033</Lap>
+<Lap num="21" p="6" et="541.2389" s1="3.1681" s2="7.7466" s3="6.0247" fuel="0.859">16.9395</Lap>
+<Lap num="22" p="6" et="558.1784" s1="3.2568" s2="7.7114" s3="6.2571" fuel="0.851">17.2253</Lap>
+<Lap num="23" p="7" et="575.4037" s1="3.4078" s2="7.8009" s3="6.4022" fuel="0.843">17.6110</Lap>
+<Lap num="24" p="15" et="593.0146" s1="6.9271" s2="9.0885" s3="6.3506" fuel="0.835">22.3662</Lap>
+<Lap num="25" p="15" et="615.3808" s1="3.3324" s2="7.8185" s3="6.3633" fuel="0.827">17.5141</Lap>
+<BestLapTime>16.9395</BestLapTime>
+<FinishTime>599.0758</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Joshua Grouseman</Name>
+<Connected>1</Connected>
+<VehFile>C_02.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#2 Orange-Black with stripes</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>2</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>13</GridPos>
+<Position>12</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>3</Points>
+<ClassPoints>10</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="40.8651" s1="3.3127" s2="8.7572" s3="6.4060" fuel="0.984">18.4759</Lap>
+<Lap num="2" p="11" et="59.3410" s1="6.4868" s2="21.8250" s3="14.4799" fuel="0.980">42.7917</Lap>
+<Lap num="3" p="11" et="102.1327" s1="7.7560" s2="18.5482" s3="15.6659" fuel="0.973">41.9701</Lap>
+<Lap num="4" p="11" et="144.1028" s1="7.4546" s2="18.4704" s3="15.9500" fuel="0.969">41.8750</Lap>
+<Lap num="5" p="11" et="185.9778" s1="6.7750" s2="19.2000" s3="15.0500" fuel="0.961">41.0250</Lap>
+<Lap num="6" p="11" et="227.0028" s1="7.8764" s2="18.7736" s3="15.1000" fuel="0.957">41.7500</Lap>
+<Lap num="7" p="11" et="268.7528" s1="7.3250" s2="19.2000" s3="15.0872" fuel="0.949">41.6122</Lap>
+<Lap num="8" p="11" et="310.3650" s1="7.2378" s2="11.8620" s3="6.3630" fuel="0.941">25.4628</Lap>
+<Lap num="9" p="11" et="335.8278" s1="3.2925" s2="7.6339" s3="6.0913" fuel="0.937">17.0176</Lap>
+<Lap num="10" p="11" et="352.8454" s1="3.3260" s2="7.8313" s3="6.2374" fuel="0.929">17.3948</Lap>
+<Lap num="11" p="11" et="370.2402" s1="3.2515" s2="7.5997" s3="6.1864" fuel="0.922">17.0376</Lap>
+<Lap num="12" p="11" et="387.2778" s1="3.3137" s2="7.8529" s3="6.3585" fuel="0.918">17.5250</Lap>
+<Lap num="13" p="11" et="404.8028" s1="3.2963" s2="7.6368" s3="6.2919" fuel="0.910">17.2250</Lap>
+<Lap num="14" p="9" et="422.0278" s1="3.2134" s2="7.6314" s3="6.1659" fuel="0.902">17.0106</Lap>
+<Lap num="15" p="9" et="439.0384" s1="3.2316" s2="7.8350" s3="6.3727" fuel="0.894">17.4394</Lap>
+<Lap num="16" p="9" et="456.4778" s1="3.3415" s2="7.7921" s3="6.3287" fuel="0.886">17.4624</Lap>
+<Lap num="17" p="9" et="473.9402" s1="3.2952" s2="7.8924" s3="6.3553" fuel="0.878">17.5429</Lap>
+<Lap num="18" p="9" et="491.4831" s1="3.3397" s2="7.8879" s3="6.3502" fuel="0.875">17.5778</Lap>
+<Lap num="19" p="10" et="509.0609" s1="3.2971" s2="7.8199" s3="6.4416" fuel="0.867">17.5585</Lap>
+<Lap num="20" p="9" et="526.6194" s1="3.2277" s2="7.8061" s3="6.2521" fuel="0.863">17.2859</Lap>
+<Lap num="21" p="9" et="543.9053" s1="3.2475" s2="7.6342" s3="6.0766" fuel="0.855">16.9583</Lap>
+<Lap num="22" p="9" et="560.8636" s1="3.3226" s2="7.8086" s3="6.3702" fuel="0.847">17.5014</Lap>
+<Lap num="23" p="12" et="578.3650" s1="3.3795" s2="7.9380" s3="6.3453" fuel="0.839">17.6628</Lap>
+<Lap num="24" p="12" et="596.0278" s1="3.3195" s2="7.7805" s3="6.3046" fuel="0.835">17.4046</Lap>
+<Lap num="25" p="12" et="613.4324" s1="3.2601" s2="7.8686" s3="6.3985" fuel="0.827">17.5272</Lap>
+<BestLapTime>16.9583</BestLapTime>
+<FinishTime>597.1405</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Bob Weymouth</Name>
+<Connected>1</Connected>
+<VehFile>WEYMOUTH399.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#399 Weymouth Racing</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>399</CarNumber>
+<TeamName>Dairy Joy Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>16</GridPos>
+<Position>11</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>4</Points>
+<ClassPoints>10</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="42.1700" s1="3.3093" s2="7.8984" s3="6.5000" fuel="0.984">17.7077</Lap>
+<Lap num="2" p="14" et="59.8778" s1="7.0500" s2="22.4750" s3="14.3261" fuel="0.980">43.8511</Lap>
+<Lap num="3" p="14" et="103.7289" s1="7.5489" s2="18.5500" s3="16.0558" fuel="0.973">42.1547</Lap>
+<Lap num="4" p="14" et="145.8836" s1="7.2442" s2="18.2308" s3="16.1789" fuel="0.969">41.6539</Lap>
+<Lap num="5" p="14" et="187.5375" s1="6.6403" s2="19.2002" s3="15.3260" fuel="0.961">41.1665</Lap>
+<Lap num="6" p="14" et="228.7040" s1="7.5737" s2="18.8750" s3="15.2001" fuel="0.957">41.6488</Lap>
+<Lap num="7" p="14" et="270.3529" s1="7.2044" s2="19.2455" s3="15.0750" fuel="0.949">41.5249</Lap>
+<Lap num="8" p="14" et="311.8778" s1="7.2506" s2="11.0744" s3="6.3250" fuel="0.941">24.6500</Lap>
+<Lap num="9" p="14" et="336.5278" s1="3.3120" s2="7.7495" s3="6.1386" fuel="0.937">17.2000</Lap>
+<Lap num="10" p="14" et="353.7278" s1="3.3555" s2="7.8149" s3="6.2143" fuel="0.929">17.3848</Lap>
+<Lap num="11" p="14" et="371.1125" s1="3.2337" s2="7.6315" s3="6.1037" fuel="0.925">16.9689</Lap>
+<Lap num="12" p="14" et="388.0815" s1="3.3463" s2="7.8145" s3="6.3245" fuel="0.918">17.4853</Lap>
+<Lap num="13" p="14" et="405.5668" s1="3.2610" s2="7.6675" s3="6.1098" fuel="0.910">17.0383</Lap>
+<Lap num="14" p="14" et="422.6051" s1="3.3074" s2="7.7693" s3="6.3210" fuel="0.902">17.3977</Lap>
+<Lap num="15" p="14" et="440.0028" s1="3.3703" s2="7.6797" s3="6.3123" fuel="0.894">17.3623</Lap>
+<Lap num="16" p="14" et="457.3651" s1="3.3241" s2="7.7974" s3="6.3662" fuel="0.890">17.4877</Lap>
+<Lap num="17" p="14" et="474.8528" s1="3.3209" s2="7.8095" s3="6.3600" fuel="0.882">17.4904</Lap>
+<Lap num="18" p="14" et="492.3432" s1="3.3374" s2="7.8222" s3="6.3027" fuel="0.875">17.4623</Lap>
+<Lap num="19" p="14" et="509.8055" s1="3.2473" s2="7.8538" s3="6.3864" fuel="0.867">17.4876</Lap>
+<Lap num="20" p="14" et="527.2930" s1="3.3798" s2="7.7373" s3="6.2177" fuel="0.863">17.3347</Lap>
+<Lap num="21" p="14" et="544.6278" s1="3.2523" s2="7.6345" s3="6.2011" fuel="0.855">17.0880</Lap>
+<Lap num="22" p="13" et="561.7158" s1="3.2256" s2="7.6364" s3="6.2339" fuel="0.847">17.0959</Lap>
+<Lap num="23" p="11" et="578.8117" s1="3.2507" s2="7.6904" s3="6.2119" fuel="0.839">17.1530</Lap>
+<Lap num="24" p="10" et="595.9647" s1="3.2536" s2="7.6105" s3="6.3618" fuel="0.835">17.2259</Lap>
+<Lap num="25" p="11" et="613.1906" s1="3.3438" s2="7.8434" s3="6.3547" fuel="0.827">17.5418</Lap>
+<BestLapTime>16.9689</BestLapTime>
+<FinishTime>596.9134</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>James Conway</Name>
+<Connected>1</Connected>
+<VehFile>C_135.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#135 American Cyan-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>135</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>7</GridPos>
+<Position>13</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>2</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="37.9951" s1="3.4502" s2="11.3074" s3="6.4265" fuel="0.984">21.1842</Lap>
+<Lap num="2" p="10" et="59.1793" s1="6.1485" s2="21.7138" s3="14.5862" fuel="0.976">42.4485</Lap>
+<Lap num="3" p="10" et="101.6278" s1="7.7593" s2="18.5986" s3="15.4734" fuel="0.973">41.8313</Lap>
+<Lap num="4" p="10" et="143.4590" s1="7.5437" s2="18.6250" s3="15.8000" fuel="0.965">41.9687</Lap>
+<Lap num="5" p="10" et="185.4278" s1="6.8506" s2="19.1776" s3="14.9747" fuel="0.961">41.0029</Lap>
+<Lap num="6" p="10" et="226.4307" s1="7.9590" s2="18.7934" s3="15.0270" fuel="0.953">41.7794</Lap>
+<Lap num="7" p="10" et="268.2101" s1="7.3039" s2="19.2681" s3="15.0706" fuel="0.949">41.6427</Lap>
+<Lap num="8" p="10" et="309.8528" s1="7.2500" s2="12.0115" s3="6.4135" fuel="0.941">25.6750</Lap>
+<Lap num="9" p="10" et="335.5278" s1="3.3534" s2="7.6216" s3="6.1368" fuel="0.933">17.1118</Lap>
+<Lap num="10" p="10" et="352.6396" s1="3.3382" s2="7.8250" s3="6.1797" fuel="0.929">17.3429</Lap>
+<Lap num="11" p="10" et="369.9825" s1="3.2356" s2="7.6097" s3="6.3000" fuel="0.922">17.1453</Lap>
+<Lap num="12" p="10" et="387.1278" s1="3.3356" s2="7.8166" s3="6.3227" fuel="0.914">17.4750</Lap>
+<Lap num="13" p="10" et="404.6028" s1="3.2306" s2="7.6518" s3="6.3427" fuel="0.910">17.2250</Lap>
+<Lap num="14" p="11" et="421.8278" s1="3.3458" s2="7.8575" s3="6.3217" fuel="0.902">17.5250</Lap>
+<Lap num="15" p="11" et="439.3528" s1="3.2860" s2="7.7692" s3="6.3698" fuel="0.894">17.4250</Lap>
+<Lap num="16" p="11" et="456.7778" s1="3.3301" s2="7.8449" s3="6.3412" fuel="0.890">17.5162</Lap>
+<Lap num="17" p="11" et="474.2940" s1="3.3338" s2="7.8571" s3="6.3325" fuel="0.882">17.5234</Lap>
+<Lap num="18" p="12" et="491.8174" s1="3.3905" s2="7.8346" s3="6.3538" fuel="0.875">17.5790</Lap>
+<Lap num="19" p="12" et="509.3964" s1="3.3443" s2="7.8464" s3="6.3836" fuel="0.871">17.5743</Lap>
+<Lap num="20" p="12" et="526.9706" s1="3.2827" s2="7.7940" s3="6.2304" fuel="0.863">17.3071</Lap>
+<Lap num="21" p="11" et="544.2778" s1="3.2500" s2="7.6184" s3="6.1025" fuel="0.855">16.9709</Lap>
+<Lap num="22" p="12" et="561.2487" s1="3.3422" s2="7.8203" s3="6.3541" fuel="0.847">17.5167</Lap>
+<Lap num="23" p="14" et="578.7654" s1="3.3293" s2="7.7948" s3="6.3383" fuel="0.839">17.4624</Lap>
+<Lap num="24" p="13" et="596.2278" s1="3.3285" s2="7.8143" s3="6.1647" fuel="0.835">17.3075</Lap>
+<Lap num="25" p="13" et="613.5352" s1="3.3631" s2="7.8045" s3="6.4030" fuel="0.827">17.5706</Lap>
+<BestLapTime>16.9709</BestLapTime>
+<FinishTime>597.2867</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jesse Bunnell</Name>
+<Connected>1</Connected>
+<VehFile>BUNNELL_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#96 ABS Insulating Sedan</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Beattie Racing</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>3</GridPos>
+<Position>4</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>16</Points>
+<ClassPoints>20</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="36.7028" s1="3.2650" s2="7.6358" s3="6.1162" fuel="0.984">17.0170</Lap>
+<Lap num="2" p="1" et="53.7198" s1="7.4383" s2="21.4197" s3="14.5000" fuel="0.976">43.3580</Lap>
+<Lap num="3" p="1" et="97.0778" s1="7.8000" s2="18.8831" s3="14.9190" fuel="0.973">41.6022</Lap>
+<Lap num="4" p="1" et="138.6799" s1="7.7978" s2="18.9289" s3="14.8961" fuel="0.969">41.6228</Lap>
+<Lap num="5" p="1" et="180.3028" s1="7.7809" s2="18.9691" s3="14.8750" fuel="0.961">41.6250</Lap>
+<Lap num="6" p="1" et="221.9278" s1="7.7758" s2="18.9742" s3="14.8750" fuel="0.957">41.6250</Lap>
+<Lap num="7" p="1" et="263.5528" s1="7.7607" s2="18.9926" s3="14.8833" fuel="0.949">41.6366</Lap>
+<Lap num="8" p="1" et="305.1894" s1="7.7384" s2="12.4572" s3="7.0428" fuel="0.941">27.2384</Lap>
+<Lap num="9" p="1" et="332.4278" s1="3.3331" s2="7.8071" s3="6.3598" fuel="0.937">17.5000</Lap>
+<Lap num="10" p="2" et="349.9278" s1="3.3152" s2="7.8791" s3="6.3488" fuel="0.929">17.5431</Lap>
+<Lap num="11" p="2" et="367.4709" s1="3.3272" s2="7.7832" s3="6.2313" fuel="0.922">17.3416</Lap>
+<Lap num="12" p="2" et="384.8125" s1="3.2438" s2="7.6155" s3="6.1810" fuel="0.918">17.0403</Lap>
+<Lap num="13" p="2" et="401.8528" s1="3.2340" s2="7.6230" s3="6.1930" fuel="0.910">17.0500</Lap>
+<Lap num="14" p="3" et="418.9028" s1="3.2425" s2="7.7372" s3="6.3453" fuel="0.902">17.3250</Lap>
+<Lap num="15" p="3" et="436.2278" s1="3.3165" s2="7.8247" s3="6.2151" fuel="0.894">17.3563</Lap>
+<Lap num="16" p="3" et="453.5840" s1="3.3437" s2="7.8630" s3="6.3759" fuel="0.890">17.5826</Lap>
+<Lap num="17" p="4" et="471.1667" s1="3.3135" s2="7.8565" s3="6.3490" fuel="0.882">17.5190</Lap>
+<Lap num="18" p="4" et="488.6856" s1="3.3216" s2="7.8808" s3="6.3533" fuel="0.875">17.5558</Lap>
+<Lap num="19" p="4" et="506.2414" s1="3.3832" s2="7.6050" s3="6.1346" fuel="0.867">17.1228</Lap>
+<Lap num="20" p="4" et="523.3641" s1="3.2028" s2="7.7359" s3="6.0853" fuel="0.859">17.0239</Lap>
+<Lap num="21" p="4" et="540.3881" s1="3.2309" s2="7.6433" s3="6.1962" fuel="0.855">17.0704</Lap>
+<Lap num="22" p="4" et="557.4585" s1="3.2334" s2="7.6291" s3="6.2108" fuel="0.847">17.0733</Lap>
+<Lap num="23" p="4" et="574.5318" s1="3.2376" s2="7.7584" s3="6.1918" fuel="0.839">17.1878</Lap>
+<Lap num="24" p="4" et="591.7196" s1="3.2505" s2="7.6209" s3="6.2722" fuel="0.835">17.1435</Lap>
+<Lap num="25" p="4" et="608.8631" s1="3.2397" s2="7.6250" s3="6.1350" fuel="0.827">16.9996</Lap>
+<BestLapTime>16.9996</BestLapTime>
+<FinishTime>592.0436</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marja Koel</Name>
+<Connected>1</Connected>
+<VehFile>F34C_H96.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#96 Marja Koel</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>ReWe Motorsport</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>5</GridPos>
+<Position>8</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>7</Points>
+<ClassPoints>14</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="36.9906" s1="13.6174" s2="9.5764" s3="6.3218" fuel="0.980">29.5155</Lap>
+<Lap num="2" p="15" et="66.5061" s1="4.0764" s2="19.3561" s3="14.3433" fuel="0.976">37.7759</Lap>
+<Lap num="3" p="15" et="104.2820" s1="7.4958" s2="18.5771" s3="16.1229" fuel="0.973">42.1958</Lap>
+<Lap num="4" p="15" et="146.4778" s1="7.1500" s2="18.2000" s3="16.2250" fuel="0.965">41.5750</Lap>
+<Lap num="5" p="15" et="188.0528" s1="6.6000" s2="19.2000" s3="15.4532" fuel="0.961">41.2532</Lap>
+<Lap num="6" p="15" et="229.3060" s1="7.4010" s2="18.9509" s3="15.2007" fuel="0.953">41.5527</Lap>
+<Lap num="7" p="15" et="270.8586" s1="7.1691" s2="19.2874" s3="15.0625" fuel="0.949">41.5191</Lap>
+<Lap num="8" p="15" et="312.3778" s1="7.3271" s2="10.7759" s3="6.2969" fuel="0.941">24.4000</Lap>
+<Lap num="9" p="15" et="336.7778" s1="3.3070" s2="7.7430" s3="6.2250" fuel="0.933">17.2750</Lap>
+<Lap num="10" p="15" et="354.0528" s1="3.3525" s2="7.8153" s3="6.1768" fuel="0.925">17.3445</Lap>
+<Lap num="11" p="15" et="371.3973" s1="3.2253" s2="7.6315" s3="6.2047" fuel="0.918">17.0616</Lap>
+<Lap num="12" p="15" et="388.4589" s1="3.3748" s2="7.7732" s3="6.2803" fuel="0.914">17.4283</Lap>
+<Lap num="13" p="15" et="405.8872" s1="3.3406" s2="7.7867" s3="6.2433" fuel="0.906">17.3706</Lap>
+<Lap num="14" p="15" et="423.2578" s1="3.3710" s2="7.6934" s3="6.1347" fuel="0.898">17.1990</Lap>
+<Lap num="15" p="15" et="440.4568" s1="3.3890" s2="7.7570" s3="6.3441" fuel="0.890">17.4901</Lap>
+<Lap num="16" p="15" et="457.9468" s1="3.2408" s2="7.7521" s3="6.3131" fuel="0.886">17.3059</Lap>
+<Lap num="17" p="15" et="475.2528" s1="3.3553" s2="7.8331" s3="6.3116" fuel="0.878">17.5000</Lap>
+<Lap num="18" p="15" et="492.7528" s1="3.3250" s2="7.8181" s3="6.3445" fuel="0.871">17.4876</Lap>
+<Lap num="19" p="15" et="510.2404" s1="3.3636" s2="7.8238" s3="6.2851" fuel="0.863">17.4725</Lap>
+<Lap num="20" p="15" et="527.7129" s1="3.3172" s2="7.7727" s3="6.2336" fuel="0.855">17.3235</Lap>
+<Lap num="21" p="15" et="545.0364" s1="3.2462" s2="7.6213" s3="6.1511" fuel="0.851">17.0187</Lap>
+<Lap num="22" p="15" et="562.0551" s1="3.2227" s2="7.6596" s3="6.1904" fuel="0.843">17.0727</Lap>
+<Lap num="23" p="13" et="579.1278" s1="3.2610" s2="7.5748" s3="6.1728" fuel="0.835">17.0086</Lap>
+<Lap num="24" p="11" et="596.1365" s1="3.2587" s2="7.6576" s3="6.2315" fuel="0.831">17.1478</Lap>
+<Lap num="25" p="8" et="613.2842" s1="3.2468" s2="7.6293" s3="6.1780" fuel="0.824">17.0541</Lap>
+<BestLapTime>17.0086</BestLapTime>
+<FinishTime>596.5192</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Frank Morris</Name>
+<Connected>1</Connected>
+<VehFile>S_141.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#141 American Green-White</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>141</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>10</GridPos>
+<Position>16</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>7</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="39.4787" s1="4.3781" s2="16.7910" s3="6.3735" fuel="0.980">27.5427</Lap>
+<Lap num="2" p="16" et="67.0213" s1="4.0876" s2="19.3938" s3="14.3000" fuel="0.976">37.7814</Lap>
+<Lap num="3" p="16" et="104.8028" s1="7.4500" s2="18.6500" s3="16.1582" fuel="0.969">42.2582</Lap>
+<Lap num="4" p="16" et="147.0610" s1="7.0761" s2="18.1907" s3="16.2288" fuel="0.965">41.4956</Lap>
+<Lap num="5" p="16" et="188.5566" s1="6.5566" s2="19.2778" s3="15.5152" fuel="0.957">41.3497</Lap>
+<Lap num="6" p="16" et="229.9063" s1="7.3465" s2="18.9250" s3="15.2000" fuel="0.949">41.4715</Lap>
+<Lap num="7" p="16" et="271.3778" s1="7.1582" s2="19.3168" s3="15.0500" fuel="0.945">41.5250</Lap>
+<Lap num="8" p="16" et="312.9028" s1="7.2841" s2="10.5159" s3="6.2885" fuel="0.937">24.0886</Lap>
+<Lap num="9" p="16" et="336.9913" s1="3.3205" s2="7.8409" s3="6.2526" fuel="0.925">17.4141</Lap>
+<Lap num="10" p="16" et="354.4054" s1="3.3558" s2="7.8995" s3="6.2720" fuel="0.922">17.5273</Lap>
+<Lap num="11" p="16" et="371.9327" s1="3.2450" s2="7.6613" s3="6.1718" fuel="0.914">17.0782</Lap>
+<Lap num="12" p="16" et="389.0109" s1="3.3683" s2="7.8591" s3="6.3735" fuel="0.906">17.6009</Lap>
+<Lap num="13" p="16" et="406.6118" s1="3.3227" s2="7.7247" s3="6.2468" fuel="0.898">17.2942</Lap>
+<Lap num="14" p="16" et="423.9060" s1="3.3764" s2="7.7203" s3="5.9158" fuel="0.890">17.0126</Lap>
+<BestLapTime>17.0126</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Engine</DNFReason>
+<ControlAndAids startLap="1" endLap="14">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Travis Bickle</Name>
+<Connected>1</Connected>
+<VehFile>C_74.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#74 Taxi</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>74</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>15</GridPos>
+<Position>10</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>5</Points>
+<ClassPoints>12</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="41.8912" s1="3.2366" s2="8.2000" s3="6.3500" fuel="0.984">17.7866</Lap>
+<Lap num="2" p="13" et="59.6778" s1="6.9250" s2="22.2118" s3="14.3484" fuel="0.976">43.4853</Lap>
+<Lap num="3" p="13" et="103.1630" s1="7.6701" s2="18.5274" s3="15.9422" fuel="0.973">42.1397</Lap>
+<Lap num="4" p="13" et="145.3028" s1="7.2834" s2="18.3166" s3="16.1500" fuel="0.965">41.7500</Lap>
+<Lap num="5" p="13" et="187.0528" s1="6.6058" s2="19.2514" s3="15.2178" fuel="0.961">41.0750</Lap>
+<Lap num="6" p="13" et="228.1278" s1="7.7062" s2="18.8188" s3="15.1759" fuel="0.953">41.7009</Lap>
+<Lap num="7" p="13" et="269.8286" s1="7.1991" s2="19.2534" s3="15.0966" fuel="0.949">41.5491</Lap>
+<Lap num="8" p="13" et="311.3778" s1="7.2000" s2="11.3413" s3="6.3875" fuel="0.941">24.9288</Lap>
+<Lap num="9" p="13" et="336.3065" s1="3.3462" s2="7.6362" s3="6.0691" fuel="0.933">17.0515</Lap>
+<Lap num="10" p="13" et="353.3581" s1="3.3476" s2="7.8345" s3="6.2147" fuel="0.925">17.3969</Lap>
+<Lap num="11" p="13" et="370.7549" s1="3.2374" s2="7.6283" s3="6.1636" fuel="0.918">17.0294</Lap>
+<Lap num="12" p="13" et="387.7843" s1="3.3435" s2="7.7525" s3="6.2975" fuel="0.914">17.3935</Lap>
+<Lap num="13" p="13" et="405.1778" s1="3.3410" s2="7.6926" s3="6.0857" fuel="0.906">17.1193</Lap>
+<Lap num="14" p="13" et="422.2971" s1="3.3169" s2="7.8236" s3="6.3671" fuel="0.898">17.5077</Lap>
+<Lap num="15" p="13" et="439.8048" s1="3.3085" s2="7.6645" s3="6.3500" fuel="0.890">17.3230</Lap>
+<Lap num="16" p="13" et="457.1278" s1="3.3422" s2="7.8328" s3="6.3631" fuel="0.886">17.5381</Lap>
+<Lap num="17" p="13" et="474.6659" s1="3.3229" s2="7.8640" s3="6.3500" fuel="0.878">17.5369</Lap>
+<Lap num="18" p="13" et="492.2028" s1="3.3103" s2="7.7043" s3="6.3674" fuel="0.871">17.3821</Lap>
+<Lap num="19" p="13" et="509.5848" s1="3.3429" s2="7.8050" s3="6.3765" fuel="0.867">17.5245</Lap>
+<Lap num="20" p="13" et="527.1093" s1="3.3435" s2="7.7923" s3="6.2177" fuel="0.859">17.3534</Lap>
+<Lap num="21" p="13" et="544.4627" s1="3.2281" s2="7.6235" s3="6.2384" fuel="0.851">17.0901</Lap>
+<Lap num="22" p="11" et="561.5528" s1="3.1907" s2="7.6101" s3="6.2688" fuel="0.843">17.0697</Lap>
+<Lap num="23" p="10" et="578.6225" s1="3.2646" s2="7.7191" s3="6.1889" fuel="0.835">17.1727</Lap>
+<Lap num="24" p="9" et="595.7952" s1="3.2211" s2="7.6615" s3="6.3852" fuel="0.831">17.2678</Lap>
+<Lap num="25" p="10" et="613.0630" s1="3.3473" s2="7.7925" s3="6.3576" fuel="0.824">17.4974</Lap>
+<BestLapTime>17.0294</BestLapTime>
+<FinishTime>596.7413</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Max Zachem</Name>
+<Connected>1</Connected>
+<VehFile>ZACHEM_20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#20 Foxwoods Casinos Sedan</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>MPZ Motorsports</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>2</GridPos>
+<Position>2</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>20</Points>
+<ClassPoints>22</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="36.9028" s1="3.3750" s2="8.2502" s3="6.1572" fuel="0.984">17.7825</Lap>
+<Lap num="2" p="3" et="54.6852" s1="6.0675" s2="22.6842" s3="14.5684" fuel="0.976">43.3202</Lap>
+<Lap num="3" p="3" et="98.0054" s1="7.7724" s2="18.9312" s3="14.9188" fuel="0.973">41.6224</Lap>
+<Lap num="4" p="3" et="139.6278" s1="7.7510" s2="18.9747" s3="14.8757" fuel="0.969">41.6014</Lap>
+<Lap num="5" p="3" et="181.2292" s1="7.7742" s2="18.9995" s3="14.8508" fuel="0.961">41.6244</Lap>
+<Lap num="6" p="3" et="222.8535" s1="7.7596" s2="19.0154" s3="14.8492" fuel="0.957">41.6242</Lap>
+<Lap num="7" p="3" et="264.4778" s1="7.7250" s2="19.0750" s3="14.8750" fuel="0.949">41.6750</Lap>
+<Lap num="8" p="3" et="306.1528" s1="7.7000" s2="12.4425" s3="6.8893" fuel="0.941">27.0318</Lap>
+<Lap num="9" p="3" et="333.1846" s1="3.2968" s2="7.6793" s3="6.1823" fuel="0.937">17.1585</Lap>
+<Lap num="10" p="1" et="350.3431" s1="3.2279" s2="7.6686" s3="6.2035" fuel="0.929">17.1000</Lap>
+<Lap num="11" p="1" et="367.4431" s1="3.2347" s2="7.6500" s3="6.2069" fuel="0.922">17.0916</Lap>
+<Lap num="12" p="1" et="384.5347" s1="3.2397" s2="7.6441" s3="6.1875" fuel="0.914">17.0712</Lap>
+<Lap num="13" p="1" et="401.6060" s1="3.2418" s2="7.6639" s3="6.2017" fuel="0.906">17.1074</Lap>
+<Lap num="14" p="1" et="418.7133" s1="3.2289" s2="7.6491" s3="6.2138" fuel="0.898">17.0917</Lap>
+<Lap num="15" p="1" et="435.8051" s1="3.2237" s2="7.6343" s3="6.1897" fuel="0.894">17.0477</Lap>
+<Lap num="16" p="2" et="452.8528" s1="3.2351" s2="7.6649" s3="6.3698" fuel="0.882">17.2698</Lap>
+<Lap num="17" p="2" et="470.1226" s1="3.4552" s2="7.7894" s3="6.2165" fuel="0.878">17.4611</Lap>
+<Lap num="18" p="2" et="487.5837" s1="3.2360" s2="7.6381" s3="6.1949" fuel="0.871">17.0691</Lap>
+<Lap num="19" p="2" et="504.6528" s1="3.2359" s2="7.6641" s3="6.1880" fuel="0.863">17.0880</Lap>
+<Lap num="20" p="2" et="521.7408" s1="3.2271" s2="7.6476" s3="6.2171" fuel="0.855">17.0918</Lap>
+<Lap num="21" p="2" et="538.8325" s1="3.2404" s2="7.6484" s3="6.1879" fuel="0.847">17.0766</Lap>
+<Lap num="22" p="2" et="555.9091" s1="3.2383" s2="7.6553" s3="6.1859" fuel="0.843">17.0796</Lap>
+<Lap num="23" p="2" et="572.9887" s1="3.2296" s2="7.6594" s3="6.2086" fuel="0.835">17.0977</Lap>
+<Lap num="24" p="2" et="590.0864" s1="3.2304" s2="7.6360" s3="6.1894" fuel="0.827">17.0558</Lap>
+<Lap num="25" p="2" et="607.1422" s1="3.2486" s2="7.6620" s3="6.1836" fuel="0.820">17.0942</Lap>
+<BestLapTime>17.0477</BestLapTime>
+<FinishTime>590.4173</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>David Manning</Name>
+<Connected>1</Connected>
+<VehFile>LCF_89.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#28 Sony Wako</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>28</CarNumber>
+<TeamName>Sony Wako Team</TeamName>
+<isPlayer>0</isPlayer>
+<GridPos>11</GridPos>
+<Position>14</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>1</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="40.0370" s1="3.6953" s2="8.5041" s3="6.3860" fuel="0.984">18.5854</Lap>
+<Lap num="2" p="8" et="58.6224" s1="5.7060" s2="21.6386" s3="14.5608" fuel="0.976">41.9054</Lap>
+<Lap num="3" p="8" et="100.5278" s1="7.8500" s2="18.6573" s3="15.2177" fuel="0.973">41.7250</Lap>
+<Lap num="4" p="8" et="142.2528" s1="7.6824" s2="18.7927" s3="15.5600" fuel="0.965">42.0350</Lap>
+<Lap num="5" p="8" et="184.2878" s1="7.0900" s2="19.1250" s3="14.8558" fuel="0.961">41.0708</Lap>
+<Lap num="6" p="8" et="225.3586" s1="8.0565" s2="18.7496" s3="14.9630" fuel="0.953">41.7692</Lap>
+<Lap num="7" p="8" et="267.1278" s1="7.4250" s2="19.2250" s3="15.0254" fuel="0.949">41.6754</Lap>
+<Lap num="8" p="8" et="308.8032" s1="7.3079" s2="12.3078" s3="6.5730" fuel="0.941">26.1887</Lap>
+<Lap num="9" p="8" et="334.9919" s1="3.2386" s2="7.6153" s3="6.2116" fuel="0.933">17.0655</Lap>
+<Lap num="10" p="8" et="352.0574" s1="3.3454" s2="7.7593" s3="6.2007" fuel="0.925">17.3054</Lap>
+<Lap num="11" p="8" et="369.3627" s1="3.2318" s2="7.6749" s3="6.3428" fuel="0.918">17.2495</Lap>
+<Lap num="12" p="8" et="386.6122" s1="3.2931" s2="7.8081" s3="6.2802" fuel="0.914">17.3815</Lap>
+<Lap num="13" p="8" et="403.9937" s1="3.2138" s2="7.6018" s3="6.3618" fuel="0.906">17.1774</Lap>
+<Lap num="14" p="8" et="421.1711" s1="3.3172" s2="7.8279" s3="6.3404" fuel="0.898">17.4856</Lap>
+<Lap num="15" p="8" et="438.6566" s1="3.3284" s2="7.8865" s3="6.3493" fuel="0.890">17.5643</Lap>
+<Lap num="16" p="8" et="456.2209" s1="3.3319" s2="7.8500" s3="6.4000" fuel="0.886">17.5819</Lap>
+<Lap num="17" p="8" et="473.8028" s1="3.2894" s2="7.8856" s3="6.3161" fuel="0.878">17.4911</Lap>
+<Lap num="18" p="8" et="491.2939" s1="3.3430" s2="7.8659" s3="6.3915" fuel="0.875">17.6005</Lap>
+<Lap num="19" p="9" et="508.8943" s1="3.3040" s2="7.8628" s3="6.4216" fuel="0.867">17.5883</Lap>
+<Lap num="20" p="10" et="526.4827" s1="3.2201" s2="7.8906" s3="6.3407" fuel="0.859">17.4514</Lap>
+<Lap num="21" p="12" et="543.9340" s1="3.3359" s2="7.8417" s3="6.3941" fuel="0.855">17.5717</Lap>
+<Lap num="22" p="14" et="561.5057" s1="3.3045" s2="7.8558" s3="6.3118" fuel="0.847">17.4720</Lap>
+<Lap num="23" p="15" et="578.9778" s1="3.2610" s2="7.8243" s3="6.3702" fuel="0.839">17.4554</Lap>
+<Lap num="24" p="14" et="596.4332" s1="3.3309" s2="7.8409" s3="6.3228" fuel="0.835">17.4946</Lap>
+<Lap num="25" p="14" et="613.9278" s1="3.3430" s2="7.7391" s3="6.3057" fuel="0.827">17.3878</Lap>
+<BestLapTime>17.0655</BestLapTime>
+<FinishTime>597.4965</FinishTime>
+<Laps>25</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">AIControl</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>

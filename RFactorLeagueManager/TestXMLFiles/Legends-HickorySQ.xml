@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Race Weekend</Setting>
+<PlayerFile>Richard Matthews</PlayerFile>
+<DateTime>1367133414</DateTime>
+<TimeString>2013/04/28 00:16:54</TimeString>
+<Mod>NALCRA.rfm</Mod>
+<Season></Season>
+<TrackVenue>JNS Legends Tracks</TrackVenue>
+<TrackCourse>Hickory Legends</TrackCourse>
+<TrackEvent>JNS Hickory Legends</TrackEvent>
+<TrackLength>576.4</TrackLength>
+<GameVersion>1.255</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>25</RaceLaps>
+<RaceTime>0</RaceTime>
+<MechFailRate>2</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|NALCRA</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1367133456</DateTime>
+<TimeString>2013/04/28 00:17:36</TimeString>
+<Laps>4</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Score et="37.7">Richard Matthews(0) lap=0 point=1 t=-1.000 et=37.628</Score>
+<Score et="46.8">Richard Matthews(0) lap=0 point=2 t=-1.000 et=46.778</Score>
+<Score et="50.3">Matt Johnson(3) lap=0 point=1 t=-1.000 et=50.262</Score>
+<Score et="53.1">Richard Matthews(0) lap=1 point=0 t=-1.000 et=53.038</Score>
+<Score et="56.2">Richard Matthews(0) lap=1 point=1 t=3.106 et=56.144</Score>
+<Score et="58.8">Matt Johnson(3) lap=0 point=2 t=-1.000 et=58.803</Score>
+<Score et="63.6">Richard Matthews(0) lap=1 point=2 t=10.535 et=63.573</Score>
+<Score et="65.0">Matt Johnson(3) lap=1 point=0 t=-1.000 et=64.988</Score>
+<Score et="68.2">Matt Johnson(3) lap=1 point=1 t=3.229 et=68.217</Score>
+<Score et="69.6">Richard Matthews(0) lap=2 point=0 t=16.567 et=69.604</Score>
+<Score et="72.6">Richard Matthews(0) lap=2 point=1 t=3.000 et=72.605</Score>
+<Score et="73.5">Bob Weymouth(1) lap=0 point=1 t=-1.000 et=73.494</Score>
+<Score et="75.9">Matt Johnson(3) lap=1 point=2 t=10.865 et=75.853</Score>
+<Score et="77.6">Simo Pukka(7) lap=0 point=1 t=-1.000 et=77.564</Score>
+<Score et="78.7">Keijo Hiili(13) lap=0 point=1 t=-1.000 et=78.663</Score>
+<Score et="80.1">Richard Matthews(0) lap=2 point=2 t=10.482 et=80.086</Score>
+<Score et="82.1">Matt Johnson(3) lap=2 point=0 t=17.053 et=82.041</Score>
+<Score et="82.1">Bob Weymouth(1) lap=0 point=2 t=-1.000 et=82.078</Score>
+<Score et="85.3">Matt Johnson(3) lap=2 point=1 t=3.228 et=85.268</Score>
+<Score et="86.1">Richard Matthews(0) lap=3 point=0 t=16.425 et=86.029</Score>
+<Score et="86.1">Simo Pukka(7) lap=0 point=2 t=-1.000 et=86.053</Score>
+<Score et="87.2">Keijo Hiili(13) lap=0 point=2 t=-1.000 et=87.203</Score>
+<Score et="88.3">Bob Weymouth(1) lap=1 point=0 t=-1.000 et=88.265</Score>
+<Score et="89.1">Richard Matthews(0) lap=3 point=1 t=3.037 et=89.066</Score>
+<Score et="90.3">Frank Morris(12) lap=0 point=1 t=-1.000 et=90.228</Score>
+<Score et="91.5">Bob Weymouth(1) lap=1 point=1 t=3.256 et=91.520</Score>
+<Score et="92.3">Simo Pukka(7) lap=1 point=0 t=-1.000 et=92.253</Score>
+<Score et="93.4">Keijo Hiili(13) lap=1 point=0 t=-1.000 et=93.403</Score>
+<Score et="95.5">Simo Pukka(7) lap=1 point=1 t=3.221 et=95.474</Score>
+<Score et="96.5">Matt Johnson(3) lap=2 point=2 t=-1.000 et=96.478</Score>
+<Score et="96.7">Keijo Hiili(13) lap=1 point=1 t=3.227 et=96.629</Score>
+<Score et="98.7">Frank Morris(12) lap=0 point=2 t=-1.000 et=98.670</Score>
+<Score et="100.4">Bob Weymouth(1) lap=1 point=2 t=12.088 et=100.353</Score>
+<Score et="103.1">Simo Pukka(7) lap=1 point=2 t=10.834 et=103.087</Score>
+<Score et="103.4">JC Pommier(14) lap=0 point=1 t=-1.000 et=103.342</Score>
+<Score et="103.9">Richard Matthews(0) lap=3 point=2 t=-1.000 et=103.855</Score>
+<Score et="104.3">Keijo Hiili(13) lap=1 point=2 t=10.856 et=104.259</Score>
+<Score et="104.9">Frank Morris(12) lap=1 point=0 t=-1.000 et=104.862</Score>
+<Score et="105.2">Matt Johnson(3) lap=3 point=0 t=-1.000 et=105.128</Score>
+<Score et="106.6">Bob Weymouth(1) lap=2 point=0 t=18.288 et=106.553</Score>
+<Score et="108.1">Frank Morris(12) lap=1 point=1 t=3.235 et=108.097</Score>
+<Score et="109.3">Simo Pukka(7) lap=2 point=0 t=17.032 et=109.285</Score>
+<Score et="109.8">Bob Weymouth(1) lap=2 point=1 t=3.225 et=109.778</Score>
+<Score et="110.5">Keijo Hiili(13) lap=2 point=0 t=17.057 et=110.459</Score>
+<Score et="111.9">JC Pommier(14) lap=0 point=2 t=-1.000 et=111.828</Score>
+<Score et="112.5">Simo Pukka(7) lap=2 point=1 t=3.236 et=112.521</Score>
+<Score et="113.7">Keijo Hiili(13) lap=2 point=1 t=3.233 et=113.692</Score>
+<Score et="115.8">Frank Morris(12) lap=1 point=2 t=10.882 et=115.744</Score>
+<Score et="116.6">Richard Matthews(0) lap=4 point=0 t=-1.000 et=116.645</Score>
+<Score et="118.1">JC Pommier(14) lap=1 point=0 t=-1.000 et=118.028</Score>
+<Score et="119.6">James Conway(15) lap=0 point=1 t=-1.000 et=119.568</Score>
+<Score et="121.0">Bob Weymouth(1) lap=2 point=2 t=-1.000 et=120.980</Score>
+<Score et="121.3">JC Pommier(14) lap=1 point=1 t=3.207 et=121.235</Score>
+<Score et="122.0">Frank Morris(12) lap=2 point=0 t=17.075 et=121.938</Score>
+<Score et="123.8">Simo Pukka(7) lap=2 point=2 t=-1.000 et=123.728</Score>
+<Score et="125.0">Keijo Hiili(13) lap=2 point=2 t=-1.000 et=124.929</Score>
+<Score et="125.2">Frank Morris(12) lap=2 point=1 t=3.226 et=125.163</Score>
+<Score et="128.1">James Conway(15) lap=0 point=2 t=-1.000 et=128.103</Score>
+<Score et="129.0">JC Pommier(14) lap=1 point=2 t=10.965 et=128.993</Score>
+<Score et="132.6">Bob Weymouth(1) lap=3 point=0 t=-1.000 et=132.553</Score>
+<Score et="133.3">Keijo Hiili(13) lap=3 point=0 t=-1.000 et=133.278</Score>
+<Score et="134.3">James Conway(15) lap=1 point=0 t=-1.000 et=134.303</Score>
+<Score et="135.0">Simo Pukka(7) lap=3 point=0 t=-1.000 et=134.928</Score>
+<Score et="135.2">JC Pommier(14) lap=2 point=0 t=17.159 et=135.187</Score>
+<Score et="136.4">Frank Morris(12) lap=2 point=2 t=-1.000 et=136.378</Score>
+<Score et="137.6">James Conway(15) lap=1 point=1 t=3.221 et=137.524</Score>
+<Score et="138.4">JC Pommier(14) lap=2 point=1 t=3.229 et=138.416</Score>
+<Score et="145.2">James Conway(15) lap=1 point=2 t=10.858 et=145.160</Score>
+<Score et="145.3">David Manning(8) lap=0 point=1 t=-1.000 et=145.228</Score>
+<Score et="145.8">Frank Morris(12) lap=3 point=0 t=-1.000 et=145.778</Score>
+<Score et="147.2">Nicholas Angel(6) lap=0 point=1 t=-1.000 et=147.206</Score>
+<Score et="149.7">JC Pommier(14) lap=2 point=2 t=-1.000 et=149.628</Score>
+<Score et="151.4">James Conway(15) lap=2 point=0 t=17.056 et=151.358</Score>
+<Score et="153.8">David Manning(8) lap=0 point=2 t=-1.000 et=153.703</Score>
+<Score et="154.6">James Conway(15) lap=2 point=1 t=3.244 et=154.603</Score>
+<Score et="155.7">Nicholas Angel(6) lap=0 point=2 t=-1.000 et=155.680</Score>
+<Score et="157.0">JC Pommier(14) lap=3 point=0 t=-1.000 et=157.003</Score>
+<Score et="159.9">David Manning(8) lap=1 point=0 t=-1.000 et=159.903</Score>
+<Score et="161.9">Nicholas Angel(6) lap=1 point=0 t=-1.000 et=161.878</Score>
+<Score et="163.2">David Manning(8) lap=1 point=1 t=3.231 et=163.134</Score>
+<Score et="165.1">Nicholas Angel(6) lap=1 point=1 t=3.227 et=165.104</Score>
+<Score et="165.9">James Conway(15) lap=2 point=2 t=-1.000 et=165.834</Score>
+<Score et="170.8">David Manning(8) lap=1 point=2 t=10.883 et=170.786</Score>
+<Score et="171.8">James Conway(15) lap=3 point=0 t=-1.000 et=171.803</Score>
+<Score et="172.8">Nicholas Angel(6) lap=1 point=2 t=10.859 et=172.737</Score>
+<Score et="177.0">David Manning(8) lap=2 point=0 t=17.076 et=176.979</Score>
+<Score et="179.0">Nicholas Angel(6) lap=2 point=0 t=17.056 et=178.933</Score>
+<Score et="180.2">David Manning(8) lap=2 point=1 t=3.236 et=180.215</Score>
+<Score et="182.2">Nicholas Angel(6) lap=2 point=1 t=3.233 et=182.167</Score>
+<Score et="185.8">Fabrizio Telasio(5) lap=0 point=1 t=-1.000 et=185.729</Score>
+<Score et="191.5">David Manning(8) lap=2 point=2 t=-1.000 et=191.428</Score>
+<Score et="193.4">Nicholas Angel(6) lap=2 point=2 t=-1.000 et=193.378</Score>
+<Score et="194.2">Fabrizio Telasio(5) lap=0 point=2 t=-1.000 et=194.211</Score>
+<Score et="200.2">Nicholas Angel(6) lap=3 point=0 t=-1.000 et=200.128</Score>
+<Score et="200.4">Fabrizio Telasio(5) lap=1 point=0 t=-1.000 et=200.333</Score>
+<Score et="203.4">David Manning(8) lap=3 point=0 t=-1.000 et=203.396</Score>
+<Score et="203.6">Fabrizio Telasio(5) lap=1 point=1 t=3.221 et=203.554</Score>
+<Score et="205.8">Max Zachem(2) lap=0 point=1 t=-1.000 et=205.728</Score>
+<Score et="211.2">Fabrizio Telasio(5) lap=1 point=2 t=10.858 et=211.191</Score>
+<Score et="214.2">Max Zachem(2) lap=0 point=2 t=-1.000 et=214.203</Score>
+<Score et="217.4">Fabrizio Telasio(5) lap=2 point=0 t=17.085 et=217.418</Score>
+<Score et="220.5">Max Zachem(2) lap=1 point=0 t=-1.000 et=220.403</Score>
+<Score et="220.7">Fabrizio Telasio(5) lap=2 point=1 t=3.279 et=220.697</Score>
+<Score et="223.7">Max Zachem(2) lap=1 point=1 t=3.225 et=223.628</Score>
+<Score et="225.7">Jesse Bunnell(4) lap=0 point=1 t=-1.000 et=225.688</Score>
+<Score et="226.7">Marja Koel(10) lap=0 point=1 t=-1.000 et=226.678</Score>
+<Score et="227.0">Travis Bickle(11) lap=0 point=1 t=-1.000 et=226.903</Score>
+<Score et="231.3">Max Zachem(2) lap=1 point=2 t=10.836 et=231.239</Score>
+<Score et="232.0">Fabrizio Telasio(5) lap=2 point=2 t=-1.000 et=232.003</Score>
+<Score et="234.2">Jesse Bunnell(4) lap=0 point=2 t=-1.000 et=234.165</Score>
+<Score et="235.1">Marja Koel(10) lap=0 point=2 t=-1.000 et=235.103</Score>
+<Score et="235.4">Travis Bickle(11) lap=0 point=2 t=-1.000 et=235.365</Score>
+<Score et="237.4">Max Zachem(2) lap=2 point=0 t=16.975 et=237.378</Score>
+<Score et="240.4">Jesse Bunnell(4) lap=1 point=0 t=-1.000 et=240.357</Score>
+<Score et="240.6">Max Zachem(2) lap=2 point=1 t=3.234 et=240.612</Score>
+<Score et="241.3">Marja Koel(10) lap=1 point=0 t=-1.000 et=241.303</Score>
+<Score et="241.6">Travis Bickle(11) lap=1 point=0 t=-1.000 et=241.553</Score>
+<Score et="243.5">Fabrizio Telasio(5) lap=3 point=0 t=-1.000 et=243.428</Score>
+<Score et="243.6">Jesse Bunnell(4) lap=1 point=1 t=3.232 et=243.588</Score>
+<Score et="244.6">Marja Koel(10) lap=1 point=1 t=3.236 et=244.539</Score>
+<Score et="244.8">Travis Bickle(11) lap=1 point=1 t=3.208 et=244.761</Score>
+<Score et="251.3">Jesse Bunnell(4) lap=1 point=2 t=10.878 et=251.234</Score>
+<Score et="251.8">Max Zachem(2) lap=2 point=2 t=-1.000 et=251.803</Score>
+<Score et="252.2">Marja Koel(10) lap=1 point=2 t=10.903 et=252.206</Score>
+<Score et="252.6">Travis Bickle(11) lap=1 point=2 t=11.026 et=252.579</Score>
+<Score et="257.4">Jesse Bunnell(4) lap=2 point=0 t=17.012 et=257.368</Score>
+<Score et="258.4">Marja Koel(10) lap=2 point=0 t=17.039 et=258.341</Score>
+<Score et="259.0">Travis Bickle(11) lap=2 point=0 t=17.384 et=258.937</Score>
+<Score et="260.6">Jesse Bunnell(4) lap=2 point=1 t=3.252 et=260.620</Score>
+<Score et="261.6">Marja Koel(10) lap=2 point=1 t=3.250 et=261.591</Score>
+<Score et="262.3">Travis Bickle(11) lap=2 point=1 t=3.375 et=262.312</Score>
+<Score et="264.7">Max Zachem(2) lap=3 point=0 t=-1.000 et=264.653</Score>
+<Score et="271.9">Jesse Bunnell(4) lap=2 point=2 t=-1.000 et=271.828</Score>
+<Score et="272.9">Marja Koel(10) lap=2 point=2 t=-1.000 et=272.911</Score>
+<Score et="273.8">Travis Bickle(11) lap=2 point=2 t=-1.000 et=273.778</Score>
+<Score et="278.8">Joshua Grouseman(9) lap=0 point=1 t=-1.000 et=278.778</Score>
+<Score et="283.5">Jesse Bunnell(4) lap=3 point=0 t=-1.000 et=283.469</Score>
+<Score et="284.2">Travis Bickle(11) lap=3 point=0 t=-1.000 et=284.178</Score>
+<Score et="285.1">Marja Koel(10) lap=3 point=0 t=-1.000 et=285.053</Score>
+<Score et="287.3">Joshua Grouseman(9) lap=0 point=2 t=-1.000 et=287.254</Score>
+<Score et="293.5">Joshua Grouseman(9) lap=1 point=0 t=-1.000 et=293.453</Score>
+<Score et="296.7">Joshua Grouseman(9) lap=1 point=1 t=3.238 et=296.691</Score>
+<Score et="304.4">Joshua Grouseman(9) lap=1 point=2 t=10.899 et=304.353</Score>
+<Score et="310.6">Joshua Grouseman(9) lap=2 point=0 t=17.099 et=310.553</Score>
+<Score et="313.8">Joshua Grouseman(9) lap=2 point=1 t=3.221 et=313.774</Score>
+<Score et="325.0">Joshua Grouseman(9) lap=2 point=2 t=-1.000 et=324.986</Score>
+<Score et="335.3">Joshua Grouseman(9) lap=3 point=0 t=-1.000 et=335.228</Score>
+</Stream>
+<MostLapsCompleted>4</MostLapsCompleted>
+<Driver>
+<Name>Richard Matthews</Name>
+<Connected>1</Connected>
+<VehFile>C_138.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#138 American Black-Red</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>138</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>1</isPlayer>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>1</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="--.---" fuel="0.306">--.----</Lap>
+<Lap num="2" p="1" et="53.0376" s1="3.1063" s2="7.4290" s3="6.0314" fuel="0.302">16.5666</Lap>
+<Lap num="3" p="1" et="69.6042" s1="3.0004" s2="7.4814" s3="5.9429" fuel="0.294">16.4247</Lap>
+<Lap num="4" p="1" et="86.0289" s1="3.0371" fuel="0.290" pit="1">--.----</Lap>
+<BestLapTime>16.4247</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Max Zachem</Name>
+<Connected>1</Connected>
+<VehFile>ZACHEM_20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#20 Foxwoods Casinos Sedan</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>20</CarNumber>
+<TeamName>MPZ Motorsports</TeamName>
+<isPlayer>0</isPlayer>
+<Position>2</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="2" et="220.4028" s1="3.2250" s2="7.6112" s3="6.1387" fuel="0.224">16.9750</Lap>
+<Lap num="3" p="2" et="237.3778" s1="3.2339" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>16.9750</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jesse Bunnell</Name>
+<Connected>1</Connected>
+<VehFile>BUNNELL_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#96 ABS Insulating Sedan</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Beattie Racing</TeamName>
+<isPlayer>0</isPlayer>
+<Position>3</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="3" et="240.3566" s1="3.2318" s2="7.6461" s3="6.1336" fuel="0.224">17.0115</Lap>
+<Lap num="3" p="3" et="257.3681" s1="3.2520" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0115</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Simo Pukka</Name>
+<Connected>1</Connected>
+<VehFile>C_71.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#71 Shell</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>71</CarNumber>
+<TeamName>Team Shell</TeamName>
+<isPlayer>0</isPlayer>
+<Position>4</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="2" et="92.2528" s1="3.2215" s2="7.6128" s3="6.1981" fuel="0.224">17.0324</Lap>
+<Lap num="3" p="2" et="109.2851" s1="3.2362" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0324</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Marja Koel</Name>
+<Connected>1</Connected>
+<VehFile>F34C_H96.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#96 Marja Koel</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>ReWe Motorsport</TeamName>
+<isPlayer>0</isPlayer>
+<Position>5</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="5" et="241.3028" s1="3.2359" s2="7.6674" s3="6.1353" fuel="0.224">17.0387</Lap>
+<Lap num="3" p="5" et="258.3415" s1="3.2498" fuel="0.216" pit="1">--.----</Lap>
+<BestLapTime>17.0387</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Matt Johnson</Name>
+<Connected>1</Connected>
+<VehFile>S_140.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#140 American Yellow-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>140</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<Position>6</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="2" et="64.9880" s1="3.2286" s2="7.6362" s3="6.1878" fuel="0.224">17.0526</Lap>
+<Lap num="3" p="2" et="82.0406" s1="3.2276" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0526</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>James Conway</Name>
+<Connected>1</Connected>
+<VehFile>C_135.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#135 American Cyan-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>135</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<Position>7</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="4" et="134.3028" s1="3.2214" s2="7.6361" s3="6.1980" fuel="0.224">17.0555</Lap>
+<Lap num="3" p="4" et="151.3583" s1="3.2445" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0555</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Nicholas Angel</Name>
+<Connected>1</Connected>
+<VehFile>S_145.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#145 American White-Orange</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>145</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<Position>8</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="5" et="161.8778" s1="3.2267" s2="7.6323" s3="6.1966" fuel="0.224">17.0556</Lap>
+<Lap num="3" p="5" et="178.9334" s1="3.2332" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0556</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Keijo Hiili</Name>
+<Connected>1</Connected>
+<VehFile>C_52.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#52 Orange-Black</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>52</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<Position>9</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="4" et="93.4028" s1="3.2266" s2="7.6291" s3="6.2008" fuel="0.224">17.0565</Lap>
+<Lap num="3" p="4" et="110.4593" s1="3.2328" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0565</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Frank Morris</Name>
+<Connected>1</Connected>
+<VehFile>S_141.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#141 American Green-White</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>141</CarNumber>
+<TeamName>Ford 34 Sedan</TeamName>
+<isPlayer>0</isPlayer>
+<Position>10</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="5" et="104.8621" s1="3.2352" s2="7.6466" s3="6.1937" fuel="0.224">17.0755</Lap>
+<Lap num="3" p="5" et="121.9376" s1="3.2257" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0755</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>David Manning</Name>
+<Connected>1</Connected>
+<VehFile>LCF_89.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#28 Sony Wako</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>28</CarNumber>
+<TeamName>Sony Wako Team</TeamName>
+<isPlayer>0</isPlayer>
+<Position>11</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="7" et="159.9028" s1="3.2312" s2="7.6517" s3="6.1934" fuel="0.224">17.0763</Lap>
+<Lap num="3" p="8" et="176.9790" s1="3.2363" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0763</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fabrizio Telasio</Name>
+<Connected>1</Connected>
+<VehFile>F34C_28.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#28 Bridgestone Team</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>28</CarNumber>
+<TeamName>Team Bridgestone</TeamName>
+<isPlayer>0</isPlayer>
+<Position>12</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="9" et="200.3332" s1="3.2205" s2="7.6375" s3="6.2267" fuel="0.224">17.0848</Lap>
+<Lap num="3" p="10" et="217.4180" s1="3.2794" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0848</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Joshua Grouseman</Name>
+<Connected>1</Connected>
+<VehFile>C_02.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#2 Orange-Black with stripes</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>2</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<Position>13</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="13" et="293.4535" s1="3.2376" s2="7.6617" s3="6.2000" fuel="0.224">17.0993</Lap>
+<Lap num="3" p="13" et="310.5528" s1="3.2214" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.0993</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>JC Pommier</Name>
+<Connected>1</Connected>
+<VehFile>LCF_43.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>J.C. Pommier #43</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>43</CarNumber>
+<TeamName>MC Racing</TeamName>
+<isPlayer>0</isPlayer>
+<Position>14</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="6" et="118.0278" s1="3.2068" s2="7.7586" s3="6.1938" fuel="0.224">17.1591</Lap>
+<Lap num="3" p="7" et="135.1869" s1="3.2288" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.1591</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Travis Bickle</Name>
+<Connected>1</Connected>
+<VehFile>C_74.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#74 Taxi</VehName>
+<CarType>NALCRA_Gen</CarType>
+<CarClass>NALCRA_Gen</CarClass>
+<CarNumber>74</CarNumber>
+<TeamName>Ford 34 Coupe</TeamName>
+<isPlayer>0</isPlayer>
+<Position>15</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="14" et="241.5528" s1="3.2083" s2="7.8179" s3="6.3583" fuel="0.224">17.3845</Lap>
+<Lap num="3" p="14" et="258.9373" s1="3.3747" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>17.3845</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Bob Weymouth</Name>
+<Connected>1</Connected>
+<VehFile>WEYMOUTH399.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>#399 Weymouth Racing</VehName>
+<CarType>NALCRA_Pro</CarType>
+<CarClass>NALCRA_Pro</CarClass>
+<CarNumber>399</CarNumber>
+<TeamName>Dairy Joy Racing</TeamName>
+<isPlayer>0</isPlayer>
+<Position>16</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.231">--.----</Lap>
+<Lap num="2" p="3" et="88.2646" s1="3.2556" s2="8.8326" s3="6.2000" fuel="0.224">18.2882</Lap>
+<Lap num="3" p="6" et="106.5528" s1="3.2253" fuel="0.220" pit="1">--.----</Lap>
+<BestLapTime>18.2882</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">AIControl</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>
